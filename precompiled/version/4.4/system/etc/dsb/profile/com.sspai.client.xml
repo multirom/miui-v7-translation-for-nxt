@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<profile>
+    <activity name="AllActivities">
+		<color>ff2b00</color>
+		<offset>2</offset>
+	</activity>	
+    <activity name="ui.activity.UserLoginActivity">
+		<color>ff1029</color>
+	</activity>
+</profile>

@@ -1,0 +1,70 @@
+/* contact_values: {bag00000000,0x02000000=vnd.android.cursor.item/name,0x02000001=vnd.android.cursor.item/nickname,0x02000002=vnd.android.cursor.item/phone_v2,0x02000003=vnd.android.cursor.item/email_v2,0x02000004=vnd.android.cursor.item/organization,0x02000005=vnd.android.cursor.item/im,0x02000006=vnd.android.cursor.item/sip_address,0x02000007=vnd.android.cursor.item/contact_event,0x02000008=vnd.android.cursor.item/website,0x02000009=vnd.android.cursor.item/postal-address_v2,0x0200000a=vnd.android.cursor.item/note} */
+    <string-array name="contact_values">
+        <item>vnd.android.cursor.item/name</item>
+        <item>vnd.android.cursor.item/nickname</item>
+        <item>vnd.android.cursor.item/phone_v2</item>
+        <item>vnd.android.cursor.item/email_v2</item>
+        <item>vnd.android.cursor.item/organization</item>
+        <item>vnd.android.cursor.item/im</item>
+        <item>vnd.android.cursor.item/sip_address</item>
+        <item>vnd.android.cursor.item/contact_event</item>
+        <item>vnd.android.cursor.item/website</item>
+        <item>vnd.android.cursor.item/postal-address_v2</item>
+        <item>vnd.android.cursor.item/note</item>
+    </string-array>
+/* default_smiley_texts: {bag00000000,0x02000000=:-),0x02000001=:-(,0x02000002=;-),0x02000003=:-P,0x02000004==-O,0x02000005=:-*,0x02000006=:O,0x02000007=B-),0x02000008=:-$,0x02000009=:-!,0x0200000a=:-[,0x0200000b=O:-),0x0200000c=:-\,0x0200000d=:'(,0x0200000e=:-X,0x0200000f=:-D,0x02000010=o_O,0x02000011=<3,0x02000012=x-(,0x02000013=:-/,0x02000014=:-I} */
+    <string-array name="default_smiley_texts">
+        <item>:-)</item>
+        <item>:-(</item>
+        <item>;-)</item>
+        <item>:-P</item>
+        <item>=-O</item>
+        <item>:-*</item>
+        <item>:O</item>
+        <item>B-)</item>
+        <item>:-$</item>
+        <item>:-!</item>
+        <item>:-[</item>
+        <item>O:-)</item>
+        <item>:-\</item>
+        <item>:'(</item>
+        <item>:-X</item>
+        <item>:-D</item>
+        <item>o_O</item>
+        <item><3</item>
+        <item>x-(</item>
+        <item>:-/</item>
+        <item>:-I</item>
+    </string-array>
+/* entryvalues_date_type: {bag00000000,0x02000000=0,0x02000001=1} */
+    <string-array name="entryvalues_date_type">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+/* prefValues_ringtone_repeat: {bag00000000,0x02000000=1,0x02000001=2,0x02000002=3,0x02000003=5,0x02000004=10} */
+    <string-array name="prefValues_ringtone_repeat">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>5</item>
+        <item>10</item>
+    </string-array>
+/* prefValues_vibrateWhen: {bag00000000,0x02000000=always,0x02000001=silent,0x02000002=never} */
+    <string-array name="prefValues_vibrateWhen">
+        <item>always</item>
+        <item>silent</item>
+        <item>never</item>
+    </string-array>
+    <string-array name="entries_mms_validity_period_value">
+        <item>0</item>
+        <item>172800</item>
+    </string-array>
+    <string-array name="entries_sms_validity_period_value">
+        <item>-1</item>
+        <item>60</item>
+        <item>360</item>
+        <item>720</item>
+        <item>1440</item>
+        <item>635040</item>
+    </string-array>
+

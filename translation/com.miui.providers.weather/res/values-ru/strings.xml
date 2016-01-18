@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="app_label">Провайдер погоды</string>
+     <string name="aqi_quality_index_break">Качество воздуха %1$s</string>
+     <string name="aqi_quality_index_dangerous">Качество воздуха %1$s</string>
+     <string name="aqi_quality_index_good">Качество воздуха %1$s</string>
+     <string name="aqi_quality_index_hazardous">Качество воздуха %1$s</string>
+     <string name="aqi_quality_index_light_pollution">Качество воздуха %1$s</string>
+     <string name="aqi_quality_index_moderate">Качество воздуха %1$s</string>
+     <string name="aqi_quality_index_pure">Качество воздуха %1$s</string>
+     <string name="aqi_quality_index_unhealthy">Качество воздуха %1$s</string>
+     <string name="view_indexes_wind_unit">км/ч</string>
+     <string name="view_realtime_clear_substitution">Ясно</string>
+</resources>

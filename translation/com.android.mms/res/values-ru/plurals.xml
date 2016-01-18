@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with CloudBuildr -->
+<resources>
+     <plurals name="confirm_delete_conversation">
+        <item quantity="one">Удалить %1$s цепочку сообщений?</item>
+        <item quantity="few">Удалить %1$s цепочки сообщений?</item>
+        <item quantity="many">Удалить %1$s цепочек сообщений?</item>
+     </plurals>
+     <plurals name="message_count">
+        <item quantity="zero">Нет сообщений</item>
+        <item quantity="one">%1$s сообщение</item>
+        <item quantity="few">%1$s сообщения</item>
+        <item quantity="many">%1$s сообщений</item>
+     </plurals>
+     <plurals name="recipient_count">
+        <item quantity="other">%1$s получ.</item>
+     </plurals>
+     <plurals name="search_results_title">
+        <item quantity="other">Поиск «%2$s» (%1$s)</item>
+        <item quantity="one">Поиск «%2$s» (%1$s)</item>
+     </plurals>
+     <plurals name="slide_audio_duration">
+        <item quantity="other">%s сек.</item>
+        <item quantity="one">%s сек.</item>
+        <item quantity="few">%s сек.</item>
+     </plurals>
+     <plurals name="slide_duration">
+        <item quantity="other">%s с.</item>
+        <item quantity="one">%s с.</item>
+        <item quantity="few">%s с.</item>
+     </plurals>
+         <plurals name="cloud_sms_count">
+        <item quantity="other">%d сообщений</item>
+        <item quantity="zero">Нет сообщений</item>
+        <item quantity="few">%d сообщения</item>
+        <item quantity="one">%d сообщение</item>
+     </plurals>
+     <plurals name="cloud_state_unsynced_count">
+        <item quantity="zero">Сообщения не синхронизированы</item>
+        <item quantity="one">%d сообщение не синхронизировано</item>
+        <item quantity="few">%d сообщения не синхронизировано</item>
+        <item quantity="many">%d сообщений не синхронизировано</item>
+     </plurals>
+</resources>

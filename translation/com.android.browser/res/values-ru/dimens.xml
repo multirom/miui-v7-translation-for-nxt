@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="homepage_search_card_height">155.0dip</dimen>
+    <dimen name="homepage_search_tempterature_height">0.0dip</dimen>
+    <dimen name="homepage_search_weather_height">0.0dip</dimen>
+</resources>

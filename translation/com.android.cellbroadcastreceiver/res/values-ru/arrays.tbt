@@ -1,0 +1,15 @@
+/* alert_reminder_interval_values: {bag00000000,0x02000000=1,0x02000001=2,0x02000002=15,0x02000003=0} */
+    <string-array name="alert_reminder_interval_values">
+        <item>1</item>
+        <item>2</item>
+        <item>15</item>
+        <item>0</item>
+    </string-array>
+/* alert_sound_duration_values: {bag00000000,0x02000000=2,0x02000001=4,0x02000002=6,0x02000003=8,0x02000004=10} */
+    <string-array name="alert_sound_duration_values">
+        <item>2</item>
+        <item>4</item>
+        <item>6</item>
+        <item>8</item>
+        <item>10</item>
+    </string-array>

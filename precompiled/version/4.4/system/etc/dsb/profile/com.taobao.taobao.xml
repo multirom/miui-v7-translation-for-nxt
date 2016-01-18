@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<profile>
+	<activity name="com.taobao.tao.homepage.MainActivity3">
+		<color>ff5000</color>
+	</activity>
+</profile>

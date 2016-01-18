@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="app_name">Dolby Audio</string>
+     <string name="game">Игра</string>
+     <string name="movie">Кино</string>
+     <string name="music">Музыка</string>
+     <string name="name_widget_extra_large">Dolby</string>
+     <string name="name_widget_large">Dolby</string>
+     <string name="name_widget_small">Dolby</string>
+     <string name="preset_1">Пресет 1</string>
+     <string name="preset_2">Пресет 2</string>
+     <string name="remote_service_stopped">Удаленная служба остановлена</string>
+     <string name="voice">Голос</string>
+</resources>

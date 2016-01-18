@@ -1,0 +1,10 @@
+<string name="mi_service_framework_pkg">com.xiaomi.xmsf</string>
+<string name="operator_name_cmcc">China Mobile</string>
+<string name="operator_name_telcom">China Telecom</string>
+<string name="operator_name_unicom">China Unicom</string>
+<string name="operator_number_cmcc">10086</string>
+<string name="operator_number_telcom">10000</string>
+<string name="operator_number_unicom">10010</string>
+<string name="pref_key_new_installed_app_firewall_mobile">pref_key_new_installed_app_firewall_mobile</string>
+<string name="pref_key_new_installed_app_firewall_wifi">pref_key_new_installed_app_firewall_wifi</string>
+<string name="text_day"></string>

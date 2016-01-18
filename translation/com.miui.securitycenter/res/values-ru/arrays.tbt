@@ -1,0 +1,12 @@
+/* alarm_repeat_type_no_workdays_values: {bag00000000,0x02000000={t=0x10 d=0x00000000},0x02000001={t=0x10 d=0x00000001},0x02000002={t=0x10 d=0x00000003},0x02000003={t=0x10 d=0x00000004}} */
+    <string-array name="alarm_repeat_type_no_workdays_values">
+    </string-array>
+/* alarm_repeat_type_values: {bag00000000,0x02000000={t=0x10 d=0x00000000},0x02000001={t=0x10 d=0x00000001},0x02000002={t=0x10 d=0x00000002},0x02000003={t=0x10 d=0x00000003},0x02000004={t=0x10 d=0x00000004}} */
+    <string-array name="alarm_repeat_type_values">
+    </string-array>
+/* power_dialog_vibration_items_values: {bag00000000,0x02000000=0,0x02000001=1,0x02000002=2} */
+    <string-array name="power_dialog_vibration_items_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>

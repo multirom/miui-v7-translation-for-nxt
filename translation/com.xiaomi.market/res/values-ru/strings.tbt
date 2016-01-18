@@ -1,0 +1,6 @@
+<string name="bytes">%1$s/%2$s</string>
+<string name="price">￥%1$s</string>
+<string name="progress">%1$s%%</string>
+<string name="rank_app_name">%1$s. %2$s</string>
+<string name="size">(%1$s)</string>
+<string name="update_date">%1$s-%2$s-%3$s</string>

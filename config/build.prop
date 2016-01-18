@@ -1,0 +1,59 @@
+ro.translation.build=BARS
+ro.build.date=@DATE@
+ro.build.date.utc=@DATE_UTC@
+persist.sys.timezone=@TIMEZONE@
+ro.build.user=@BUILDUSER@
+ro.build.host=@BUILDHOST@
+ro.build.type=user
+ro.build.tags=release-keys
+ro.build.originalname=@ORIGINALNAME@
+ro.build.jenkins=@JENKINS@
+
+# Some Configs for DRM
+drm.service.enabled=true
+ro.adb.secure=1
+
+# Hardware Power Saving
+ro.config.hw_power_saving=1
+
+# Better image quality, lower performance.
+persist.sys.use_dithering=1
+
+# Sleep Mode (set to 3 if push notifications doesnt work)
+ro.ril.disable.power.collapse=0
+pm.sleep_mode=3
+
+# Default TimeZone
+persist.sys.timezone=Europe/Moscow
+
+# GoogleDNS
+net.ppp0.dns1=8.8.4.4
+net.ppp0.dns2=8.8.8.8
+net.dns1=8.8.4.4
+net.dns2=8.8.8.8
+
+# Dalvik Tweaks
+dalvik.vm.dex2oat-filter=everything
+dalvik.vm.image-dex2oat-filter=everything
+dalvik.vm.dex2oat-flags=--no-watch-dog
+
+# Enable haptic
+ro.etc.haptic.enable=true
+
+# Fast scrolling
+persist.sys.scrollingcache=3
+windowsmgr.max_events_per_sec=90
+ro.max.fling_velocity=12000
+ro.min.fling_velocity=8000
+touch.deviceType=touchScreen
+touch.orientationAware=1
+touch.size.calibration=diameter
+touch.size.scale=32.0368
+touch.size.bias=-5.1253
+touch.size.isSummed=0
+touch.pressure.calibration=amplitude
+touch.pressure.scale=0.0125
+touch.orientation.calibration=none
+
+# Call quality
+ro.ril.enable.amr.wideband=1

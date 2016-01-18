@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<bool name="config_enableNetworkLocationOverlay">true</bool>
+	<bool name="config_enableFusedLocationOverlay">true</bool>
+	<bool name="config_dreamsSupported">false</bool>
+	<bool name="config_dreamsEnabledByDefault">false</bool>
+	<bool name="config_dreamsActivatedOnDockByDefault">false</bool>
+	<bool name="config_safe_media_volume_enabled">false</bool>
+	<bool name="config_use_strict_phone_number_comparation">false</bool>
+	<bool name="config_useVolumeKeySounds">true</bool>
+	<bool name="config_ui_enableFadingMarquee">true</bool>
+</resources>

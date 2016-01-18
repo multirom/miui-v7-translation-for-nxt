@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <plurals name="days_ago">
+        <item quantity="other">%1$d дней назад</item>
+        <item quantity="zero">%1$d дней назад</item>
+        <item quantity="one">%1$d день назад</item>
+        <item quantity="two">%1$d дня назад</item>
+        <item quantity="few">%1$d дня назад</item>
+        <item quantity="many">%1$d дней назад</item>
+     </plurals>
+     <plurals name="deepclean_apk_summary">
+        <item quantity="other">Найдено %d файл установки</item>
+        <item quantity="two">Найдено %d файла установки</item>
+        <item quantity="few">Найдено %d файла установки</item>
+        <item quantity="other">Найдено %d файлов установки</item>
+     </plurals>
+     <plurals name="deepclean_video_summary">
+        <item quantity="other">Найдено %d видео</item>
+        <item quantity="one">Найдено %d видео</item>
+     </plurals>
+     <plurals name="deepclean_app_summary">
+        <item quantity="one">%d установленное приложение</item>
+        <item quantity="two">%d установленных приложения</item>
+        <item quantity="few">%d установленных приложений</item>
+        <item quantity="other">%d установленных приложений</item>
+     </plurals>
+     <plurals name="deepclean_cache_summary">
+        <item quantity="one">Найден кэш %d приложения</item>
+        <item quantity="two">Найден кэш %d приложений</item>
+        <item quantity="few">Найден кэш %d приложений</item>
+        <item quantity="other">Найден кэш %d приложений</item>
+     </plurals>
+     <plurals name="deepclean_large_summary">
+        <item quantity="one">Найден %d большой файл</item>
+        <item quantity="two">Найдено %d больших файла</item>
+        <item quantity="few">Найдено %d больших файла</item>
+        <item quantity="other">Найдено %d больших файлов</item>
+     </plurals>
+     <plurals name="deepclean_similar_summary">
+        <item quantity="one">Найдено %d фото</item>
+        <item quantity="other">Найдено %d фото</item>
+     </plurals>
+     <plurals name="hours_ago">
+        <item quantity="other">%1$d часов назад</item>
+        <item quantity="zero">%1$d часов назад</item>
+        <item quantity="one">%1$d час назад</item>
+        <item quantity="two">%1$d часа назад</item>
+        <item quantity="few">%1$d часа назад</item>
+        <item quantity="many">%1$d часов назад</item>
+     </plurals>
+     <plurals name="view_num">
+        <item quantity="other">%1$d просмотров</item>
+        <item quantity="zero">%1$d просмотров</item>
+        <item quantity="one">%1$d просмотр</item>
+        <item quantity="two">%1$d просмотра</item>
+        <item quantity="few">%1$d просмотра</item>
+        <item quantity="many">%1$d просмотров</item>
+     </plurals>
+     <plurals name="mins_ago">
+        <item quantity="other">%1$d минут назад</item>
+        <item quantity="zero">%1$d минут назад</item>
+        <item quantity="one">%1$d минуту назад</item>
+        <item quantity="two">%1$d минуты назад</item>
+        <item quantity="few">%1$d минуты назад</item>
+        <item quantity="many">%1$d минут назад</item>
+     </plurals>
+     <plurals name="hint_similar_image_header_left">
+        <item quantity="zero">Нет одинаковых</item>
+        <item quantity="one">%d группа</item>
+        <item quantity="few">%d группы</item>
+        <item quantity="many">%d групп</item>
+     </plurals>
+     <plurals name="million">
+        <item quantity="other">Более %1$d загрузок</item>
+     </plurals>
+     <plurals name="people">
+        <item quantity="other">Более %1$d загрузок</item>
+     </plurals>
+     <plurals name="people_million">
+        <item quantity="other">Более %1$d загрузок</item>
+     </plurals>
+</resources>

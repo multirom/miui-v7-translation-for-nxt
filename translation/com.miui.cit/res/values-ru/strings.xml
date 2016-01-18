@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="cit_OTG_plugin_check_summary">Когда OTG устройство будет подключено, на экране должно отобразиться: «USB OTG устройство подключено»</string>
+     <string name="cit_OTG_plugin_check_title">Подключение OTG</string>
+     <string name="cit_OTG_plugout_check_summary">Когда OTG устройство будет отключено, на экране должно отобразиться: «USB OTG устройство отключено»</string>
+     <string name="cit_OTG_plugout_check_title">Отключение OTG</string>
+     <string name="cit_OTG_waiting_in">Подключите USB OTG устройство</string>
+     <string name="cit_OTG_waiting_out">Отключите USB OTG устройство</string>
+     <string name="cit_ac_charger_in">Заряжается от ЗУ</string>
+     <string name="cit_ac_charger_out">ЗУ не подключено</string>
+     <string name="cit_accelermeter_sensor_check_summary">Перемещайте устройство в одом из направлений:
+X движение влево/вправо, Y движение вперед/назад, Z движение вверх/вниз.</string>
+     <string name="cit_accelermeter_sensor_check_title">Акселерометр</string>
+     <string name="cit_apk_signature_failed">ошибка подписи apk</string>
+     <string name="cit_apk_signature_passed">подпись apk верная</string>
+     <string name="cit_aud_spkcal">Калибровка</string>
+     <string name="cit_audio_cali_done">Калибровка завершена</string>
+     <string name="cit_audio_cali_failed">Калибровка не удалась. Повторите ещё раз!</string>
+     <string name="cit_audio_cali_file_existed">Аудиофайл не найден, невозможно откалибровать!</string>
+     <string name="cit_audio_cali_playing">Нажмите для калибровки</string>
+     <string name="cit_audio_cali_summary">Калибровка динамика</string>
+     <string name="cit_audio_cali_title">Динамик</string>
+     <string name="cit_audio_cali_valueC">Counter:</string>
+     <string name="cit_audio_cali_valueF0">F0:</string>
+     <string name="cit_audio_cali_valueR">Ref_diff:</string>
+     <string name="cit_audio_cali_valueT">Temp_acc:</string>
+     <string name="cit_audio_calibrating">Производится калибровка…</string>
+     <string name="cit_audio_lb_backmic_to_speaker_title">Тыловой микрофон</string>
+     <string name="cit_audio_lb_frontmic_to_speaker_title">Передний микрофон</string>
+     <string name="cit_audio_lb_mainmic_to_earpiece_title">Основной микрофон</string>
+     <string name="cit_audio_lb_phonecall_title">Имитация вызова</string>
+     <string name="cit_audio_lb_summary_backmic_to_speaker">Проверка тылового микрофона.
+
+Разверните телефон. Говорите в тыловой микрофон, Вы должны услышать свой голос.</string>
+     <string name="cit_audio_lb_summary_frontmic_to_speaker">Проверка переднего микрофона.
+
+Разверните телефон. Говорите в передний микрофон, Вы должны услышать свой голос.</string>
+     <string name="cit_audio_lb_summary_mainmic_to_earpiece">Проверка основного микрофона.
+
+Держите телефон так, как будто Вы совершаете вызов. Говорите в основной микрофон, Вы должны услышать свой голос.</string>
+     <string name="cit_audio_lb_summary_phonecall">Имитация вызова.
+
+Держите телефон так, как будто Вы совершаете вызов. Говорите в основной микрофон, Вы должны услышать свой голос. Рекомендуется проводить тест в тихом месте.</string>
+     <string name="cit_audio_lb_summary_topmic_to_speaker">Проверка верхнего микрофона.
+
+Поверните телефон. Говорите в верхний микрофон, Вы должны услышать свой голос.</string>
+     <string name="cit_audio_lb_topmic_to_speaker_title">Верхний микрофон</string>
+     <string name="cit_audio_loopback_check_one_title">Основной микрофон</string>
+     <string name="cit_audio_loopback_check_summary_first">Проверка основного микрофона.
+
+Держите телефон так, как будто Вы совершаете вызов. Говорите в основной микрофон, Вы должны услышать свой голос.</string>
+     <string name="cit_audio_loopback_check_summary_second">Проверка внешнего динамика.
+
+Поверните телефон так, чтобы вход для наушников был внизу. Говорите в микрофон, Вы должны услышать свой голос через внешний динамик.</string>
+     <string name="cit_audio_loopback_check_two_title">Внешний динамик</string>
+     <string name="cit_audio_loopback_dualmic_earpiece_title">Шумоподавление микрофона</string>
+     <string name="cit_audio_loopback_dualmic_title">Шумоподавление микрофона</string>
+     <string name="cit_audio_loopback_next">След.</string>
+     <string name="cit_audio_loopback_previous">Пред.</string>
+     <string name="cit_audio_loopback_summary_dualmic">Проверка шумоподавления микрофона
+
+Поверните телефон так, чтобы вход для наушников был внизу. Говорите в микрофон, Вы должны услышать свой голос.</string>
+     <string name="cit_audio_loopback_summary_dualmic_earpiece">Проверка шумоподавления микрофона
+
+Держите телефон так, как будто Вы совершаете звонок. Говорите в основной микрофон, Вы должны услышать свой голос.</string>
+     <string name="cit_battery_temp_fail">Ошибка (value=%d)</string>
+     <string name="cit_battery_temp_pass">Температура аккумулятора нормальная</string>
+     <string name="cit_batterylight_blue">Cиний</string>
+     <string name="cit_batterylight_green">Зелёный</string>
+     <string name="cit_batterylight_red">Красный</string>
+     <string name="cit_batterylight_rgb">LED-индикатор</string>
+     <string name="cit_blue_tooth_address_check_summary">Bluetooth адрес устройства</string>
+     <string name="cit_blue_tooth_address_check_title">Bluetooth адрес</string>
+     <string name="cit_blue_tooth_scan_check_summary">Поиск Bluetooth устройств</string>
+     <string name="cit_blue_tooth_scan_check_title">Поиск Bluetooth</string>
+     <string name="cit_blue_torch_on">Включить синюю вспышку</string>
+     <string name="cit_bluetooth_address_open_error">Ошибка включения Bluetooth устройства.</string>
+     <string name="cit_bluetooth_not_support">Это устройство не поддерживает Bluetooth</string>
+     <string name="cit_bluetooth_scan_retry">Поиск</string>
+     <string name="cit_bluetooth_scanning">Поиск близлежащих Bluetooth устройств…</string>
+     <string name="cit_bluetooth_scanning_bluetooth_done">Bluetooth устройства не найдены.</string>
+     <string name="cit_bluetooth_scanning_bluetooth_error">Ошибка поиска Bluetooth устройств.</string>
+     <string name="cit_bluetooth_scanning_opening_bluetooth">Включение Bluetooth…</string>
+     <string name="cit_build_finger_failed">ошибка создания отпечатка</string>
+     <string name="cit_build_finger_passed">отпечаток создан</string>
+     <string name="cit_button_light_off">Выключить подсветку кнопок</string>
+     <string name="cit_button_light_on">Включить подсветку кнопок</string>
+     <string name="cit_button_light_writein">Brightness of button write in</string>
+     <string name="cit_calibration_fail">Калибровка не удалась</string>
+     <string name="cit_calibration_pass">Калибровка</string>
+     <string name="cit_camera_calibration_summary">Инструкция:
+
+1. Нажмите кнопку ниже для запуска камеры;
+2. Нажмите кнопку «Назад» для выхода из камеры;
+3. Появится надпись о том, что калибровка завершена.</string>
+     <string name="cit_camera_sdcard_error">Память заполнена. Невозможно сохранить фото.</string>
+     <string name="cit_charger_plugin_check_summary">Проверка подключения зарядного устройства</string>
+     <string name="cit_charger_plugin_check_title">Подключение ЗУ</string>
+     <string name="cit_charger_plugout_check_summary">Проверка отключения зарядного устройства</string>
+     <string name="cit_charger_plugout_check_title">Отключение ЗУ</string>
+     <string name="cit_charger_waiting_in">Пожалуйста, подключите зарядное устройство</string>
+     <string name="cit_charger_waiting_out">Пожалуйста, отключите зарядное устройство</string>
+     <string name="cit_display_check_summary">На экране будут показаны тестовые изображения. Убедитесь, что нет никаких ярких и тёмных точек. Для использования своего изображения скопируйте его в корень SD-карты с расширением *.bmp</string>
+     <string name="cit_display_check_title">Экран</string>
+     <string name="cit_display_continue">Коснитесь экрана</string>
+     <string name="cit_exit_test_summary">Выход сбросит все тесты, Вы хотите выйти?</string>
+     <string name="cit_exit_test_title">Выход</string>
+     <string name="cit_external_sd_check_summary">Тест обнаружения SD-карты</string>
+     <string name="cit_external_sd_check_title">Статус SD-карты</string>
+     <string name="cit_fail">Пропуск </string>
+     <string name="cit_finger_check_title">Тест отпечатков пальцев</string>
+     <string name="cit_fm_audio_path">Звуковой тракт</string>
+     <string name="cit_fm_audio_path_headset">Наушники</string>
+     <string name="cit_fm_audio_path_speaker">Динамик</string>
+     <string name="cit_fm_check_summary">Проверка FM-радио</string>
+     <string name="cit_fm_check_title">FM-радио</string>
+     <string name="cit_fm_close">Выключите FM-радио</string>
+     <string name="cit_fm_not_supported">Это устройство не поддерживает FM-радио</string>
+     <string name="cit_fm_open_1">FM - 88.5</string>
+     <string name="cit_fm_open_2">FM - 107.9</string>
+     <string name="cit_fm_open_bluetooth">Включение Bluetooth…</string>
+     <string name="cit_fm_start_service">Включить аудио</string>
+     <string name="cit_fpc_checkerboard_test">CHECKERBOARD TEST</string>
+     <string name="cit_fpc_selftest">SELF-TEST</string>
+     <string name="cit_fpc_sensor_check_summary">Тест отпечатков пальцев. Нажмите кнопку и убедитесь, что информация, выделенная зелёным, верна.</string>
+     <string name="cit_fpc_sensor_check_title">Тест сенсора отпечатков пальцев</string>
+     <string name="cit_front_camera_check_summary">Инструкция:
+
+1. Нажмите кнопку «Фото» для запуска камеры;
+2. Сделайте фото и подтвердите сохранение;
+3. Сделанное фото отобразится ниже;
+4. Для удаления фото нажмите кнопку «Удалить».</string>
+     <string name="cit_front_camera_check_title">Фронтальная камера</string>
+     <string name="cit_get_signature_failed">ошибка получения подписи</string>
+     <string name="cit_gps_check_summary">Информация GPS</string>
+     <string name="cit_gps_check_title">GPS</string>
+     <string name="cit_gps_disabled">GPS отключен 
+
+Нажмите здесь, чтобы включить GPS…</string>
+     <string name="cit_gps_first_fix_time">Время фиксирования: %s</string>
+     <string name="cit_gps_location">Местоположение: %s</string>
+     <string name="cit_gps_satellite_count">Число спутников: %d</string>
+     <string name="cit_gps_satellite_prn">PRN: %s</string>
+     <string name="cit_gps_satellite_snr">SNR: %s</string>
+     <string name="cit_gyroscope_sensor_check_summary">Значения координат X, Y, Z</string>
+     <string name="cit_gyroscope_sensor_check_title">Гироскоп</string>
+     <string name="cit_headset_button_check_summary">Подключите гарнитуру. Нажатые кнопки будут отмечены зелёным.</string>
+     <string name="cit_headset_button_check_title">Кнопки гарнитуры</string>
+     <string name="cit_headset_button_click">Нажимайте кнопки гарнитуры</string>
+     <string name="cit_headset_button_current">Нажата: %s</string>
+     <string name="cit_headset_button_fast_forward">Быстрая перемотка вперед</string>
+     <string name="cit_headset_button_next">След.</string>
+     <string name="cit_headset_button_pass">ОК</string>
+     <string name="cit_headset_button_play_pause">Воспроизведение/Пауза</string>
+     <string name="cit_headset_button_previous">Пред.</string>
+     <string name="cit_headset_button_rewind">Перемотка</string>
+     <string name="cit_headset_button_stop">Стоп</string>
+     <string name="cit_headset_button_unknown">Неизвестная кнопка</string>
+     <string name="cit_headset_loopback_check_summary">Подключите гарнитуру и говорите в микрофон. Если микрофон работает, Вы услышите свой голос в наушниках.</string>
+     <string name="cit_headset_loopback_check_title">Микрофон гарнитуры</string>
+     <string name="cit_headset_plug_detect_summary">При подключении гарнитуры появится надпись «Гарнитура подключена»</string>
+     <string name="cit_headset_plug_detect_title">Подключение гарнитуры</string>
+     <string name="cit_headset_plug_finish">Гарнитура подключена</string>
+     <string name="cit_headset_plug_hint">Пожалуйста, подключите гарнитуру</string>
+     <string name="cit_headset_pull_detect_summary">При отключении гарнитуры появится надпись «Гарнитура отключена»</string>
+     <string name="cit_headset_pull_detect_title">Отключение гарнитуры</string>
+     <string name="cit_headset_pull_finish">Гарнитура отключена</string>
+     <string name="cit_headset_pull_hint">Пожалуйста, отключите гарнитуру</string>
+     <string name="cit_hide_menu">Убрать меню</string>
+     <string name="cit_kayboard_volume_down">Кнопка: VOLUME_DOWN</string>
+     <string name="cit_kayboard_volume_up">Кнопка: VOLUME_UP</string>
+     <string name="cit_keyboard_back">Кнопка: BACK</string>
+     <string name="cit_keyboard_current">Нажата: %s</string>
+     <string name="cit_keyboard_menu">Кнопка: MENU</string>
+     <string name="cit_keyboard_test_summary">Зелёным отмечены нажатые кнопки (примечание: кнопки HOME и POWER не включены в проверку).</string>
+     <string name="cit_keyboard_test_title">Кнопки</string>
+     <string name="cit_label">Диагностика</string>
+     <string name="cit_lcdlight_brightness">Подсветка</string>
+     <string name="cit_lcdlight_brightness_max">Максимум</string>
+     <string name="cit_lcdlight_brightness_min">Минимум</string>
+     <string name="cit_leds_check_summary">Подсветка, LED-индикатор и вспышка должны реагировать при нажатии на соответствующую кнопку.</string>
+     <string name="cit_leds_check_title">LED-индикаторы</string>
+     <string name="cit_left_button_light">Left button light</string>
+     <string name="cit_light_sensor_check_summary">Значение датчика освещенности</string>
+     <string name="cit_light_sensor_check_title">Датчик освещенности</string>
+     <string name="cit_magnetic_sensor_check_summary">Значение координат X, Y, Z</string>
+     <string name="cit_magnetic_sensor_check_title">Компас</string>
+     <string name="cit_main_camera_check_summary">Инструкция:
+
+1. Нажмите кнопку «Фото» для запуска камеры;
+2. Сделайте фото и подтвердите сохранение;
+3. Сделанное фото отобразится ниже;
+4. Для удаления фото нажмите кнопку «Удалить».</string>
+     <string name="cit_main_camera_check_title">Основная камера</string>
+     <string name="cit_minus_one">Minus 1</string>
+     <string name="cit_name">Диагностика</string>
+     <string name="cit_not_available">Не поддерживается</string>
+     <string name="cit_notificationlight">Индикатор уведомления</string>
+     <string name="cit_notificationlight_off">Включить</string>
+     <string name="cit_notificationlight_on">Выключить</string>
+     <string name="cit_otg_not_supported">Ваш телефон не поддерживает тест OTG</string>
+     <string name="cit_pass">ОК </string>
+     <string name="cit_play_sd_mp3_hifi_summary">Убедитесь, что есть файл с именем «music.mp3», хранящийся на SD-карте. Файл «music.mp3» нужно проиграть на Hi-Fi устройстве, когда откроете этот тест</string>
+     <string name="cit_play_sd_mp3_hifi_title">Проиграть MP3 (Hi-Fi) с SD-карты</string>
+     <string name="cit_play_sd_mp3_summary">Проверка звука. Положите файл с именем music.mp3 в корень SD-карты</string>
+     <string name="cit_play_sd_mp3_title">Проверка MP3 с SD-карты</string>
+     <string name="cit_playing_sd_mp3">Music.mp3 играет…</string>
+     <string name="cit_plus_one">Plus 1</string>
+     <string name="cit_pointer_location_title">Сенсорный экран</string>
+     <string name="cit_power_check_summary">Заряд аккумулятора</string>
+     <string name="cit_power_check_title">Заряд аккумулятора</string>
+     <string name="cit_pressure_sensor_check_summary">Значения давления</string>
+     <string name="cit_pressure_sensor_check_title">Датчик давления</string>
+     <string name="cit_proximity_sensor_check_summary">Накройте рукой датчик приближения (расположен в верхней части устройства, возле динамика), значение должно быть 0.0. Затем уберите руку, значение должно изменится.
+При калибровке убедитесь, что между датчиком и рукой ничего нет (например защитной пленки)</string>
+     <string name="cit_proximity_sensor_check_title">Датчик приближения</string>
+     <string name="cit_recovery_signature_failed">ошибка подписи recovery</string>
+     <string name="cit_recovery_signature_passed">подпись recovery верная</string>
+     <string name="cit_reset_check_summary">Этот тест перезагрузит устройство. Все результаты проверки будут потеряны.</string>
+     <string name="cit_reset_check_title">Перезагрузка</string>
+     <string name="cit_reset_test">Перезагрузка</string>
+     <string name="cit_right_button_light">Right button light</string>
+     <string name="cit_sd_fail">Ошибка</string>
+     <string name="cit_sd_mount">Подключить SD-карту</string>
+     <string name="cit_sd_mount_sucess">SD-карта подключена</string>
+     <string name="cit_sd_mp3_not_existed">Файл «music.mp3» в корневом каталоге SD-карты не найден.</string>
+     <string name="cit_sd_plug_check_summary">Тест определит наличие SD-карты, пожалуйста, подключите SD-карту</string>
+     <string name="cit_sd_plug_check_title">SD-карта (поиск)</string>
+     <string name="cit_sd_plugged_in">SD-карта подключена</string>
+     <string name="cit_sd_plugged_out">SD-карта отключена</string>
+     <string name="cit_sd_plugin_check_summary">При подключении SD-карты появится надпись: «SD-карта подключена»</string>
+     <string name="cit_sd_plugin_check_title">Проверка подключения SD-карты</string>
+     <string name="cit_sd_plugout_check_summary">При отключении SD-карты появится надпись: «SD-карта отключена»</string>
+     <string name="cit_sd_plugout_check_title">Проверка отключения SD-карты</string>
+     <string name="cit_sd_unmount">Отключить SD-карту</string>
+     <string name="cit_sd_unmount_sucess">SD-карта отключена</string>
+     <string name="cit_signature_check_label">Проверка подписи:</string>
+     <string name="cit_sim_check_summary">Статус SIM-карты</string>
+     <string name="cit_sim_check_title">SIM-карта</string>
+     <string name="cit_sim_error_unknown">Неизвестная ошибка</string>
+     <string name="cit_sim_network_operator">Оператор сотовой связи:</string>
+     <string name="cit_sim_network_operator_name">Название оператора:</string>
+     <string name="cit_sim_network_type">Тип сети:</string>
+     <string name="cit_sim_serial_number">Номер SIM-карты:</string>
+     <string name="cit_sim_sim_country">Страна:</string>
+     <string name="cit_sim_sim_operator">Код оператора:</string>
+     <string name="cit_sim_sim_operator_name">Оператор:</string>
+     <string name="cit_sim_state_absent">SIM-карта не обнаружена</string>
+     <string name="cit_sim_state_network_locked">Сеть заблокирована</string>
+     <string name="cit_sim_state_pin_required">Требуется PIN-код</string>
+     <string name="cit_sim_state_puk_required">Требуется PUK-код</string>
+     <string name="cit_sim_state_ready">SIM-карта готова к использованию</string>
+     <string name="cit_sim_state_unkown">Неизвестное состояние</string>
+     <string name="cit_start_calibration">Калибровать</string>
+     <string name="cit_stop_calibration">Конец калибровки</string>
+     <string name="cit_tool">Дополнительно…</string>
+     <string name="cit_tool_bluetooth">Инструменты Bluetooth</string>
+     <string name="cit_tool_bluetooth_dut">Тест Bluetooth</string>
+     <string name="cit_tool_bluetooth_le_tx_ch19">Тест режима низкой мощности (2.440ГГц)</string>
+     <string name="cit_tool_bluetooth_le_tx_h">Тест режима низкой мощности (2.480ГГц)</string>
+     <string name="cit_tool_bluetooth_le_tx_l">Тест режима низкой мощности (2.402ГГц)</string>
+     <string name="cit_tool_bluetooth_mode">Тест Bluetooth</string>
+     <string name="cit_tool_bluetooth_not_on">Bluetooth не включён!</string>
+     <string name="cit_tool_bluetooth_off">Выключить</string>
+     <string name="cit_tool_bluetooth_on">Включить</string>
+     <string name="cit_tool_bluetooth_tx_h">Тест звука в режиме (2.480ГГц)</string>
+     <string name="cit_tool_bluetooth_tx_l">Тест звука в режиме (2.402ГГц)</string>
+     <string name="cit_tool_cal_camera">Калибровка камеры</string>
+     <string name="cit_tool_enable_3A_log">Вкл./выкл. 3A журнал</string>
+     <string name="cit_tool_enable_display_3A_log">Enable Display 3A log</string>
+     <string name="cit_tool_log">Журналы</string>
+     <string name="cit_tool_log_bugreport">Сообщения об ошибках</string>
+     <string name="cit_tool_log_dmesg">DMESG</string>
+     <string name="cit_tool_log_file_not_exist">Файл %s не существует</string>
+     <string name="cit_tool_log_generate_bugreport">Журнал создаётся…</string>
+     <string name="cit_tool_log_kmsg">Журнал ядра</string>
+     <string name="cit_tool_log_logcat">Журнал ADB</string>
+     <string name="cit_tool_log_modem">Журнал модема</string>
+     <string name="cit_tool_log_no_sdcard">Вставьте SD-карту</string>
+     <string name="cit_tool_log_ril">Журнал RIL</string>
+     <string name="cit_tool_log_toast">Журнал сохранён в %s</string>
+     <string name="cit_tool_log_toast_generate_bugreport">Журнал создаётся… (это займет около 1 мин.)</string>
+     <string name="cit_tool_modem">Инструменты модема</string>
+     <string name="cit_tool_modem_bugreport">Дамп памяти</string>
+     <string name="cit_tool_modem_cta_test">Вкл./выкл. протокол соответствия</string>
+     <string name="cit_tool_modem_evdo_revb">Вкл./выкл. EVDO Rev.B</string>
+     <string name="cit_tool_modem_exit_ftm">Выйти из режима FTM</string>
+     <string name="cit_tool_modem_mbn">Изменить настройки модема</string>
+     <string name="cit_tool_modem_offline_log">Вкл./выкл. журнал</string>
+     <string name="cit_tool_modem_pcap_switch">Вкл./выкл вывод данных</string>
+     <string name="cit_tool_modem_pcm_switch">Вкл./выкл вывод PCM</string>
+     <string name="cit_tool_nfc">Инструменты NFC</string>
+     <string name="cit_tool_nfc_st">NFC ST:</string>
+     <string name="cit_tool_nfc_st_confreq">частота:</string>
+     <string name="cit_tool_nfc_st_run">Пуск</string>
+     <string name="cit_tool_nfc_st_stop">Стоп</string>
+     <string name="cit_tool_wifi">Инструменты Wi-Fi</string>
+     <string name="cit_tool_wifi_5g_100a">Tx:100/6M/13dBm</string>
+     <string name="cit_tool_wifi_5g_100b">Tx:100/54M/13dBm</string>
+     <string name="cit_tool_wifi_5g_100c">Tx:100/MCS0/13dBm</string>
+     <string name="cit_tool_wifi_5g_100d">Tx:100/MCS7/13dBm</string>
+     <string name="cit_tool_wifi_5g_165a">Tx:165/6M/13dBm</string>
+     <string name="cit_tool_wifi_5g_165b">Tx:165/54M/13dBm</string>
+     <string name="cit_tool_wifi_5g_165c">Tx:165/MCS0/13dBm</string>
+     <string name="cit_tool_wifi_5g_165d">Tx:165/MCS7/13dBm</string>
+     <string name="cit_tool_wifi_5g_36a">Tx:36/6M/13dBm</string>
+     <string name="cit_tool_wifi_5g_36b">Tx:36/54M/13dBm</string>
+     <string name="cit_tool_wifi_5g_36c">Tx:36/MCS0/13dBm</string>
+     <string name="cit_tool_wifi_5g_36d">Tx:36/MCS7/13dBm</string>
+     <string name="cit_tool_wifi_b_13a">Tx:13/1M/15dBm</string>
+     <string name="cit_tool_wifi_b_13b">Tx:13/11M/15dBm</string>
+     <string name="cit_tool_wifi_b_1a">Tx:1/1M/15dBm</string>
+     <string name="cit_tool_wifi_b_1b">Tx:1/11M/15dBm</string>
+     <string name="cit_tool_wifi_band_24">Полоса: 2.4ГГц</string>
+     <string name="cit_tool_wifi_band_5">Полоса: 5ГГц</string>
+     <string name="cit_tool_wifi_band_change">След.</string>
+     <string name="cit_tool_wifi_chain_1">1</string>
+     <string name="cit_tool_wifi_chain_1_2">1+2</string>
+     <string name="cit_tool_wifi_chain_2">2</string>
+     <string name="cit_tool_wifi_exit">Выход</string>
+     <string name="cit_tool_wifi_g_13a">Tx:13/6M/13dBm</string>
+     <string name="cit_tool_wifi_g_13b">Tx:13/54M/13dBm</string>
+     <string name="cit_tool_wifi_g_1a">Tx:1/6M/13dBm</string>
+     <string name="cit_tool_wifi_g_1b">Tx:1/54M/13dBm</string>
+     <string name="cit_tool_wifi_n_13a">Tx:13/MCS0/11dBm</string>
+     <string name="cit_tool_wifi_n_13b">Tx:13/MCS7/11dBm</string>
+     <string name="cit_tool_wifi_n_1a">Tx:1/MCS0/11dBm</string>
+     <string name="cit_tool_wifi_n_1b">Tx:1/MCS7/11dBm</string>
+     <string name="cit_tool_wifi_rx_1">Rx:1</string>
+     <string name="cit_tool_wifi_rx_100">Rx:100</string>
+     <string name="cit_tool_wifi_rx_13">Rx:13</string>
+     <string name="cit_tool_wifi_rx_165">Rx:165</string>
+     <string name="cit_tool_wifi_rx_36">Rx:36</string>
+     <string name="cit_tool_wifi_rx_7">Rx:7</string>
+     <string name="cit_tool_wifi_rx_ap">Rx:AP</string>
+     <string name="cit_tool_wifi_rx_ap_name">Точка доступа</string>
+     <string name="cit_tool_wifi_rx_ap_not_null">Название не может быть пустым</string>
+     <string name="cit_tool_wifi_rx_ap_type">bss</string>
+     <string name="cit_tool_wifi_rx_ap_type_error">Ошибка точки доступа, введите заново (bss/adhoc)</string>
+     <string name="cit_tool_wifi_rx_chan">Rx: Channel</string>
+     <string name="cit_tool_wifi_rx_count_error">Ошибка</string>
+     <string name="cit_tool_wifi_rx_dut_ip">192.168.1.12</string>
+     <string name="cit_tool_wifi_rx_error">Ошибка</string>
+     <string name="cit_tool_wifi_rx_exit">Rx:exit</string>
+     <string name="cit_tool_wifi_rx_run">Пуск</string>
+     <string name="cit_tool_wifi_rx_stop">Стоп</string>
+     <string name="cit_tool_wifi_rx_total_format">Всего передано: %s</string>
+     <string name="cit_tool_wifi_rxbg_test">Rx:B/G</string>
+     <string name="cit_tool_wifi_rxbg_test_channel">chan:</string>
+     <string name="cit_tool_wifi_rxbg_test_datarate">rate:</string>
+     <string name="cit_tool_wifi_rxn_test">Rx:N</string>
+     <string name="cit_tool_wifi_rxn_test_bw">bandwidth:</string>
+     <string name="cit_tool_wifi_rxn_test_channel">chan:</string>
+     <string name="cit_tool_wifi_rxn_test_mcs">MCS:</string>
+     <string name="cit_tool_wifi_tx_ac">Tx: ac</string>
+     <string name="cit_tool_wifi_tx_bg">Tx:B/G</string>
+     <string name="cit_tool_wifi_tx_bg_chan">channel:</string>
+     <string name="cit_tool_wifi_tx_bg_txpr">txpower:</string>
+     <string name="cit_tool_wifi_tx_bg_txrt">datarate:</string>
+     <string name="cit_tool_wifi_tx_n">Tx:N</string>
+     <string name="cit_tool_wifi_tx_n_bandwidth">bandwidth:</string>
+     <string name="cit_tool_wifi_tx_n_chan">channel:</string>
+     <string name="cit_tool_wifi_tx_n_txpr">txpower:</string>
+     <string name="cit_tool_wifi_tx_n_txrt">datarate: MCS</string>
+     <string name="cit_tool_wifi_tx_st">Tx: ST</string>
+     <string name="cit_tool_wifi_tx_st_chan">channel:</string>
+     <string name="cit_tool_wifi_txrx_chain_selection">Выбрать антенну</string>
+     <string name="cit_torch_off">Выключить вспышку</string>
+     <string name="cit_torch_on">Включить вспышку</string>
+     <string name="cit_touch_calib_fail">Ошибка калибровки экрана</string>
+     <string name="cit_touch_calib_instruction">Начать калибровку</string>
+     <string name="cit_touch_calib_pass">Успешно откалибровано</string>
+     <string name="cit_touch_calib_summary">Калибровка сенсорного экрана. Не прикасайтесь к экрану во время калибровки.</string>
+     <string name="cit_touch_calib_title">Калибровка экрана</string>
+     <string name="cit_usb_OTG_in">USB OTG устройство подключено</string>
+     <string name="cit_usb_OTG_out">USB OTG устройство отключено</string>
+     <string name="cit_usb_charger_in">USB кабель подключён</string>
+     <string name="cit_usb_charger_out">USB кабель отключён</string>
+     <string name="cit_version_check_summary">Информация об устройстве. Убедитесь, что информация, выделенная зелёным, верна.</string>
+     <string name="cit_version_check_title">Информация об устройстве</string>
+     <string name="cit_vga_camera_capture">Фото</string>
+     <string name="cit_vga_camera_capture_fail">Нет фото</string>
+     <string name="cit_vga_camera_delete">Удалить</string>
+     <string name="cit_vga_camera_deleted">Фото удалено</string>
+     <string name="cit_vibrator_check_summary">Проверьте вибрацию</string>
+     <string name="cit_vibrator_check_title">Вибрация</string>
+     <string name="cit_vibrator_don_don_chat">Пульсация</string>
+     <string name="cit_vibrator_haptic">Тактильная</string>
+     <string name="cit_vibrator_load_down_pattern">След. шаблон</string>
+     <string name="cit_vibrator_load_up_pattern">Пред. шаблон</string>
+     <string name="cit_vibrator_long">Длинная</string>
+     <string name="cit_vibrator_play_touch_pattern">Вибрация</string>
+     <string name="cit_vibrator_short">Короткая</string>
+     <string name="cit_vibrator_show_advanced">Дополнительные параметры</string>
+     <string name="cit_wifi_address_check_summary">Информация о Wi-Fi сети. Убедитесь, что информация, выделенная зелёным, верна.</string>
+     <string name="cit_wifi_address_check_title">Информация о Wi-Fi</string>
+     <string name="cit_wifi_address_error">Не удаётся получить Wi-Fi адрес. Убедитесь, что Wi-Fi включён.</string>
+     <string name="cit_wifi_ap_scan_check_summary">Wi-Fi информация</string>
+     <string name="cit_wifi_ap_scan_check_title">Поиск Wi-Fi</string>
+     <string name="cit_wifi_ap_scan_retry">Обновить…</string>
+     <string name="cit_wifi_ap_scanning">Поиск точек доступа…</string>
+     <string name="cit_wifi_fail_to_scan">Сети не найдены</string>
+     <string name="cit_wifi_state_refresh">Обновление</string>
+     <string name="cit_x5_audio_lb_frontmic_to_speaker_title">Передний динамик</string>
+     <string name="cit_x5_audio_lb_summary_frontmic_to_speaker">Проверка переднего динамика.
+
+Держите телефон так, как будто Вы совершаете вызов. Говорите в микрофон, Вы должны услышать свой голос.</string>
+     <string name="cit_x5_audio_lb_summary_topmic_to_speaker">Проверка верхнего динамика. 
+
+Держите телефон так, как будто Вы совершаете вызов. Говорите в микрофон, Вы должны услышать свой голос.</string>
+     <string name="cit_x5_audio_lb_top_to_speaker_title">Верхний динамик</string>
+     <string name="cit_x5_audio_lb_topmic_to_speaker_title">Верхний микрофон</string>
+     <string name="cit_yellow_torch_on">Включить желтую вспышку</string>
+</resources>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="weather_type">
+        <item>Ясно</item>
+        <item>Облачно</item>
+        <item>Пасмурно</item>
+        <item>Туман</item>
+        <item>Сильный ливень</item>
+        <item>Сильный дождь</item>
+        <item>Ливень с ураганом</item>
+        <item>Гроза</item>
+        <item>Ливень</item>
+        <item>Сильный дождь</item>
+        <item>Дождь</item>
+        <item>Небольшой дождь</item>
+        <item>Дождь со снегом</item>
+        <item>Метель</item>
+        <item>Снегопад</item>
+        <item>Сильный снегопад</item>
+        <item>Снег</item>
+        <item>Небольшой снег</item>
+        <item>Сильная пыльная буря</item>
+        <item>Пыльная буря</item>
+        <item>Пыль</item>
+        <item>Пыльная буря</item>
+        <item>Град</item>
+        <item>Пыль</item>
+        <item>Смог</item>
+        <item>Дождь со снегом</item>
+        <item>Нет данных</item>
+    </string-array>
+    <string-array name="weather_indexes_uv_level">
+        <item>Слабый</item>
+        <item>Низкий</item>
+        <item>Средний</item>
+        <item>Высокий</item>
+        <item>Сильный</item>
+    </string-array>
+    <string-array name="wind_direction">
+        <item>Ветер: С\u2193</item>
+        <item>Ветер: СВ\u2199</item>
+        <item>Ветер: В\u2190</item>
+        <item>Ветер: ЮВ\u2196</item>
+        <item>Ветер: Ю\u2191</item>
+        <item>Ветер: ЮЗ\u2197</item>
+        <item>Ветер: З\u2192</item>
+        <item>Ветер: СЗ\u2198</item>
+    </string-array>
+</resources>

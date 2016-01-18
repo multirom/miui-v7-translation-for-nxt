@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="notif_summary_active">
+        <item quantity="zero">Загружается %d файлов</item>
+        <item quantity="one">Загружается %d файл</item>
+        <item quantity="few">Загружается %d файла</item>
+        <item quantity="many">Загружается %d файлов</item>
+    </plurals>
+    <plurals name="notif_summary_waiting">
+        <item quantity="zero">%d файлов в ожидании</item>
+        <item quantity="one">%d Файл в ожидании</item>
+        <item quantity="few">%d файла в ожидании</item>
+        <item quantity="many">%d файлов в ожидании</item>
+    </plurals>
+</resources>

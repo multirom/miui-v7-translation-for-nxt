@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with NXT -->
+<resources>
+     <string name="system_group_coworker">Коллеги</string>
+     <string name="system_group_family">Семья</string>
+     <string name="system_group_friend">Друзья</string>
+     <string name="system_group_my_contacts">Мои контакты</string>
+</resources>

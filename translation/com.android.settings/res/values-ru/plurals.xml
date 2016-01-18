@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with CloudBuildr -->
+<resources>
+     <plurals name="lockpassword_password_requires_letters">
+        <item quantity="one">Пароль должен содержать хотя бы 1 букву</item>
+        <item quantity="other">Пароль должен содержать буквы (не менее %d)</item>
+     </plurals>
+     <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="one">Пароль должен содержать хотя бы 1 строчную букву</item>
+        <item quantity="other">Пароль должен содержать строчные символы (не менее %d)</item>
+     </plurals>
+     <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="one">Пароль должен содержать хотя бы 1 небуквенный символ</item>
+        <item quantity="other">Пароль должен содержать небуквенные символы (не менее %d)</item>
+     </plurals>
+     <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="one">Пароль должен содержать хотя бы 1 цифру</item>
+        <item quantity="other">Пароль должен содержать цифры (не менее %d)</item>
+     </plurals>
+     <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="one">Пароль должен содержать хотя бы 1 специальный символ</item>
+        <item quantity="other">Пароль должен содержать специальные символы (не менее %d)</item>
+     </plurals>
+     <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="one">Пароль должен содержать хотя бы 1 заглавную букву</item>
+        <item quantity="other">Пароль должен содержать заглавные буквы (не менее %d)</item>
+     </plurals>
+     <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="one">Приложений имеющие доступ: %d</item>
+        <item quantity="other">Приложений имеющие доступ: %d</item>
+     </plurals>
+     <plurals name="print_search_result_count_utterance">
+        <item quantity="one">Найдено принтеров: %1$s</item>
+        <item quantity="other">Найдено принтеров: %1$s</item>
+     </plurals>
+	 <plurals name="show_cit_countdown">
+        <item quantity="other">Вы в %1$d шагах от входа в инженерное меню</item>
+        <item quantity="one">Вы в %1$d шаге от входа в инженерное меню</item>
+     </plurals>
+     <plurals name="show_dev_countdown">
+        <item quantity="one">Вы в %1$d шаге от становления разработчиком</item>
+        <item quantity="other">Вы в %1$d шагах от становления разработчиком</item>
+     </plurals>
+	 <plurals name="show_pho_countdown">
+        <item quantity="other">Вы в %1$d шагах от информации об устройстве</item>
+        <item quantity="one">Вы в %1$d шаге от информации об устройстве</item>
+     </plurals>
+     <plurals name="show_rep_countdown">
+        <item quantity="other">Вы в %1$d шагах от создания отчета</item>
+        <item quantity="one">Вы в %1$d шаге от создания отчета</item>
+     </plurals>
+    <plurals name="status_bar_settings_disabled_header_title">
+        <item quantity="other">Нет приложений с отключенными уведомлениями</item>
+        <item quantity="one">%s приложение с отключенными уведомлениями</item>
+        <item quantity="few">%s приложения с отключенными уведомлениями</item>
+        <item quantity="many">%s приложений с отключенными уведомлениями</item>
+    </plurals>
+    <plurals name="status_bar_settings_enabled_header_title">
+        <item quantity="other">Нет приложений с включенными уведомлениями</item>
+        <item quantity="one">%s приложение с включенными уведомлениями</item>
+        <item quantity="few">%s приложения с включенными уведомлениями</item>
+        <item quantity="many">%s приложений с включенными уведомлениями</item>
+    </plurals>
+     <plurals name="wrong_pin_code">
+        <item quantity="one">Неверный PIN-код. Осталось попыток: %d. После этого SIM-карта будет заблокирована и Вам придется обратиться к оператору связи.</item>
+        <item quantity="other">Неверный PIN-код. Осталось попыток: %d.</item>
+     </plurals>
+     <plurals name="manage_condition_providers_summary_nonzero">
+        <item quantity="other">Приложений задающих условия: %d</item>
+        <item quantity="one">Приложений задающих условия: %d</item>
+    </plurals>
+</resources>

@@ -1,0 +1,11 @@
+/* font_size_scale: {bag00000000,0x02000000=0.86,0x02000001=1.0,0x02000002=1.2,0x02000003=1.21} */
+    <string-array name="font_size_scale">
+        <item>0.86</item>
+        <item>1.0</item>
+        <item>1.2</item>
+        <item>1.21</item>
+    </string-array>
+    <string-array name="st_antispam_mode_defined_state">
+    </string-array>
+    <string-array name="st_antispam_mode_defined_state_international">
+    </string-array>

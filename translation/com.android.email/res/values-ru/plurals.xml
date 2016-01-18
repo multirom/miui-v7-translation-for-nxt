@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with CloudBuildr -->
+<resources>
+     <plurals name="actionbar_unread_messages">
+        <item quantity="other">Новых писем: %1$d</item>
+     </plurals>
+     <plurals name="confirm_archive_conversation">
+        <item quantity="other">Архивировать %1$s цепочек писем?</item>
+        <item quantity="zero">Архивировать %1$s цепочек писем?</item>
+        <item quantity="one">Архивировать цепочку писем?</item>
+        <item quantity="two">Архивировать %1$s цепочки писем?</item>
+        <item quantity="few">Архивировать %1$s цепочки писем?</item>
+        <item quantity="many">Архивировать %1$s цепочек писем?</item>
+     </plurals>
+     <plurals name="confirm_delete_conversation">
+        <item quantity="other">Удалить %1$s цепочек писем?</item>
+        <item quantity="zero">Удалить %1$s цепочек писем?</item>
+        <item quantity="one">Удалить цепочку писем?</item>
+        <item quantity="two">Удалить %1$s цепочки писем?</item>
+        <item quantity="few">Удалить %1$s цепочки писем?</item>
+        <item quantity="many">Удалить %1$s цепочек писем?</item>
+     </plurals>
+     <plurals name="confirm_delete_conversation_with_sub">
+        <item quantity="other">Цепочки содержат объединенные элементы. Удалить все?</item>
+        <item quantity="zero">Цепочки содержат объединенные элементы. Удалить все?</item>
+        <item quantity="one">Цепочка содержит объединенные элементы. Удалить все?</item>
+        <item quantity="two">Цепочки содержат объединенные элементы. Удалить все?</item>
+        <item quantity="few">Цепочки содержат объединенные элементы. Удалить все?</item>
+        <item quantity="many">Цепочки содержат объединенные элементы. Удалить все?</item>
+     </plurals>
+     <plurals name="confirm_discard_drafts_conversation">
+        <item quantity="other">Удалить черновики цепочек писем (%1$d)?</item>
+        <item quantity="one">Удалить черновики цепочки писем?</item>
+     </plurals>
+      <plurals name="contact_num_selected">
+        <item quantity="other">Выбрано: %d</item>
+        <item quantity="zero">Выбрано: %d</item>
+        <item quantity="one">Выбрано: %d</item>
+        <item quantity="two">Выбрано: %d</item>
+        <item quantity="few">Выбрано: %d</item>
+        <item quantity="many">Выбрано: %d</item>
+    </plurals>
+     <plurals name="conversation_archived">
+        <item quantity="other">Отправлено в архив: <b>%1$d</b></item>
+        <item quantity="one">Отправлено в архив: <b>%1$d</b></item>
+     </plurals>
+     <plurals name="conversation_deleted">
+        <item quantity="other">Удалено цепочек писем: <b>%1$d</b></item>
+        <item quantity="one">Удалено цепочек писем: <b>%1$d</b></item>
+     </plurals>
+     <plurals name="conversation_folder_changed">
+        <item quantity="other">Папки изменены</item>
+        <item quantity="one">Папка изменена</item>
+     </plurals>
+     <plurals name="conversation_muted">
+        <item quantity="other">Скрыто цепочек писем: <b>%1$d</b></item>
+        <item quantity="one">Скрыто цепочек писем: <b>%1$d</b></item>
+     </plurals>
+     <plurals name="conversation_not_important">
+        <item quantity="other">Удалено из важных писем: <b>%1$d</b></item>
+        <item quantity="one">Удалено из важных писем: <b>%1$d</b></item>
+     </plurals>
+     <plurals name="conversation_not_spam">
+        <item quantity="other">Удалено из спама: <b>%1$d</b></item>
+        <item quantity="one">Удалено из спама: <b>%1$d</b></item>
+     </plurals>
+     <plurals name="conversation_phished">
+        <item quantity="other">Сообщено о спаме: <b>%1$d</b></item>
+        <item quantity="one">Сообщено о спаме: <b>%1$d</b></item>
+     </plurals>
+     <plurals name="conversation_spammed">
+        <item quantity="other">Отправлено в спам: <b>%1$d</b></item>
+        <item quantity="one">Отправлено в спам: <b>%1$d</b></item>
+     </plurals>
+     <plurals name="conversation_unstarred">
+        <item quantity="other">Удалено из избранного: <b>%1$d</b></item>
+        <item quantity="one">Удалено из избранного: <b>%1$d</b></item>
+     </plurals>
+     <plurals name="draft">
+        <item quantity="other">Черновики</item>
+        <item quantity="one">Черновик</item>
+     </plurals>
+     <plurals name="empty_folder_dialog_message">
+        <item quantity="other">Без возможности восстановления будут удалены %1$d писем</item>
+        <item quantity="zero">Без возможности восстановления будут удалены %1$d писем</item>
+        <item quantity="one">Без возможности восстановления будет удалено %1$d письмо</item>
+        <item quantity="two">Без возможности восстановления будут удалены %1$d письма</item>
+        <item quantity="few">Без возможности восстановления будут удалены %1$d письма</item>
+        <item quantity="many">Без возможности восстановления будут удалены %1$d писем</item>
+     </plurals>
+     <plurals name="message_view_attachment_bytes">
+        <item quantity="other">%d Б</item>
+        <item quantity="zero">%d Б</item>
+        <item quantity="one">%d Б</item>
+        <item quantity="two">%d Б</item>
+        <item quantity="few">%d Б</item>
+        <item quantity="many">%d Б</item>
+     </plurals>
+     <plurals name="message_view_attachment_gigabytes">
+        <item quantity="other">%d ГБ</item>
+        <item quantity="zero">%d ГБ</item>
+        <item quantity="one">%d ГБ</item>
+        <item quantity="two">%d ГБ</item>
+        <item quantity="few">%d ГБ</item>
+        <item quantity="many">%d ГБ</item>
+     </plurals>
+     <plurals name="message_view_attachment_kilobytes">
+        <item quantity="other">%d КБ</item>
+        <item quantity="zero">%d КБ</item>
+        <item quantity="one">%d КБ</item>
+        <item quantity="two">%d КБ</item>
+        <item quantity="few">%d КБ</item>
+        <item quantity="many">%d КБ</item>
+     </plurals>
+     <plurals name="message_view_attachment_megabytes">
+        <item quantity="other">%d МБ</item>
+        <item quantity="zero">%d МБ</item>
+        <item quantity="one">%d МБ</item>
+        <item quantity="two">%d МБ</item>
+        <item quantity="few">%d МБ</item>
+        <item quantity="many">%d МБ</item>
+     </plurals>
+     <plurals name="move_conversation">
+        <item quantity="other">Переместить %1$d цепочек писем</item>
+        <item quantity="zero">Переместить %1$d цепочек писем</item>
+        <item quantity="one">Переместить цепочку писем</item>
+        <item quantity="two">Переместить %1$d цепочки писем</item>
+        <item quantity="few">Переместить %1$d цепочки писем</item>
+        <item quantity="many">Переместить %1$d цепочек писем</item>
+     </plurals>
+     <plurals name="move_messages">
+        <item quantity="other">Переместить письма</item>
+        <item quantity="zero">Переместить письма</item>
+        <item quantity="one">Переместить письмо</item>
+        <item quantity="two">Переместить письма</item>
+        <item quantity="few">Переместить письма</item>
+        <item quantity="many">Переместить письма</item>
+     </plurals>
+     <plurals name="new_incoming_messages_many">
+        <item quantity="other">Показать %1$d новых писем</item>
+        <item quantity="zero">Показать %1$d новых писем</item>
+        <item quantity="one">Показать новое письмо</item>
+        <item quantity="two">Показать %1$d новых письма</item>
+        <item quantity="few">Показать %1$d новых письма</item>
+        <item quantity="many">Показать %1$d новых писем</item>
+     </plurals>
+     <plurals name="num_selected">
+        <item quantity="other">Выбрано: %d</item>
+        <item quantity="zero">Выбрано: %d</item>
+        <item quantity="one">Выбрано: %d</item>
+        <item quantity="two">Выбрано: %d</item>
+        <item quantity="few">Выбрано: %d</item>
+        <item quantity="many">Выбрано: %d</item>
+     </plurals>
+     <plurals name="show_messages_read">
+        <item quantity="other">%1$d устаревших писем</item>
+        <item quantity="zero">%1$d устаревших писем</item>
+        <item quantity="one">%1$d устаревшее письмо</item>
+        <item quantity="two">%1$d устаревших письма</item>
+        <item quantity="few">%1$d устаревших письма</item>
+        <item quantity="many">%1$d устаревших писем</item>
+     </plurals>
+</resources>

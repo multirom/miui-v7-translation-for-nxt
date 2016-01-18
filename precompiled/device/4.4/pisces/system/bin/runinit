@@ -1,0 +1,15 @@
+#!/system/bin/sh
+if pgrep qrngd > /dev/null; then
+  echo "qrngd already running! Seeder will not be started!"
+  exit
+fi
+
+rngd -t 2 -T 1 -s 256 --fill-watermark=80%
+sleep 2
+echo -8 > /proc/$(busybox pgrep rngd)/oom_adj
+renice 5 `busybox pidof rngd`
+
+mount -o remount,rw -t auto /system
+chmod -R 755 /system/etc/init.d
+mount -o remount,ro -t auto /system
+/system/bin/logwrapper /system/xbin/busybox run-parts /system/etc/init.d

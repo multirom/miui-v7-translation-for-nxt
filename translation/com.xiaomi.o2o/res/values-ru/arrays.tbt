@@ -1,0 +1,90 @@
+/* alphabet_table_with_starred: {bag00000000,0x02000000=!,0x02000001=#,0x02000002=A,0x02000003=B,0x02000004=C,0x02000005=D,0x02000006=E,0x02000007=F,0x02000008=G,0x02000009=H,0x0200000a=I,0x0200000b=J,0x0200000c=K,0x0200000d=L,0x0200000e=M,0x0200000f=N,0x02000010=O,0x02000011=P,0x02000012=Q,0x02000013=R,0x02000014=S,0x02000015=T,0x02000016=U,0x02000017=V,0x02000018=W,0x02000019=X,0x0200001a=Y,0x0200001b=Z} */
+    <string-array name="alphabet_table_with_starred">
+        <item>!</item>
+        <item>#</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+    </string-array>
+/* config_virtualKeyUpPattern: {bag00000000} */
+    <string-array name="config_virtualKeyUpPattern">
+    </string-array>
+/* map_app_package: {bag00000000,0x02000000=com.autonavi.minimap,0x02000001=com.baidu.BaiduMap,0x02000002=com.tencent.map,0x02000003=com.google.android.apps.maps,0x02000004=com.sogou.map.android.maps} */
+    <string-array name="map_app_package">
+        <item>com.autonavi.minimap</item>
+        <item>com.baidu.BaiduMap</item>
+        <item>com.tencent.map</item>
+        <item>com.google.android.apps.maps</item>
+        <item>com.sogou.map.android.maps</item>
+    </string-array>
+/* mobile_operator_display_names: {bag00000000,0x02000000=China Mobile,0x02000001=China Unicom,0x02000002=China Mobile,0x02000003=China Telecom,0x02000004=China Telecom,0x02000005=China Unicom,0x02000006=China Mobile,0x02000007=China Telecom,0x02000008=FarEasTone,0x02000009=Asia Pacific,0x0200000a=Vibo,0x0200000b=Chungwa,0x0200000c=Taiwan Mobile} */
+    <string-array name="mobile_operator_display_names">
+        <item>China Mobile</item>
+        <item>China Unicom</item>
+        <item>China Mobile</item>
+        <item>China Telecom</item>
+        <item>China Telecom</item>
+        <item>China Unicom</item>
+        <item>China Mobile</item>
+        <item>China Telecom</item>
+        <item>FarEasTone</item>
+        <item>Asia Pacific</item>
+        <item>Vibo</item>
+        <item>Chungwa</item>
+        <item>Taiwan Mobile</item>
+    </string-array>
+/* mobile_operator_numeric_equivalencies: {bag00000000,0x02000000=46000,0x02000001=46001,0x02000002=46000,0x02000003=46003,0x02000004=46003,0x02000005=46001,0x02000006=46000,0x02000007=46003,0x02000008=46601,0x02000009=46605,0x0200000a=46689,0x0200000b=46692,0x0200000c=46697} */
+    <string-array name="mobile_operator_numeric_equivalencies">
+        <item>46000</item>
+        <item>46001</item>
+        <item>46000</item>
+        <item>46003</item>
+        <item>46003</item>
+        <item>46001</item>
+        <item>46000</item>
+        <item>46003</item>
+        <item>46601</item>
+        <item>46605</item>
+        <item>46689</item>
+        <item>46692</item>
+        <item>46697</item>
+    </string-array>
+/* mobile_operator_numeric_values: {bag00000000,0x02000000=46000,0x02000001=46001,0x02000002=46002,0x02000003=46003,0x02000004=46005,0x02000005=46006,0x02000006=46007,0x02000007=46009,0x02000008=46601,0x02000009=46605,0x0200000a=46689,0x0200000b=46692,0x0200000c=46697} */
+    <string-array name="mobile_operator_numeric_values">
+        <item>46000</item>
+        <item>46001</item>
+        <item>46002</item>
+        <item>46003</item>
+        <item>46005</item>
+        <item>46006</item>
+        <item>46007</item>
+        <item>46009</item>
+        <item>46601</item>
+        <item>46605</item>
+        <item>46689</item>
+        <item>46692</item>
+        <item>46697</item>
+    </string-array>

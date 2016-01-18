@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with BARS Extractor -->
+<resources>
+     <plurals name="fw_blocked_count_call">
+        <item quantity="other">вызовов: %d</item>
+        <item quantity="one">вызовов: 1</item>
+     </plurals>
+     <plurals name="fw_blocked_count_sms">
+        <item quantity="other">сообщений: %d</item>
+        <item quantity="one">сообщений: 1</item>
+     </plurals>
+</resources>

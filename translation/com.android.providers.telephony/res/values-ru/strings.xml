@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="app_label">Хранилище телефона и сообщений</string>
+     <string name="default_cateogry_courier">Курьер</string>
+     <string name="default_cateogry_fraudulent">Мошенник</string>
+     <string name="default_cateogry_intermediary">Посредник</string>
+     <string name="default_cateogry_meal_delivery">Доставка еды</string>
+     <string name="default_cateogry_sales">Продажи</string>
+     <string name="mms_sms_provider_label">Сообщения</string>
+     <string name="siminfo_default_name">SIM %d</string>
+     <string name="sms_provider_label">Сообщения</string>
+</resources>

@@ -1,0 +1,4 @@
+<string name="percent_status">%.0f%%</string>
+<string name="tab_loading"><CDATA>...</CDATA></string>
+<string name="about_version">1.0.1</string>
+<string name="vp_time_separator">/</string>

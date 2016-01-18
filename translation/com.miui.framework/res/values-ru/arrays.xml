@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with CloudBuildr -->
+<resources>
+    <string-array name="boot_msg_text">
+        <item>Начало обновления…</item>
+        <item>Обновление системы…</item>
+        <item>Оптимизация приложений…</item>
+        <item>Перевод приложений…</item>
+        <item>Завершение обновления…</item>
+    </string-array>
+</resources>

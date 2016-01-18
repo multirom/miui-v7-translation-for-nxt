@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="bass_boost_strength">Усиление нижних частот</string>
+     <string name="ci_extreme">Усилитель FX</string>
+     <string name="classical">Классическая</string>
+     <string name="dance">Танцевальная</string>
+     <string name="eq_custom">Для изменения нажмите «Настроить»</string>
+     <string name="eq_dialog_title">Эквалайзер</string>
+     <string name="eq_preset_classical">Классическая</string>
+     <string name="eq_preset_dance">Танцевальная</string>
+     <string name="eq_preset_flat">Равномерно</string>
+     <string name="eq_preset_folk">Фолк</string>
+     <string name="eq_preset_heavymetal">Хэви-метал</string>
+     <string name="eq_preset_hiphop">Хип-Хоп</string>
+     <string name="eq_preset_jazz">Джаз</string>
+     <string name="eq_preset_normal">Стандартно</string>
+     <string name="eq_preset_pop">Поп</string>
+     <string name="eq_preset_rock">Рок</string>
+     <string name="flat">Равномерно</string>
+     <string name="folk">Фолк</string>
+     <string name="headset_plug">Подключите наушники для этих эффектов</string>
+     <string name="heavy_metal">Хэви-метал</string>
+     <string name="hip_hop">Хип-Хоп</string>
+     <string name="jazz">Джаз</string>
+     <string name="largehall">Большой зал</string>
+     <string name="largeroom">Большая комната</string>
+     <string name="main_toggle_effects_title">Аудиоэффекты</string>
+     <string name="mediumhall">Средний зал</string>
+     <string name="mediumroom">Средняя комната</string>
+     <string name="no_effects">Эффекты недоступны</string>
+     <string name="none">Без пресета</string>
+     <string name="normal">Стандартно</string>
+     <string name="picker_title">Выберите эквалайзер</string>
+     <string name="plate">Тарелки</string>
+     <string name="pop">Поп</string>
+     <string name="power_on_prompt">Нажмите кнопку включения в правом верхнем углу</string>
+     <string name="pr_dialog_title">Пресет реверберации</string>
+     <string name="pr_summary">Дополнительные эффекты реверберации в помещении</string>
+     <string name="pr_title">Реверберация:</string>
+     <string name="presetreverb_name">Пресет реверберации</string>
+     <string name="rock">Рок</string>
+     <string name="setup">Настроить</string>
+     <string name="smallroom">Маленькая комната</string>
+     <string name="user">Пользователь</string>
+     <string name="virtualizer_strength">Эффект 3D</string>
+</resources>

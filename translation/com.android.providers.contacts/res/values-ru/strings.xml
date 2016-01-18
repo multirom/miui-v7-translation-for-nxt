@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="app_label">Хранилище контактов</string>
+     <string name="call_log_provider_label">Вызовы</string>
+     <string name="create_contact">Новый контакт</string>
+     <string name="debug_dump_database_message">Вы собираетесь скопировать базу данных контактов и списка вызовов во внутреннюю память устройства. При этом копия базы будет отправлена по электронной почте. Обязательно удалите эти данные с устройства после того, как они будут скопированы с него либо получены в письме.</string>
+     <string name="debug_dump_delete_button">Удалить</string>
+     <string name="debug_dump_email_body">Будьте внимательны: в приложенном файле находится база данных с моими контактами</string>
+     <string name="debug_dump_email_sender_picker">Выберите приложение для отправки файла</string>
+     <string name="debug_dump_email_subject">К сообщению добавлена база данных контактов</string>
+     <string name="debug_dump_start_button">Копировать</string>
+     <string name="debug_dump_title">Копирование базы данных контактов</string>
+     <string name="default_directory">Контакты</string>
+     <string name="edit_contact">Добавить к контакту</string>
+     <string name="local_invisible_directory">Другое</string>
+     <string name="pound_search_tip">Поиск контактов по номеру</string>
+     <string name="provider_label">Контакты</string>
+     <string name="read_write_all_voicemail_description">Разрешить приложению сохранять и извлекать все голосовые сообщения, к которым есть доступ на этом устройстве</string>
+     <string name="read_write_all_voicemail_label">Доступ ко всей голосовой почте</string>
+     <string name="search_the_yellowpage">Искать категории</string>
+     <string name="send_sms">Отправить сообщение</string>
+     <string name="sharedUserLabel">Приложения ядра Android</string>
+     <string name="third_party_delete_contact_info">Приложение «%s» пытается удалить контакты. Это действие не может быть выполнено сторонним приложением. Для этого используйте стандартное приложение «Контакты».</string>
+     <string name="upgrade_msg">Обновление базы данных контактов…</string>
+     <string name="upgrade_out_of_memory_notification_text">Нажмите, чтобы завершить обновление</string>
+     <string name="upgrade_out_of_memory_notification_ticker">Необходимо больше памяти для обновления контактов</string>
+     <string name="upgrade_out_of_memory_notification_title">Обновление памяти контактов</string>
+     <string name="video_call">Видеовызов</string>
+     <string name="voicemail_from_column">Голосовое сообщение от </string>
+</resources>

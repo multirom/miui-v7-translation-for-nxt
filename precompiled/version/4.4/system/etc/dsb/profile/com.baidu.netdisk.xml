@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<profile>
+<activity name="ui.Navigate">
+        <backgroundtype>1</backgroundtype>
+        <backgroundfile>ui.MainActivity</backgroundfile>
+</activity>
+
+<activity name="ui.MyNetdiskActivity">
+        <backgroundtype>1</backgroundtype>
+        <backgroundfile>ui.MyNetdiskActivity</backgroundfile>
+</activity>
+
+<activity name="cloudp2p.ui.ShareListActivity">
+        <backgroundtype>1</backgroundtype>
+        <backgroundfile>ui.MyNetdiskActivity</backgroundfile>
+</activity>
+
+<activity name="ui.DiscoveryActivity">
+        <color>177be1</color>
+</activity>
+
+<activity name="ui.AboutMeActivity">
+        <backgroundtype>1</backgroundtype>
+        <backgroundfile>ui.AboutMeActivity</backgroundfile>
+</activity>
+
+<activity name="ui.LoginRegisterActivity">
+        <color>177be1</color>
+</activity>
+</profile>

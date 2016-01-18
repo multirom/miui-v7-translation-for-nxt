@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with CloudBuildr -->
+<resources>
+     <plurals name="editing_mode_title">
+        <item quantity="other">Выбрано: %1$d</item>
+        <item quantity="zero">Выбрано: %1$d</item>
+        <item quantity="one">Выбрано: %1$d</item>
+        <item quantity="two">Выбрано: %1$d</item>
+        <item quantity="few">Выбрано: %1$d</item>
+        <item quantity="many">Выбрано: %1$d</item>
+     </plurals>
+     <plurals name="uninstall_dialog_title_format">
+        <item quantity="other">Удалить %1$s и %2$d других приложений?</item>
+        <item quantity="one">Удалить \"%s\"?</item>
+     </plurals>
+     <plurals name="uninstall_result_failed">
+        <item quantity="other">Не удалось удалить %1$s и ещё %2$d</item>
+        <item quantity="one">Не удалось удалить \"%s\"</item>
+        <item quantity="two">Не удалось удалить \"%s\" и ещё 1 приложение</item>
+     </plurals>
+     <plurals name="uninstall_result_succeeded">
+        <item quantity="other">Удалено приложений %1$d</item>
+		<item quantity="zero">Удалено приложений %1$d</item>
+        <item quantity="one">Приложение удалено</item>
+		<item quantity="two">Удалено приложений %1$d</item>
+        <item quantity="many">Удалено приложений %1$d</item>
+     </plurals>
+</resources>

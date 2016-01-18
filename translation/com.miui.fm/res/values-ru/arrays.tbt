@@ -1,0 +1,137 @@
+/* freq_entries: {bag00000000,0x02000000= ,0x02000001=0,0x02000002=1,0x02000003=2,0x02000004=3,0x02000005=4,0x02000006=5,0x02000007=6,0x02000008=7,0x02000009=8,0x0200000a=9,0x0200000b=.} */
+    <string-array name="freq_entries">
+        <item> </item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>.</item>
+    </string-array>
+/* freq_entryValues: {bag00000000,0x02000000={t=0x01 d=0x7f020028},0x02000001={t=0x01 d=0x7f02001e},0x02000002={t=0x01 d=0x7f02001f},0x02000003={t=0x01 d=0x7f020020},0x02000004={t=0x01 d=0x7f020021},0x02000005={t=0x01 d=0x7f020022},0x02000006={t=0x01 d=0x7f020023},0x02000007={t=0x01 d=0x7f020024},0x02000008={t=0x01 d=0x7f020025},0x02000009={t=0x01 d=0x7f020026},0x0200000a={t=0x01 d=0x7f020027},0x0200000b={t=0x01 d=0x7f020029}} */
+    <string-array name="freq_entryValues">
+    </string-array>
+/* regional_band_values: {bag00000000,0x02000000=0,0x02000001=1,0x02000002=2,0x02000003=3,0x02000004=4,0x02000005=5,0x02000006=6,0x02000007=7,0x02000008=8,0x02000009=9,0x0200000a=10,0x0200000b=11,0x0200000c=12,0x0200000d=13,0x0200000e=14,0x0200000f=15,0x02000010=16,0x02000011=17,0x02000012=18,0x02000013=19,0x02000014=20,0x02000015=21,0x02000016=22,0x02000017=23,0x02000018=24,0x02000019=25,0x0200001a=26,0x0200001b=27,0x0200001c=28,0x0200001d=29,0x0200001e=30,0x0200001f=31,0x02000020=32,0x02000021=33,0x02000022=34,0x02000023=35} */
+    <string-array name="regional_band_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+        <item>32</item>
+        <item>33</item>
+        <item>34</item>
+        <item>35</item>
+    </string-array>
+/* search_category_rbds_values: {bag00000000,0x02000000=0,0x02000001=7,0x02000002=15,0x02000003=6,0x02000004=23,0x02000005=10,0x02000006=31,0x02000007=30,0x02000008=18,0x02000009=2,0x0200000a=14,0x0200000b=1,0x0200000c=13,0x0200000d=11,0x0200000e=21,0x0200000f=22,0x02000010=19,0x02000011=20,0x02000012=16,0x02000013=5,0x02000014=12,0x02000015=8,0x02000016=17,0x02000017=3,0x02000018=4,0x02000019=9,0x0200001a=29} */
+    <string-array name="search_category_rbds_values">
+        <item>0</item>
+        <item>7</item>
+        <item>15</item>
+        <item>6</item>
+        <item>23</item>
+        <item>10</item>
+        <item>31</item>
+        <item>30</item>
+        <item>18</item>
+        <item>2</item>
+        <item>14</item>
+        <item>1</item>
+        <item>13</item>
+        <item>11</item>
+        <item>21</item>
+        <item>22</item>
+        <item>19</item>
+        <item>20</item>
+        <item>16</item>
+        <item>5</item>
+        <item>12</item>
+        <item>8</item>
+        <item>17</item>
+        <item>3</item>
+        <item>4</item>
+        <item>9</item>
+        <item>29</item>
+    </string-array>
+/* search_category_rds_values: {bag00000000,0x02000000=0,0x02000001=7,0x02000002=2,0x02000003=18,0x02000004=25,0x02000005=29,0x02000006=6,0x02000007=12,0x02000008=5,0x02000009=31,0x0200000a=30,0x0200000b=17,0x0200000c=28,0x0200000d=3,0x0200000e=24,0x0200000f=13,0x02000010=23,0x02000011=1,0x02000012=26,0x02000013=15,0x02000014=27,0x02000015=21,0x02000016=10,0x02000017=20,0x02000018=11,0x02000019=8,0x0200001a=14,0x0200001b=19,0x0200001c=4,0x0200001d=22,0x0200001e=9,0x0200001f=16} */
+    <string-array name="search_category_rds_values">
+        <item>0</item>
+        <item>7</item>
+        <item>2</item>
+        <item>18</item>
+        <item>25</item>
+        <item>29</item>
+        <item>6</item>
+        <item>12</item>
+        <item>5</item>
+        <item>31</item>
+        <item>30</item>
+        <item>17</item>
+        <item>28</item>
+        <item>3</item>
+        <item>24</item>
+        <item>13</item>
+        <item>23</item>
+        <item>1</item>
+        <item>26</item>
+        <item>15</item>
+        <item>27</item>
+        <item>21</item>
+        <item>10</item>
+        <item>20</item>
+        <item>11</item>
+        <item>8</item>
+        <item>14</item>
+        <item>19</item>
+        <item>4</item>
+        <item>22</item>
+        <item>9</item>
+        <item>16</item>
+    </string-array>
+/* sleep_duration_values_seconds: {bag00000000,0x02000000=900,0x02000001=1800,0x02000002=2700,0x02000003=3600} */
+    <string-array name="sleep_duration_values_seconds">
+        <item>900</item>
+        <item>1800</item>
+        <item>2700</item>
+        <item>3600</item>
+    </string-array>
+    <string-array name="download_quality">
+    </string-array>
+    <string-array name="number_value_entries_dark">
+    </string-array>
+    <string-array name="tone_quality">
+    </string-array>
+    <string-array name="tone_quality_summary">
+    </string-array>

@@ -1,0 +1,9 @@
+<string name="account_manager_type_exchange">com.android.exchange</string>
+<string name="authority_email_provider">com.android.email.provider</string>
+<string name="email_package_name">com.android.email</string>
+<string name="mailbox_name_server_drafts">Drafts</string>
+<string name="mailbox_name_server_inbox">Inbox</string>
+<string name="mailbox_name_server_junk">Junk</string>
+<string name="mailbox_name_server_outbox">Outbox</string>
+<string name="mailbox_name_server_sent">Sent</string>
+<string name="mailbox_name_server_trash">Trash</string>

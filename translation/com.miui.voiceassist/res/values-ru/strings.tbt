@@ -1,0 +1,14 @@
+<string name="cancel_schecule">取消设置提醒</string>
+<string name="durationformatlong">-%1$d:%3$02d:%5$02d</string>
+<string name="durationformatshort">-%2$d:%5$02d</string>
+<string name="not_remind">Do not remind again</string>
+<string name="permission">Permission</string>
+<string name="permission_allow">Let VoiceAssist read your contacts, access the internet, and use GPS?</string>
+<string name="permission_switch">Let VoiceAssist read your contacts, access the internet, and use GPS</string>
+<string name="success_schecule">设置提醒成功</string>
+<string name="to_degree">到</string>
+<string name="view_forecast_item_yesterday">昨天</string>
+<string name="view_indexes_item_today">今天</string>
+<string name="view_indexes_item_tommorrow">明天</string>
+<string name="weather">天气</string>
+<string name="weather_unit">°</string>

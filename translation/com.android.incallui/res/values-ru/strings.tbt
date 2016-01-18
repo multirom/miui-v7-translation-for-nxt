@@ -1,0 +1,9 @@
+<string name="default_port">5060</string>
+<string name="default_transport">UDP</string>
+<string name="domain_address">SipDomain</string>
+<string name="sip_address_only">SIP_ADDRESS_ONLY</string>
+<string name="sip_always">SIP_ALWAYS</string>
+<string name="sip_ask_me_each_time">SIP_ASK_ME_EACH_TIME</string>
+<string name="sub_1">SUB 1</string>
+<string name="sub_2">SUB 2</string>
+<string name="voicemail_notification_vibrate_when_default">never</string>

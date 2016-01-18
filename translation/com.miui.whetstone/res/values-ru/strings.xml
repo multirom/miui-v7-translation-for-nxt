@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="app_name">Whetstone</string>
+     <string name="permstep_description">Разрешить приложению считывать информацию шагомера</string>
+     <string name="permstep_label">Данные шагомера</string>
+</resources>

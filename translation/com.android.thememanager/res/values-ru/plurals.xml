@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with BARS Extractor -->
+<resources>
+     <plurals name="theme_update_local_resource_notifaction">
+        <item quantity="other">Доступно обновление для %1$d тем</item>
+        <item quantity="one">Доступно обновление для %1$d темы</item>
+     </plurals>
+     <plurals name="theme_batch_has_update_text">
+        <item quantity="other">Доступно обновление для %1$d тем</item>
+        <item quantity="one">Доступно обновление для %1$d темы</item>
+     </plurals>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="app_name">Служба WFD SDK</string>
+     <string name="permdesc_qcWifiP2p">Разрешает WFD SDK управлять Wi-Fi P2P.</string>
+     <string name="permlab_qcWifiP2p">Qualcomm Wi-Fi P2P</string>
+</resources>

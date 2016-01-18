@@ -1,0 +1,3 @@
+<string name="date_format">yyyy-MM-dd HH:mm:ss</string>
+<string name="dir_date_format">yyyyMMdd_HHmmss</string>
+<string name="xiaomi_account_type">com.xiaomi</string>

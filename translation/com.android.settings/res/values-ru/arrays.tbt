@@ -1,0 +1,832 @@
+/* always_enabled_app_list: {bag00000000,0x02000000=com.android.providers.applications,0x02000001=com.android.providers.calendar,0x02000002=com.android.providers.contacts,0x02000003=com.android.providers.downloads,0x02000004=com.android.providers.drm,0x02000005=com.android.providers.media,0x02000006=com.android.providers.telephony,0x02000007=com.android.providers.userdictionary,0x02000008=com.miui.providers.userbook,0x02000009=com.miui.providers.weather,0x0200000a=com.miui.yellowpage,0x0200000b=com.miui} */
+    <string-array name="always_enabled_app_list">
+        <item>com.android.providers.applications</item>
+        <item>com.android.providers.calendar</item>
+        <item>com.android.providers.contacts</item>
+        <item>com.android.providers.downloads</item>
+        <item>com.android.providers.drm</item>
+        <item>com.android.providers.media</item>
+        <item>com.android.providers.telephony</item>
+        <item>com.android.providers.userdictionary</item>
+        <item>com.miui.providers.userbook</item>
+        <item>com.miui.providers.weather</item>
+        <item>com.miui.yellowpage</item>
+        <item>com.miui</item>
+    </string-array>
+/* animator_duration_scale_values: {bag00000000,0x02000000=0,0x02000001=.5,0x02000002=1,0x02000003=1.5,0x02000004=2,0x02000005=5,0x02000006=10} */
+    <string-array name="animator_duration_scale_values">
+        <item>0</item>
+        <item>.5</item>
+        <item>1</item>
+        <item>1.5</item>
+        <item>2</item>
+        <item>5</item>
+        <item>10</item>
+    </string-array>
+/* apn_auth_values: {bag00000000,0x02000000=0,0x02000001=1,0x02000002=2,0x02000003=3} */
+    <string-array name="apn_auth_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+/* apn_protocol_entries: {bag00000000,0x02000000=IPv4,0x02000001=IPv6,0x02000002=IPv4/IPv6} */
+    <string-array name="apn_protocol_entries">
+        <item>IPv4</item>
+        <item>IPv6</item>
+        <item>IPv4/IPv6</item>
+    </string-array>
+/* apn_protocol_values: {bag00000000,0x02000000=IP,0x02000001=IPV6,0x02000002=IPV4V6} */
+    <string-array name="apn_protocol_values">
+        <item>IP</item>
+        <item>IPV6</item>
+        <item>IPV4V6</item>
+    </string-array>
+/* app_install_location_values: {bag00000000,0x02000000=device,0x02000001=sdcard,0x02000002=auto} */
+    <string-array name="app_install_location_values">
+        <item>device</item>
+        <item>sdcard</item>
+        <item>auto</item>
+    </string-array>
+/* app_process_limit_values: {bag00000000,0x02000000=-1,0x02000001=0,0x02000002=1,0x02000003=2,0x02000004=3,0x02000005=4} */
+    <string-array name="app_process_limit_values">
+        <item>-1</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+/* battery_indicator_style_values: {bag00000000,0x02000000=0,0x02000001=1,0x02000002=2} */
+    <string-array name="battery_indicator_style_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+/* bearer_values: {bag00000000,0x02000000=14,0x02000001=13,0x02000002=0} */
+    <string-array name="bearer_values">
+        <item>14</item>
+        <item>13</item>
+        <item>0</item>
+    </string-array>
+/* button_light_timeout_value: {bag00000000,0x02000000=1000,0x02000001=2000,0x02000002=5000,0x02000003=10000,0x02000004=20000,0x02000005=-1} */
+    <string-array name="button_light_timeout_value">
+        <item>1000</item>
+        <item>2000</item>
+        <item>5000</item>
+        <item>10000</item>
+        <item>20000</item>
+        <item>-1</item>
+    </string-array>
+/* captioning_color_selector_titles: {bag00000000,0x02000000={t=0x01 d=0x7f0a058d},0x02000001={t=0x01 d=0x7f0a058f},0x02000002={t=0x01 d=0x7f0a0590},0x02000003={t=0x01 d=0x7f0a0594},0x02000004={t=0x01 d=0x7f0a0591},0x02000005={t=0x01 d=0x7f0a0593},0x02000006={t=0x01 d=0x7f0a0592},0x02000007={t=0x01 d=0x7f0a0595}} */
+    <string-array name="captioning_color_selector_titles">
+    </string-array>
+/* captioning_color_selector_values: {bag00000000,0x02000000={t=0x11 d=0xffffffff},0x02000001={t=0x11 d=0xff000000},0x02000002={t=0x11 d=0xffff0000},0x02000003={t=0x11 d=0xffffff00},0x02000004={t=0x11 d=0xff00ff00},0x02000005={t=0x11 d=0xff00ffff},0x02000006={t=0x11 d=0xff0000ff},0x02000007={t=0x11 d=0xffff00ff},0x02000008={t=0x11 d=0xff000055},0x02000009={t=0x11 d=0xff0000aa},0x0200000a={t=0x11 d=0xff005500},0x0200000b={t=0x11 d=0xff005555},0x0200000c={t=0x11 d=0xff0055aa},0x0200000d={t=0x11 d=0xff0055ff},0x0200000e={t=0x11 d=0xff00aa00},0x0200000f={t=0x11 d=0xff00aa55},0x02000010={t=0x11 d=0xff00aaaa},0x02000011={t=0x11 d=0xff00aaff},0x02000012={t=0x11 d=0xff00ff55},0x02000013={t=0x11 d=0xff00ffaa},0x02000014={t=0x11 d=0xff550000},0x02000015={t=0x11 d=0xff550055},0x02000016={t=0x11 d=0xff5500aa},0x02000017={t=0x11 d=0xff5500ff},0x02000018={t=0x11 d=0xff555500},0x02000019={t=0x11 d=0xff555555},0x0200001a={t=0x11 d=0xff5555aa},0x0200001b={t=0x11 d=0xff5555ff},0x0200001c={t=0x11 d=0xff55aa00},0x0200001d={t=0x11 d=0xff55aa55},0x0200001e={t=0x11 d=0xff55aaaa},0x0200001f={t=0x11 d=0xff55aaff},0x02000020={t=0x11 d=0xff55ff00},0x02000021={t=0x11 d=0xff55ff55},0x02000022={t=0x11 d=0xff55ffaa},0x02000023={t=0x11 d=0xff55ffff},0x02000024={t=0x11 d=0xffaa0000},0x02000025={t=0x11 d=0xffaa0055},0x02000026={t=0x11 d=0xffaa00aa},0x02000027={t=0x11 d=0xffaa00ff},0x02000028={t=0x11 d=0xffaa5500},0x02000029={t=0x11 d=0xffaa5555},0x0200002a={t=0x11 d=0xffaa55aa},0x0200002b={t=0x11 d=0xffaa55ff},0x0200002c={t=0x11 d=0xffaaaa00},0x0200002d={t=0x11 d=0xffaaaa55},0x0200002e={t=0x11 d=0xffaaaaaa},0x0200002f={t=0x11 d=0xffaaaaff},0x02000030={t=0x11 d=0xffaaff00},0x02000031={t=0x11 d=0xffaaff55},0x02000032={t=0x11 d=0xffaaffaa},0x02000033={t=0x11 d=0xffaaffff},0x02000034={t=0x11 d=0xffff0055},0x02000035={t=0x11 d=0xffff00aa},0x02000036={t=0x11 d=0xffff5500},0x02000037={t=0x11 d=0xffff5555},0x02000038={t=0x11 d=0xffff55aa},0x02000039={t=0x11 d=0xffff55ff},0x0200003a={t=0x11 d=0xffffaa00},0x0200003b={t=0x11 d=0xffffaa55},0x0200003c={t=0x11 d=0xffffaaaa},0x0200003d={t=0x11 d=0xffffaaff},0x0200003e={t=0x11 d=0xffffff55},0x0200003f={t=0x11 d=0xffffffaa}} */
+    <string-array name="captioning_color_selector_values">
+    </string-array>
+/* captioning_edge_type_selector_values: {bag00000000,0x02000000={t=0x10 d=0x00000000},0x02000001={t=0x10 d=0x00000001},0x02000002={t=0x10 d=0x00000002}} */
+    <string-array name="captioning_edge_type_selector_values">
+    </string-array>
+/* captioning_font_size_selector_values: {bag00000000,0x02000000=0.25,0x02000001=0.5,0x02000002=1.0,0x02000003=1.5,0x02000004=2.0} */
+    <string-array name="captioning_font_size_selector_values">
+        <item>0.25</item>
+        <item>0.5</item>
+        <item>1.0</item>
+        <item>1.5</item>
+        <item>2.0</item>
+    </string-array>
+/* captioning_opacity_selector_values: {bag00000000,0x02000000={t=0x11 d=0x40ffffff},0x02000001={t=0x11 d=0x80ffffff},0x02000002={t=0x11 d=0xc0ffffff},0x02000003={t=0x11 d=0xffffffff}} */
+    <string-array name="captioning_opacity_selector_values">
+    </string-array>
+/* captioning_preset_selector_values: {bag00000000,0x02000000={t=0x10 d=0x00000000},0x02000001={t=0x10 d=0x00000001},0x02000002={t=0x10 d=0x00000002},0x02000003={t=0x10 d=0x00000003},0x02000004={t=0x10 d=0xffffffff}} */
+    <string-array name="captioning_preset_selector_values">
+    </string-array>
+/* captioning_typeface_selector_values: {bag00000000,0x02000000=,0x02000001=sans-serif,0x02000002=sans-serif-condensed,0x02000003=serif,0x02000004=monospace} */
+    <string-array name="captioning_typeface_selector_values">
+        <item></item>
+        <item>sans-serif</item>
+        <item>sans-serif-condensed</item>
+        <item>serif</item>
+        <item>monospace</item>
+    </string-array>
+/* change_security_lock_picker_key: {bag00000000,0x02000000=facial,0x02000001=pattern,0x02000002=numerical,0x02000003=mixed} */
+    <string-array name="change_security_lock_picker_key">
+        <item>facial</item>
+        <item>pattern</item>
+        <item>numerical</item>
+        <item>mixed</item>
+    </string-array>
+/* date_format_values: {bag00000000,0x02000000=,0x02000001=MM-dd-yyyy,0x02000002=dd-MM-yyyy,0x02000003=yyyy-MM-dd} */
+    <string-array name="date_format_values">
+        <item></item>
+        <item>MM-dd-yyyy</item>
+        <item>dd-MM-yyyy</item>
+        <item>yyyy-MM-dd</item>
+    </string-array>
+/* debug_hw_overdraw_values: {bag00000000,0x02000000=false,0x02000001=show,0x02000002=show_deuteranomaly,0x02000003=count} */
+    <string-array name="debug_hw_overdraw_values">
+        <item>false</item>
+        <item>show</item>
+        <item>show_deuteranomaly</item>
+        <item>count</item>
+    </string-array>
+/* dndm_auto_time_trun_on_off: {bag00000000,0x02000000={t=0x01 d=0x7f0a0822},0x02000001={t=0x01 d=0x7f0a0824}} */
+    <string-array name="dndm_auto_time_trun_on_off">
+    </string-array>
+/* dndm_vip_list_group_array: {bag00000000,0x02000000={t=0x01 d=0x7f0a0831},0x02000001={t=0x01 d=0x7f0a0832}} */
+    <string-array name="dndm_vip_list_group_array">
+    </string-array>
+/* dolby_bassboost_rank_valus: {bag00000000,0x02000000=0,0x02000001=3,0x02000002=6} */
+    <string-array name="dolby_bassboost_rank_valus">
+        <item>0</item>
+        <item>3</item>
+        <item>6</item>
+    </string-array>
+/* dolby_bassboost_ranks: {bag00000000,0x02000000={t=0x01 d=0x7f0a0974},0x02000001={t=0x01 d=0x7f0a0975},0x02000002={t=0x01 d=0x7f0a0976}} */
+    <string-array name="dolby_bassboost_ranks">
+    </string-array>
+/* dolby_equalizer_preset_values: {bag00000000,0x02000000=0,0,0,0,0,0,0,0x02000001=16,8,0,-8,0,8,16,0x02000002=0,0,-4,-8,-8,-4,0,0x02000003=-8,-20,4,12,8,8,8,0x02000004=4,0,0,-8,-4,0,0,0x02000005=16,4,-4,-4,4,4,4,0x02000006=16,-4,0,-8,0,-4,-4,0x02000007=4,0,-4,-8,0,4,8,0x02000008=16,4,-8,-4,-8,-4,0,0x02000009=0,-4,-4,-4,-8,-4,-8,0x0200000a=16,12,-24,-24,-16,12,16,0x0200000b=24,14,-20,6,12,16,8} */
+    <string-array name="dolby_equalizer_preset_values">
+        <item>0,0,0,0,0,0,0</item>
+        <item>16,8,0,-8,0,8,16</item>
+        <item>0,0,-4,-8,-8,-4,0</item>
+        <item>-8,-20,4,12,8,8,8</item>
+        <item>4,0,0,-8,-4,0,0</item>
+        <item>16,4,-4,-4,4,4,4</item>
+        <item>16,-4,0,-8,0,-4,-4</item>
+        <item>4,0,-4,-8,0,4,8</item>
+        <item>16,4,-8,-4,-8,-4,0</item>
+        <item>0,-4,-4,-4,-8,-4,-8</item>
+        <item>16,12,-24,-24,-16,12,16</item>
+        <item>24,14,-20,6,12,16,8</item>
+    </string-array>
+/* dolby_mode_entries: {bag00000000,0x02000000={t=0x01 d=0x7f0a096d},0x02000001={t=0x01 d=0x7f0a096e},0x02000002={t=0x01 d=0x7f0a096f}} */
+    <string-array name="dolby_mode_entries">
+    </string-array>
+/* dolby_roomsize_rank_valus: {bag00000000,0x02000000=0,0x02000001=1,0x02000002=2} */
+    <string-array name="dolby_roomsize_rank_valus">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+/* dolby_roomsize_ranks: {bag00000000,0x02000000={t=0x01 d=0x7f0a0979},0x02000001={t=0x01 d=0x7f0a097a},0x02000002={t=0x01 d=0x7f0a097b}} */
+    <string-array name="dolby_roomsize_ranks">
+    </string-array>
+/* dream_timeout_values: {bag00000000,0x02000000=0,0x02000001=15000,0x02000002=30000,0x02000003=60000,0x02000004=120000,0x02000005=300000,0x02000006=600000,0x02000007=1800000} */
+    <string-array name="dream_timeout_values">
+        <item>0</item>
+        <item>15000</item>
+        <item>30000</item>
+        <item>60000</item>
+        <item>120000</item>
+        <item>300000</item>
+        <item>600000</item>
+        <item>1800000</item>
+    </string-array>
+/* emergency_tone_values: {bag00000000,0x02000000=0,0x02000001=1,0x02000002=2} */
+    <string-array name="emergency_tone_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+/* enable_opengl_traces_values: {bag00000000,0x02000000=0,0x02000001=1,0x02000002=systrace,0x02000003=error} */
+    <string-array name="enable_opengl_traces_values">
+        <item>0</item>
+        <item>1</item>
+        <item>systrace</item>
+        <item>error</item>
+    </string-array>
+/* entryvalues_font_size: {bag00000000,0x02000000=0.85,0x02000001=1.0,0x02000002=1.15,0x02000003=1.30} */
+    <string-array name="entryvalues_font_size">
+        <item>0.85</item>
+        <item>1.0</item>
+        <item>1.15</item>
+        <item>1.30</item>
+    </string-array>
+/* font_size_preference_preview_size: {bag00000000,0x02000000={t=0x10 d=0x0000000e},0x02000001={t=0x10 d=0x00000012},0x02000002={t=0x10 d=0x00000016},0x02000003={t=0x10 d=0x0000001b}} */
+    <string-array name="font_size_preference_preview_size">
+    </string-array>
+/* font_size_title: {bag00000000,0x02000000={t=0x01 d=0x7f0a0946},0x02000001={t=0x01 d=0x7f0a0947},0x02000002={t=0x01 d=0x7f0a0948},0x02000003={t=0x01 d=0x7f0a0949}} */
+    <string-array name="font_size_title">
+    </string-array>
+/* handy_mode_size_value_entries: {bag00000000,0x02000000=4.5,0x02000001=4.0,0x02000002=3.5} */
+    <string-array name="handy_mode_size_value_entries">
+        <item>4.5</item>
+        <item>4.0</item>
+        <item>3.5</item>
+    </string-array>
+/* haptic_feedback_level_values: {bag00000000,0x02000000=2,0x02000001=1,0x02000002=0} */
+    <string-array name="haptic_feedback_level_values">
+        <item>2</item>
+        <item>1</item>
+        <item>0</item>
+    </string-array>
+/* hdcp_checking_values: {bag00000000,0x02000000=never,0x02000001=drm-only,0x02000002=always} */
+    <string-array name="hdcp_checking_values">
+        <item>never</item>
+        <item>drm-only</item>
+        <item>always</item>
+    </string-array>
+/* input_method_selector_titles: {bag00000000,0x02000000={t=0x01 d=0x7f0a0529},0x02000001={t=0x01 d=0x7f0a052a},0x02000002={t=0x01 d=0x7f0a052b}} */
+    <string-array name="input_method_selector_titles">
+    </string-array>
+/* input_method_selector_values: {bag00000000,0x02000000={t=0x01 d=0x7f0a0055},0x02000001={t=0x01 d=0x7f0a0056},0x02000002={t=0x01 d=0x7f0a0057}} */
+    <string-array name="input_method_selector_values">
+    </string-array>
+/* led_color_values: {bag00000000,0x02000000=blue,0x02000001=red,0x02000002=yellow,0x02000003=green,0x02000004=cyan,0x02000005=white,0x02000006=#FFAA00AA} */
+    <string-array name="led_color_values">
+        <item>blue</item>
+        <item>red</item>
+        <item>yellow</item>
+        <item>green</item>
+        <item>cyan</item>
+        <item>white</item>
+        <item>#FFAA00AA</item>
+    </string-array>
+/* led_freq_values: {bag00000000,0x02000000=2000,0x02000001=3000,0x02000002=4000,0x02000003=5000,0x02000004=6000,0x02000005=7000,0x02000006=8000,0x02000007=9000} */
+    <string-array name="led_freq_values">
+        <item>2000</item>
+        <item>3000</item>
+        <item>4000</item>
+        <item>5000</item>
+        <item>6000</item>
+        <item>7000</item>
+        <item>8000</item>
+        <item>9000</item>
+    </string-array>
+/* lock_after_timeout_values: {bag00000000,0x02000000=0,0x02000001=5000,0x02000002=15000,0x02000003=30000,0x02000004=60000,0x02000005=120000,0x02000006=300000,0x02000007=600000,0x02000008=1800000} */
+    <string-array name="lock_after_timeout_values">
+        <item>0</item>
+        <item>5000</item>
+        <item>15000</item>
+        <item>30000</item>
+        <item>60000</item>
+        <item>120000</item>
+        <item>300000</item>
+        <item>600000</item>
+        <item>1800000</item>
+    </string-array>
+/* long_press_timeout_selector_values: {bag00000000,0x02000000=500,0x02000001=1000,0x02000002=1500} */
+    <string-array name="long_press_timeout_selector_values">
+        <item>500</item>
+        <item>1000</item>
+        <item>1500</item>
+    </string-array>
+/* media_feedback_level_values: {bag00000000,0x02000000=15,0x02000001=7,0x02000002=0} */
+    <string-array name="media_feedback_level_values">
+        <item>15</item>
+        <item>7</item>
+        <item>0</item>
+    </string-array>
+/* mi1_led_color_values: {bag00000000,0x02000000=blue,0x02000001=red,0x02000002=green,0x02000003=#FFFF0033,0x02000004=#FF5500FF,0x02000005=#FFAA00AA} */
+    <string-array name="mi1_led_color_values">
+        <item>blue</item>
+        <item>red</item>
+        <item>green</item>
+        <item>#FFFF0033</item>
+        <item>#FF5500FF</item>
+        <item>#FFAA00AA</item>
+    </string-array>
+/* mi2_wifi_security: {bag00000000,0x02000000={t=0x01 d=0x7f0a028e},0x02000001={t=0x01 d=0x7f0a028f},0x02000002={t=0x01 d=0x7f0a0293},0x02000003={t=0x01 d=0x7f0a0294},0x02000004=WAPI PSK,0x02000005=WAPI CERT} */
+    <string-array name="mi2_wifi_security">
+        <item>WAPI PSK</item>
+        <item>WAPI CERT</item>
+    </string-array>
+/* msd_pc_system_download_summary: {bag00000000,0x02000000={t=0x01 d=0x7f0a09ad},0x02000001=,0x02000002={t=0x01 d=0x7f0a09af},0x02000003=} */
+    <string-array name="msd_pc_system_download_summary">
+        <item></item>
+        <item></item>
+    </string-array>
+/* msd_pc_system_retry_mac: {bag00000000,0x02000000={t=0x01 d=0x7f0a09a9},0x02000001={t=0x01 d=0x7f0a09a7},0x02000002={t=0x01 d=0x7f0a09a8}} */
+    <string-array name="msd_pc_system_retry_mac">
+    </string-array>
+/* msd_pc_system_retry_vista: {bag00000000,0x02000000={t=0x01 d=0x7f0a09a7}} */
+    <string-array name="msd_pc_system_retry_vista">
+    </string-array>
+/* mvno_type_values: {bag00000000,0x02000000=,0x02000001=spn,0x02000002=imsi,0x02000003=gid} */
+    <string-array name="mvno_type_values">
+        <item></item>
+        <item>spn</item>
+        <item>imsi</item>
+        <item>gid</item>
+    </string-array>
+/* nfc_se_route_values: {bag00000000,0x02000000=1,0x02000001=2} */
+    <string-array name="nfc_se_route_values">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+/* overlay_display_devices_values: {bag00000000,0x02000000=,0x02000001=720x480/160,0x02000002=720x480/160,secure,0x02000003=1280x720/213,0x02000004=1280x720/213,secure,0x02000005=1920x1080/320,0x02000006=1920x1080/320,secure,0x02000007=1280x720/213;1920x1080/320} */
+    <string-array name="overlay_display_devices_values">
+        <item></item>
+        <item>720x480/160</item>
+        <item>720x480/160,secure</item>
+        <item>1280x720/213</item>
+        <item>1280x720/213,secure</item>
+        <item>1920x1080/320</item>
+        <item>1920x1080/320,secure</item>
+        <item>1280x720/213;1920x1080/320</item>
+    </string-array>
+/* permission_risk_privacy: {bag00000000,0x02000000=android.permission.ACCESS_COARSE_LOCATION,0x02000001=android.permission.ACCESS_FINE_LOCATION,0x02000002=android.permission.DUMP,0x02000003=android.permission.GET_TASKS,0x02000004=android.permission.INSTALL_LOCATION_PROVIDER,0x02000005=android.permission.READ_CALENDAR,0x02000006=android.permission.READ_CONTACTS,0x02000007=android.permission.READ_PHONE_STATE,0x02000008=android.permission.READ_SMS,0x02000009=android.permission.READ_SOCIAL_STREAM,0x0200000a=android.permission.RECEIVE_MMS,0x0200000b=android.permission.RECEIVE_SMS,0x0200000c=android.permission.RECEIVE_WAP_PUSH,0x0200000d=android.permission.RETRIEVE_WINDOW_CONTENT} */
+    <string-array name="permission_risk_privacy">
+        <item>android.permission.ACCESS_COARSE_LOCATION</item>
+        <item>android.permission.ACCESS_FINE_LOCATION</item>
+        <item>android.permission.DUMP</item>
+        <item>android.permission.GET_TASKS</item>
+        <item>android.permission.INSTALL_LOCATION_PROVIDER</item>
+        <item>android.permission.READ_CALENDAR</item>
+        <item>android.permission.READ_CONTACTS</item>
+        <item>android.permission.READ_PHONE_STATE</item>
+        <item>android.permission.READ_SMS</item>
+        <item>android.permission.READ_SOCIAL_STREAM</item>
+        <item>android.permission.RECEIVE_MMS</item>
+        <item>android.permission.RECEIVE_SMS</item>
+        <item>android.permission.RECEIVE_WAP_PUSH</item>
+        <item>android.permission.RETRIEVE_WINDOW_CONTENT</item>
+    </string-array>
+/* permission_risk_security: {bag00000000,0x02000000=android.permission.ACCESS_LOCATION_EXTRA_COMMANDS,0x02000001=android.permission.ACCESS_MOCK_LOCATION,0x02000002=android.permission.BROADCAST_PACKAGE_REMOVED,0x02000003=android.permission.BROADCAST_SMS,0x02000004=android.permission.BROADCAST_STICKY,0x02000005=android.permission.BROADCAST_WAP_PUSH,0x02000006=android.permission.CHANGE_COMPONENT_ENABLED_STATE,0x02000007=android.permission.DELETE_PACKAGES,0x02000008=android.permission.INJECT_EVENTS,0x02000009=android.permission.INSTALL_PACKAGES,0x0200000a=android.permission.INTERNET,0x0200000b=android.permission.MODIFY_AUDIO_SETTINGS,0x0200000c=android.permission.MODIFY_PHONE_STATE,0x0200000d=android.permission.PERFORM_CDMA_PROVISIONING,0x0200000e=android.permission.PROCESS_OUTGOING_CALLS,0x0200000f=android.permission.REMOVE_TASKS,0x02000010=android.permission.REORDER_TASKS,0x02000011=android.permission.SET_ACTIVITY_WATCHER,0x02000012=android.permission.SET_DEBUG_APP,0x02000013=android.permission.SET_PREFERRED_APPLICATIONS,0x02000014=android.permission.SUBSCRIBED_FEEDS_WRITE,0x02000015=android.permission.SYSTEM_ALERT_WINDOW,0x02000016=android.permission.WRITE_APN_SETTINGS,0x02000017=android.permission.WRITE_CALENDAR,0x02000018=android.permission.WRITE_CONTACTS,0x02000019=android.permission.WRITE_SETTINGS,0x0200001a=android.permission.WRITE_SMS,0x0200001b=android.permission.WRITE_SOCIAL_STREAM,0x0200001c=com.android.browser.permission.WRITE_HISTORY_BOOKMARKS} */
+    <string-array name="permission_risk_security">
+        <item>android.permission.ACCESS_LOCATION_EXTRA_COMMANDS</item>
+        <item>android.permission.ACCESS_MOCK_LOCATION</item>
+        <item>android.permission.BROADCAST_PACKAGE_REMOVED</item>
+        <item>android.permission.BROADCAST_SMS</item>
+        <item>android.permission.BROADCAST_STICKY</item>
+        <item>android.permission.BROADCAST_WAP_PUSH</item>
+        <item>android.permission.CHANGE_COMPONENT_ENABLED_STATE</item>
+        <item>android.permission.DELETE_PACKAGES</item>
+        <item>android.permission.INJECT_EVENTS</item>
+        <item>android.permission.INSTALL_PACKAGES</item>
+        <item>android.permission.INTERNET</item>
+        <item>android.permission.MODIFY_AUDIO_SETTINGS</item>
+        <item>android.permission.MODIFY_PHONE_STATE</item>
+        <item>android.permission.PERFORM_CDMA_PROVISIONING</item>
+        <item>android.permission.PROCESS_OUTGOING_CALLS</item>
+        <item>android.permission.REMOVE_TASKS</item>
+        <item>android.permission.REORDER_TASKS</item>
+        <item>android.permission.SET_ACTIVITY_WATCHER</item>
+        <item>android.permission.SET_DEBUG_APP</item>
+        <item>android.permission.SET_PREFERRED_APPLICATIONS</item>
+        <item>android.permission.SUBSCRIBED_FEEDS_WRITE</item>
+        <item>android.permission.SYSTEM_ALERT_WINDOW</item>
+        <item>android.permission.WRITE_APN_SETTINGS</item>
+        <item>android.permission.WRITE_CALENDAR</item>
+        <item>android.permission.WRITE_CONTACTS</item>
+        <item>android.permission.WRITE_SETTINGS</item>
+        <item>android.permission.WRITE_SMS</item>
+        <item>android.permission.WRITE_SOCIAL_STREAM</item>
+        <item>com.android.browser.permission.WRITE_HISTORY_BOOKMARKS</item>
+    </string-array>
+/* perms_hips_values: {bag00000000,0x02000000=2,0x02000001=1,0x02000002=0} */
+    <string-array name="perms_hips_values">
+        <item>2</item>
+        <item>1</item>
+        <item>0</item>
+    </string-array>
+/* phone_call_noise_suppression_values: {bag00000000,0x02000000=1,0x02000001=2} */
+    <string-array name="phone_call_noise_suppression_values">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+/* priority_storage_value: {bag00000000,0x02000000=0,0x02000001=1} */
+    <string-array name="priority_storage_value">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+/* screen_key_long_press_action_value: {bag00000000,0x02000000=none,0x02000001=recent_panel,0x02000002=voice_assistant,0x02000003=google_now,0x02000004=close_app,0x02000005=show_menu} */
+    <string-array name="screen_key_long_press_action_value">
+        <item>none</item>
+        <item>recent_panel</item>
+        <item>voice_assistant</item>
+        <item>google_now</item>
+        <item>close_app</item>
+        <item>show_menu</item>
+    </string-array>
+/* screen_key_long_press_timeout_value: {bag00000000,0x02000000=500,0x02000001=1000,0x02000002=1500,0x02000003=2000} */
+    <string-array name="screen_key_long_press_timeout_value">
+        <item>500</item>
+        <item>1000</item>
+        <item>1500</item>
+        <item>2000</item>
+    </string-array>
+/* screen_key_press_action_value: {bag00000000,0x02000000=recent_panel,0x02000001=show_menu} */
+    <string-array name="screen_key_press_action_value">
+        <item>recent_panel</item>
+        <item>show_menu</item>
+    </string-array>
+/* screen_timeout_values: {bag00000000,0x02000000=15000,0x02000001=30000,0x02000002=60000,0x02000003=120000,0x02000004=300000,0x02000005=600000,0x02000006=2147483647} */
+    <string-array name="screen_timeout_values">
+        <item>15000</item>
+        <item>30000</item>
+        <item>60000</item>
+        <item>120000</item>
+        <item>300000</item>
+        <item>600000</item>
+        <item>2147483647</item>
+    </string-array>
+/* select_runtime_values: {bag00000000,0x02000000=libdvm.so,0x02000001=libart.so,0x02000002=libartd.so} */
+    <string-array name="select_runtime_values">
+        <item>libdvm.so</item>
+        <item>libart.so</item>
+        <item>libartd.so</item>
+    </string-array>
+/* show_non_rect_clip_values: {bag00000000,0x02000000=hide,0x02000001=region,0x02000002=highlight} */
+    <string-array name="show_non_rect_clip_values">
+        <item>hide</item>
+        <item>region</item>
+        <item>highlight</item>
+    </string-array>
+/* slideshow_time_entryValues: {bag00000000,0x02000000=300,0x02000001=900,0x02000002=1800,0x02000003=3600,0x02000004=-1} */
+    <string-array name="slideshow_time_entryValues">
+        <item>300</item>
+        <item>900</item>
+        <item>1800</item>
+        <item>3600</item>
+        <item>-1</item>
+    </string-array>
+/* special_locale_codes: {bag00000000,0x02000000=zh_CN,0x02000001=zh_TW} */
+    <string-array name="special_locale_codes">
+        <item>zh_CN</item>
+        <item>zh_TW</item>
+    </string-array>
+/* startup_hips_values: {bag00000000,0x02000000=2,0x02000001=0} */
+    <string-array name="startup_hips_values">
+        <item>2</item>
+        <item>0</item>
+    </string-array>
+/* track_frame_time_values: {bag00000000,0x02000000=false,0x02000001=visual_bars,0x02000002=visual_lines,0x02000003=true} */
+    <string-array name="track_frame_time_values">
+        <item>false</item>
+        <item>visual_bars</item>
+        <item>visual_lines</item>
+        <item>true</item>
+    </string-array>
+/* transition_animation_scale_values: {bag00000000,0x02000000=0,0x02000001=.5,0x02000002=1,0x02000003=1.5,0x02000004=2,0x02000005=5,0x02000006=10} */
+    <string-array name="transition_animation_scale_values">
+        <item>0</item>
+        <item>.5</item>
+        <item>1</item>
+        <item>1.5</item>
+        <item>2</item>
+        <item>5</item>
+        <item>10</item>
+    </string-array>
+/* tts_demo_string_langs: {bag00000000,0x02000000=eng,0x02000001=fra,0x02000002=deu,0x02000003=ita,0x02000004=spa,0x02000005=kor} */
+    <string-array name="tts_demo_string_langs">
+        <item>eng</item>
+        <item>fra</item>
+        <item>deu</item>
+        <item>ita</item>
+        <item>spa</item>
+        <item>kor</item>
+    </string-array>
+/* tts_demo_strings: {bag00000000,0x02000000=This is an example of speech synthesis in English.,0x02000001=Voici un échantillon de synthèse vocale en français.,0x02000002=Dies ist ein Beispiel für Sprachsynthese in Deutsch.,0x02000003=Questo è un esempio di sintesi vocale in italiano.,0x02000004=Este es un ejemplo de síntesis de voz en español.,0x02000005=이것은 한국어 음성 합성의 예입니다.} */
+    <string-array name="tts_demo_strings">
+        <item>This is an example of speech synthesis in English.</item>
+        <item>Voici un échantillon de synthèse vocale en français.</item>
+        <item>Dies ist ein Beispiel für Sprachsynthese in Deutsch.</item>
+        <item>Questo è un esempio di sintesi vocale in italiano.</item>
+        <item>Este es un ejemplo de síntesis de voz en español.</item>
+        <item>이것은 한국어 음성 합성의 예입니다.</item>
+    </string-array>
+/* tts_pitch_values: {bag00000000,0x02000000=50,0x02000001=80,0x02000002=100,0x02000003=120,0x02000004=150} */
+    <string-array name="tts_pitch_values">
+        <item>50</item>
+        <item>80</item>
+        <item>100</item>
+        <item>120</item>
+        <item>150</item>
+    </string-array>
+/* tts_rate_values: {bag00000000,0x02000000=60,0x02000001=80,0x02000002=100,0x02000003=150,0x02000004=200,0x02000005=250,0x02000006=300,0x02000007=350,0x02000008=400} */
+    <string-array name="tts_rate_values">
+        <item>60</item>
+        <item>80</item>
+        <item>100</item>
+        <item>150</item>
+        <item>200</item>
+        <item>250</item>
+        <item>300</item>
+        <item>350</item>
+        <item>400</item>
+    </string-array>
+/* tts_rate_xunfei_values: {bag00000000,0x02000000=60,0x02000001=80,0x02000002=100,0x02000003=150,0x02000004=200} */
+    <string-array name="tts_rate_xunfei_values">
+        <item>60</item>
+        <item>80</item>
+        <item>100</item>
+        <item>150</item>
+        <item>200</item>
+    </string-array>
+/* usb_connection_mode_values: {bag00000000,0x02000000=0,0x02000001=1,0x02000002=2} */
+    <string-array name="usb_connection_mode_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+/* user_content_ratings_values: {bag00000000,0x02000000=5,0x02000001=4,0x02000002=3,0x02000003=2,0x02000004=1} */
+    <string-array name="user_content_ratings_values">
+        <item>5</item>
+        <item>4</item>
+        <item>3</item>
+        <item>2</item>
+        <item>1</item>
+    </string-array>
+/* values_color_calibration: {bag00000000,0x02000000=0,0x02000001=1} */
+    <string-array name="values_color_calibration">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+/* vpn_types: {bag00000000,0x02000000=PPTP,0x02000001=L2TP/IPSec PSK,0x02000002=L2TP/IPSec RSA,0x02000003=IPSec Xauth PSK,0x02000004=IPSec Xauth RSA,0x02000005=IPSec Hybrid RSA} */
+    <string-array name="vpn_types">
+        <item>PPTP</item>
+        <item>L2TP/IPSec PSK</item>
+        <item>L2TP/IPSec RSA</item>
+        <item>IPSec Xauth PSK</item>
+        <item>IPSec Xauth RSA</item>
+        <item>IPSec Hybrid RSA</item>
+    </string-array>
+/* whetstone_level_entries: {bag00000000,0x02000000=Off,0x02000001=Low,0x02000002=Middle,0x02000003=High} */
+/* whetstone_level_values: {bag00000000,0x02000000=0,0x02000001=1,0x02000002=2,0x02000003=3} */
+    <string-array name="whetstone_level_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+/* wifi_connect_type_values: {bag00000000,0x02000000=0,0x02000001=1,0x02000002=2} */
+    <string-array name="wifi_connect_type_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+/* wifi_eap_entries: {bag00000000,0x02000000=PEAP,0x02000001=TLS,0x02000002=TTLS,0x02000003=PWD} */
+    <string-array name="wifi_eap_entries">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+        <item>PWD</item>
+    </string-array>
+/* wifi_eap_method_add_sim: {bag00000000,0x02000000=PEAP,0x02000001=TLS,0x02000002=TTLS,0x02000003=PWD,0x02000004=SIM,0x02000005=AKA} */
+    <string-array name="wifi_eap_method_add_sim">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+        <item>PWD</item>
+        <item>SIM</item>
+        <item>AKA</item>
+    </string-array>
+/* wifi_frequency_band_values: {bag00000000,0x02000000=0,0x02000001=1,0x02000002=2} */
+    <string-array name="wifi_frequency_band_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+/* wifi_security: {bag00000000,0x02000000={t=0x01 d=0x7f0a028e},0x02000001={t=0x01 d=0x7f0a028f},0x02000002={t=0x01 d=0x7f0a0293},0x02000003={t=0x01 d=0x7f0a0294}} */
+    <string-array name="wifi_security">
+    </string-array>
+/* wifi_security_no_eap: {bag00000000,0x02000000={t=0x01 d=0x7f0a028e},0x02000001={t=0x01 d=0x7f0a028f},0x02000002={t=0x01 d=0x7f0a0293},0x02000003=WAPI PSK,0x02000004=WAPI CERT} */
+    <string-array name="wifi_security_no_eap">
+        <item>WAPI PSK</item>
+        <item>WAPI CERT</item>
+    </string-array>
+/* wifi_security_only_wapi_cert_entries: {bag00000000,0x02000000=WAPI CERT} */
+    <string-array name="wifi_security_only_wapi_cert_entries">
+        <item>WAPI CERT</item>
+    </string-array>
+/* wifi_sleep_policy_values: {bag00000000,0x02000000=2,0x02000001=1,0x02000002=0} */
+    <string-array name="wifi_sleep_policy_values">
+        <item>2</item>
+        <item>1</item>
+        <item>0</item>
+    </string-array>
+/* wifi_wapi_key_type: {bag00000000,0x02000000=WAPI ASCII,0x02000001=WAPI hexadecimal} */
+    <string-array name="wifi_wapi_key_type">
+        <item>WAPI ASCII</item>
+        <item>WAPI hexadecimal</item>
+    </string-array>
+/* window_animation_scale_values: {bag00000000,0x02000000=0,0x02000001=.5,0x02000002=1,0x02000003=1.5,0x02000004=2,0x02000005=5,0x02000006=10} */
+    <string-array name="window_animation_scale_values">
+        <item>0</item>
+        <item>.5</item>
+        <item>1</item>
+        <item>1.5</item>
+        <item>2</item>
+        <item>5</item>
+        <item>10</item>
+    </string-array>
+    <string-array name="agps_apn_entries">
+        <item>CMWAP</item>
+        <item>CMNET</item>
+    </string-array>
+    <string-array name="agps_apn_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="agps_network_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="agps_reset_type_entries">
+        <item>HOT</item>
+        <item>WARM</item>
+        <item>COLD</item>
+    </string-array>
+    <string-array name="agps_reset_type_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="agps_si_mode_entries">
+        <item>MSB</item>
+        <item>MSA</item>
+    </string-array>
+    <string-array name="agps_si_mode_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="wifi_eap_method_add_sim_for_cmcc">
+        <item>PEAP</item>
+        <item>SIM</item>
+    </string-array>
+    <string-array name="battery_saver_trigger_values">
+    </string-array>
+    <string-array name="daltonizer_type_entries">
+    </string-array>
+    <string-array name="daltonizer_type_values">
+        <item>12</item>
+        <item>11</item>
+        <item>13</item>
+    </string-array>
+    <string-array name="entryvalues_zen_mode">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="hidedm_plmn_list">
+        <item>46000</item>
+        <item>46002</item>
+        <item>46003</item>
+        <item>46007</item>
+    </string-array>
+    <string-array name="select_logd_size_values">
+        <item>65536</item>
+        <item>262144</item>
+        <item>1048576</item>
+        <item>4194304</item>
+        <item>16777216</item>
+    </string-array>
+    <string-array name="simulate_color_space_entries">
+    </string-array>
+    <string-array name="simulate_color_space_values">
+        <item>-1</item>
+        <item>0</item>
+        <item>2</item>
+        <item>1</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="pink_panel_led_color_values">
+        <item>blue</item>
+        <item>red</item>
+        <item>yellow</item>
+        <item>green</item>
+        <item>#FFAA00AA</item>
+    </string-array>
+    <string-array name="music_dolby_equalizer_preset_names">
+    </string-array>
+    <string-array name="lock_screen_secure_after_timeout_values">
+        <item>0</item>
+        <item>60000</item>
+        <item>120000</item>
+        <item>300000</item>
+        <item>900000</item>
+        <item>1800000</item>
+    </string-array>
+    <string-array name="page_layout_large">
+    </string-array>
+    <string-array name="page_layout_large_size">
+    </string-array>
+    <string-array name="page_layout_medium">
+    </string-array>
+    <string-array name="page_layout_medium_size">
+    </string-array>
+    <string-array name="page_layout_normal">
+    </string-array>
+    <string-array name="page_layout_normal_size">
+    </string-array>
+    <string-array name="page_layout_small">
+    </string-array>
+    <string-array name="page_layout_small_size">
+    </string-array>
+    <string-array name="screen_resolution_values">
+        <item>1440</item>
+        <item>720</item>
+    </string-array>
+    <string-array name="alarm_repeat_type_no_workdays_values">
+    </string-array>
+    <string-array name="alarm_repeat_type_values">
+    </string-array>
+    <string-array name="page_layout_margins_godzilla">
+    </string-array>
+    <string-array name="page_layout_margins_godzilla_global">
+    </string-array>
+    <string-array name="page_layout_margins_huge">
+    </string-array>
+    <string-array name="page_layout_margins_huge_global">
+    </string-array>
+    <string-array name="page_layout_margins_large">
+    </string-array>
+    <string-array name="page_layout_margins_large_global">
+    </string-array>
+    <string-array name="page_layout_margins_medium">
+    </string-array>
+    <string-array name="page_layout_margins_medium_global">
+    </string-array>
+    <string-array name="page_layout_margins_normal">
+    </string-array>
+    <string-array name="page_layout_margins_normal_global">
+    </string-array>
+    <string-array name="page_layout_text_size_godzilla">
+    </string-array>
+    <string-array name="page_layout_text_size_huge">
+    </string-array>
+    <string-array name="page_layout_text_size_large">
+    </string-array>
+    <string-array name="page_layout_text_size_medium">
+    </string-array>
+    <string-array name="page_layout_text_size_normal">
+    </string-array>
+    <string-array name="font_size_scale">
+        <item>0.86</item>
+        <item>1.0</item>
+        <item>1.2</item>
+        <item>1.21</item>
+    </string-array>
+    <string-array name="st_antispam_mode_defined_state">
+    </string-array>
+    <string-array name="st_antispam_mode_defined_state_international">
+    </string-array>
+    <string-array name="wifi_ssid_type_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="page_layout_margins_small">
+    </string-array>
+    <string-array name="page_layout_margins_small_global">
+    </string-array>
+    <string-array name="page_layout_text_size_small">
+    </string-array>
+    <string-array name="organized_locales">
+        <item>dz</item>
+        <item>ao</item>
+        <item>bh</item>
+        <item>bw</item>
+        <item>br</item>
+        <item>cm</item>
+        <item>cd</item>
+        <item>ci</item>
+        <item>eg</item>
+        <item>gq</item>
+        <item>et</item>
+        <item>fr</item>
+        <item>gh</item>
+        <item>hk</item>
+        <item>in</item>
+        <item>id</item>
+        <item>ir</item>
+        <item>ke</item>
+        <item>ls</item>
+        <item>mw</item>
+        <item>my</item>
+        <item>mx</item>
+        <item>ma</item>
+        <item>mz</item>
+        <item>mm</item>
+        <item>na</item>
+        <item>ng</item>
+        <item>ph</item>
+        <item>qa</item>
+        <item>ru</item>
+        <item>rw</item>
+        <item>sn</item>
+        <item>sg</item>
+        <item>za</item>
+        <item>kr</item>
+        <item>sz</item>
+        <item>tw</item>
+        <item>tz</item>
+        <item>th</item>
+        <item>tr</item>
+        <item>ug</item>
+        <item>ua</item>
+        <item>ae</item>
+        <item>vn</item>
+        <item>zm</item>
+        <item>zw</item>
+    </string-array>
+    <string-array name="common_password_business_keys">
+        <item>keyguard</item>
+        <item>childrenmode</item>
+    </string-array>
+    <string-array name="common_password_business_clickable_default">
+        <item>true</item>
+        <item>true</item>
+        <item>false</item>
+    </string-array>

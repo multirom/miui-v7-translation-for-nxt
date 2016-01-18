@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with NXT -->
+<resources>
+     <string name="account_setup_options_mail_window_1day">Один день</string>
+     <string name="account_setup_options_mail_window_1month">Один месяц</string>
+     <string name="account_setup_options_mail_window_1week">Одна неделя</string>
+     <string name="account_setup_options_mail_window_2weeks">Две недели</string>
+     <string name="account_setup_options_mail_window_3days">Три дня</string>
+     <string name="account_setup_options_mail_window_all">Все</string>
+     <string name="account_setup_options_mail_window_auto">Автоматически</string>
+     <string name="app_name">Службы Exchange</string>
+     <string name="auth_error_notification_text">Нажмите, чтобы изменить параметры учетной записи для %s</string>
+     <string name="auth_error_notification_title">Ошибка аутентификации</string>
+     <string name="exception_cancel">Это событие было отменено: %s</string>
+     <string name="exception_updated">Подробности этого мероприятия были изменены на: %s</string>
+     <string name="exchange_name">Корпоративный</string>
+     <string name="exchange_name_alternate">Microsoft Exchange ActiveSync</string>
+     <string name="mailbox_name_server_all_unread">Непрочитанные</string>
+     <string name="mailbox_name_server_starred">Избранные</string>
+     <string name="meeting_accepted">Приняты: %s</string>
+     <string name="meeting_allday">Когда: %s (весь день)</string>
+     <string name="meeting_allday_recurring">Когда: %s (весь день, повтор)</string>
+     <string name="meeting_canceled">Отменено: %s</string>
+     <string name="meeting_declined">Отклонено: %s</string>
+     <string name="meeting_recurring">Когда: %s (повтор)</string>
+     <string name="meeting_tentative">Ориентировочно: %s</string>
+     <string name="meeting_updated">Обновлено: %s</string>
+     <string name="meeting_when">Когда: %s</string>
+     <string name="meeting_where">Где: %s</string>
+     <string name="notification_exchange_calendar_added">Добавлен календарь Exchange</string>
+     <string name="policy_app_blacklist">Запретить указанные приложения</string>
+     <string name="policy_app_whitelist">Разрешить только определенные приложения</string>
+     <string name="policy_bluetooth_restricted">Ограничить использование Bluetooth</string>
+     <string name="policy_dont_allow_attachments">"Don't allow attachments"</string>
+     <string name="policy_dont_allow_browser">"Don't allow browsers"</string>
+     <string name="policy_dont_allow_consumer_email">"Don't allow consumer email"</string>
+     <string name="policy_dont_allow_html">"Don't allow HTML email"</string>
+     <string name="policy_dont_allow_internet_sharing">"Don't allow Internet sharing"</string>
+     <string name="policy_dont_allow_irda">"Don't allow infrared communications"</string>
+     <string name="policy_dont_allow_pop_imap">"Don't allow POP3 or IMAP accounts"</string>
+     <string name="policy_dont_allow_storage_cards">"Don't allow storage cards"</string>
+     <string name="policy_dont_allow_text_messaging">"Don't allow text messaging"</string>
+     <string name="policy_dont_allow_unsigned_apps">"Don't allow unsigned apps"</string>
+     <string name="policy_dont_allow_unsigned_installers">"Don't allow unsigned app installers"</string>
+     <string name="policy_dont_allow_wifi">"Don't allow WLAN"</string>
+     <string name="policy_html_truncation">Ограничить размер письма в HTML</string>
+     <string name="policy_max_attachment_size">Ограничивать размер вложения</string>
+     <string name="policy_require_encryption">Требовать шифрование устройстваn</string>
+     <string name="policy_require_manual_sync_roaming">Разрешать только ручную синхронизацию в роуминге</string>
+     <string name="policy_require_sd_encryption">Требовать шифрование SD-карты</string>
+     <string name="policy_require_smime">Требовать сообщения SMIME</string>
+     <string name="policy_screen_timeout">Блокировать экран при простое</string>
+     <string name="policy_text_truncation">Ограничивать размер текстового письма</string>
+</resources>

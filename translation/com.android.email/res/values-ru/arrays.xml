@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with CloudBuildr -->
+<resources>
+    <string-array name="calendar_remind_string_array">
+        <item>Сегодня вечером</item>
+        <item>Завтра</item>
+        <item>На выходных</item>
+        <item>На следующей неделе</item>
+        <item>В следующем месяце</item>
+        <item>Выбрать дату</item>
+    </string-array>
+     <string-array name="compose_modes">
+        <item>Ответить</item>
+        <item>Ответить всем</item>
+        <item>Переслать</item>
+     </string-array>
+     <string-array name="general_preference_text_zoom_summary_array">
+        <item>Мелкий</item>
+        <item>Небольшой</item>
+        <item>Обычный</item>
+        <item>Большой</item>
+        <item>Огромный</item>
+     </string-array>
+     <string-array name="menu_att_mgr_sort_string_array">
+        <item>Последние</item>
+        <item>Формат</item>
+        <item>Имя</item>
+        <item>Отправитель</item>
+        <item>Дата</item>
+     </string-array>
+     <string-array name="moveto_folder_sections">
+        <item>Системные</item>
+        <item>Часто используемые</item>
+        <item>Все папки</item>
+     </string-array>
+     <string-array name="prefEntries_autoAdvance">
+        <item>Следующее письмо</item>
+        <item>Предыдущее письмо</item>
+        <item>Список писем</item>
+     </string-array>
+     <string-array name="prefEntries_removal_action">
+        <item>Только архивировать</item>
+        <item>Только удалять</item>
+        <item>Архивировать и удалять</item>
+     </string-array>
+     <string-array name="prefSummaries_autoAdvance">
+        <item>Показывать более позднюю цепочку после удаления текущей</item>
+        <item>Показывать более раннюю цепочку после удаления текущей</item>
+        <item>Показывать список цепочек после удаления текущей цепочки</item>
+     </string-array>
+     <string-array name="prefSummaries_removal_action_summary">
+        <item>Только архивировать</item>
+        <item>Только удалять</item>
+        <item>Архивировать и удалять</item>
+     </string-array>
+     <string-array name="sync_status">
+        <item>Синхронизировано</item>
+        <item>Нет соединения</item>
+        <item>Не удалось войти</item>
+        <item>Ошибка безопасности</item>
+        <item>Ошибка синхронизации</item>
+        <item>Внутренняя ошибка</item>
+     </string-array>
+     <string-array name="alphabet_chars">
+        <item>☆</item>
+        <item>А</item>
+        <item>Б</item>
+        <item>В</item>
+        <item>Г</item>
+        <item>Д</item>
+        <item>Е</item>
+        <item>Ж</item>
+        <item>З</item>
+        <item>И</item>
+        <item>К</item>
+        <item>Л</item>
+        <item>М</item>
+        <item>Н</item>
+        <item>О</item>
+        <item>П</item>
+        <item>Р</item>
+        <item>С</item>
+        <item>Т</item>
+        <item>У</item>
+        <item>Ф</item>
+        <item>Х</item>
+        <item>Ц</item>
+        <item>Ч</item>
+        <item>Ш</item>
+        <item>Щ</item>
+        <item>Ы</item>
+        <item>#</item>
+        <item>∅</item>
+    </string-array>
+</resources>

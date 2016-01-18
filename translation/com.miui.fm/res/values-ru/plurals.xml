@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with CloudBuildr -->
+<resources>
+     <plurals name="toast_channel_searched">
+        <item quantity="other">Найдено %1$d станций</item>
+		<item quantity="zero">Найдено %1$d станций</item>
+        <item quantity="one">Найдено %1$d станцию</item>
+		<item quantity="two">Найдено %1$d станции</item>
+        <item quantity="few">Найдено %1$d станции</item>
+        <item quantity="many">Найдено %1$d станций</item>
+     </plurals>
+    <plurals name="notification_rec_content">
+    	<item quantity="zero">Нет FM записей</item>
+    	<item quantity="few">%d FM записи</item>
+        <item quantity="many">%d FM записей</item>
+        <item quantity="one">%d FM запись</item>
+    </plurals>
+</resources>

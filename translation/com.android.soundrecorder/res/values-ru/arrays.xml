@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with CloudBuildr -->
+<resources>
+     <string-array name="record_quality_entries">
+        <item>Высокое</item>
+        <item>Стандартное</item>
+        <item>Низкое</item>
+     </string-array>
+     <string-array name="record_quality_summaries">
+        <item>MP3, ~192Кбит/с, ~90МБ/ч</item>
+        <item>MP3, ~100Кбит/с, ~45МБ/ч</item>
+        <item>MP3, ~75Кбит/с, ~32МБ/ч</item>
+     </string-array>
+     <string-array name="record_scenes_entries">
+        <item>Музыка</item>
+        <item>Голос</item>
+     </string-array>
+     <string-array name="record_type_entries">
+        <item>MP3</item>
+        <item>AMR</item>
+     </string-array>
+     <string-array name="interview_record_scenes_entries">
+        <item>Музыка</item>
+        <item>Голос</item>
+        <item>Интервью</item>
+     </string-array>
+     <string-array name="x5_record_scenes_entries">
+        <item>Музыка</item>
+        <item>Голос</item>
+        <item>Интервью</item>
+    </string-array>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with NXT -->
+<resources>
+     <string-array name="contact_groups">
+        <item>Все показаны</item>
+        <item>Контакты с номерами телефонов</item>
+        <item>Помеченные в Android</item>
+     </string-array>
+     <string-array name="select_dialog_items">
+        <item>Открыть доступ к контактам в группе</item>
+        <item>Получить контакт</item>
+        <item>Обмен контактами</item>
+     </string-array>
+     <string-array name="ble_profile_mi_band">
+        <item>Вибрировать при вызове</item>
+        <item>Вибрировать при получении сообщений</item>
+        <item>Вибрировать при срабатывании будильника</item>
+    </string-array>
+    <string-array name="ble_profile_mi_key">
+        <item>Сделать фото</item>
+        <item>Найти телефон</item>
+        <item>Найти MiKey</item>
+    </string-array>
+</resources>

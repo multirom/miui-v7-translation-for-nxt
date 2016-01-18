@@ -1,0 +1,51 @@
+/* date_entries: {bag00000000,0x02000000=0,0x02000001=1,0x02000002=2,0x02000003=3,0x02000004=4,0x02000005=5,0x02000006=6,0x02000007=7,0x02000008=8,0x02000009=9,0x0200000a=-,0x0200000b=/} */
+    <string-array name="date_entries">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>-</item>
+        <item>/</item>
+    </string-array>
+/* date_entryValues: {bag00000000,0x02000000={t=0x01 d=0x7f020035},0x02000001={t=0x01 d=0x7f020036},0x02000002={t=0x01 d=0x7f020037},0x02000003={t=0x01 d=0x7f020038},0x02000004={t=0x01 d=0x7f020039},0x02000005={t=0x01 d=0x7f02003a},0x02000006={t=0x01 d=0x7f02003b},0x02000007={t=0x01 d=0x7f02003c},0x02000008={t=0x01 d=0x7f02003d},0x02000009={t=0x01 d=0x7f02003e},0x0200000a={t=0x01 d=0x7f02003f},0x0200000b={t=0x01 d=0x7f02003f}} */
+    <string-array name="date_entryValues">
+    </string-array>
+/* duration_entries: {bag00000000,0x02000000=0,0x02000001=1,0x02000002=2,0x02000003=3,0x02000004=4,0x02000005=5,0x02000006=6,0x02000007=7,0x02000008=8,0x02000009=9,0x0200000a=:} */
+    <string-array name="duration_entries">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>:</item>
+    </string-array>
+/* duration_entryValues: {bag00000000,0x02000000={t=0x01 d=0x7f020040},0x02000001={t=0x01 d=0x7f020041},0x02000002={t=0x01 d=0x7f020042},0x02000003={t=0x01 d=0x7f020043},0x02000004={t=0x01 d=0x7f020044},0x02000005={t=0x01 d=0x7f020045},0x02000006={t=0x01 d=0x7f020046},0x02000007={t=0x01 d=0x7f020047},0x02000008={t=0x01 d=0x7f020048},0x02000009={t=0x01 d=0x7f020049},0x0200000a={t=0x01 d=0x7f02004a}} */
+    <string-array name="duration_entryValues">
+    </string-array>
+/* record_scenes_values: {bag00000000,0x02000000=1,0x02000001=2,0x02000002=3} */
+    <string-array name="record_scenes_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+/* record_type_values: {bag00000000,0x02000000=audio/mpeg,0x02000001=audio/amr} */
+    <string-array name="record_type_values">
+        <item>audio/mpeg</item>
+        <item>audio/amr</item>
+    </string-array>
+    <string-array name="record_quality_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>

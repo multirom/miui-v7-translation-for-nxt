@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="app_name">Сервис UniPlay</string>
+     <string name="notification_rc_desc">Вы можете использовать Mi пульт для управления Mi Box или Mi TV</string>
+     <string name="notification_rc_title">Mi пульт</string>
+     <string name="service_name">Сервис UniPlay</string>
+</resources>

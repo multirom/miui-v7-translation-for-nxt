@@ -1,0 +1,215 @@
+{
+    "versionCode": "1",
+    "quicklinks": {
+        "data": [
+            {
+                "movable": true,
+                "deletable": false,
+                "recommend": true,
+                "site": {
+                    "stid": 1,
+                    "title": "MULTIROM",
+                    "url": "http://multirom.me",
+                    "thumb": "local",
+                    "hash": "4953fa03",
+                    "extra": "1_default__1122"
+                }
+            },
+            {
+                "movable": true,
+                "deletable": false,
+                "recommend": true,
+                "site": {
+                    "stid": 2,
+                    "title": "4PDA",
+                    "url": "http://4pda.ru",
+                    "thumb": "local",
+                    "hash": "a0c5c676",
+                    "extra": "2_default__2280"
+                }
+            },
+            {
+                "movable": true,
+                "deletable": false,
+                "recommend": true,
+                "site": {
+                    "stid": 3,
+                    "title": "KDevLab",
+                    "url": "http://kdevlab.com",
+                    "thumb": "local",
+                    "hash": "a0c5c676",
+                    "extra": "3_default__2280"
+                }
+            },
+            {
+                "movable": true,
+                "deletable": true,
+                "recommend": false,
+                "site": {
+                    "stid": 4,
+                    "title": "Mi.com",
+                    "url": "http://mi.com/",
+                    "thumb": "local",
+                    "hash": "a0c5c676",
+                    "extra": "4_default__2280"
+                }
+            },
+            {
+                "movable": true,
+                "deletable": true,
+                "recommend": false,
+                "site": {
+                    "stid": 5,
+                    "title": "Soundcloud",
+                    "url": "http://m.soundcloud.com/",
+                    "thumb": "local",
+                    "hash": "a0c5c676",
+                    "extra": "5_default__2280"
+                }
+            },
+            {
+                "movable": true,
+                "deletable": true,
+                "recommend": false,
+                "site": {
+                    "stid": 6,
+                    "title": "Youtube",
+                    "url": "http://m.youtube.com/",
+                    "thumb": "local",
+                    "hash": "a0c5c676",
+                    "extra": "6_default__2280"
+                }
+            },
+            {
+                "movable": true,
+                "deletable": true,
+                "recommend": false,
+                "site": {
+                    "stid": 7,
+                    "title": "Twitter",
+                    "url": "http://mobile.twitter.com/",
+                    "thumb": "local",
+                    "hash": "a0c5c676",
+                    "extra": "7_default__2280"
+                }
+            },
+            {
+                "movable": true,
+                "deletable": true,
+                "recommend": false,
+                "site": {
+                    "stid": 8,
+                    "title": "Mi Forum",
+                    "url": "http://en.miui.com/forum.php",
+                    "thumb": "local",
+                    "hash": "a0c5c676",
+                    "extra": "8_default__2280"
+                }
+            },
+            {
+                "movable": true,
+                "deletable": true,
+                "recommend": false,
+                "site": {
+                    "stid": 9,
+                    "title": "ВКонтакте",
+                    "url": "http://m.vk.com/",
+                    "thumb": "local",
+                    "hash": "a0c5c676",
+                    "extra": "9_default__2280"
+                }
+            },
+            {
+                "movable": true,
+                "deletable": true,
+                "recommend": false,
+                "site": {
+                    "stid": 10,
+                    "title": "ОК",
+                    "url": "http://m.ok.ru/",
+                    "thumb": "local",
+                    "hash": "a0c5c676",
+                    "extra": "10_default__2280"
+                }
+            },
+            {
+                "movable": true,
+                "deletable": true,
+                "recommend": false,
+                "site": {
+                    "stid": 11,
+                    "title": "Facebook",
+                    "url": "http://m.facebook.com/",
+                    "thumb": "local",
+                    "hash": "a0c5c676",
+                    "extra": "11_default__2280"
+                }
+            },
+            {
+                "movable": true,
+                "deletable": true,
+                "recommend": false,
+                "site": {
+                    "stid": 12,
+                    "title": "Google+",
+                    "url": "http://plus.google.com/",
+                    "thumb": "local",
+                    "hash": "a0c5c676",
+                    "extra": "12_default__2280"
+                }
+            },
+            {
+                "movable": true,
+                "deletable": true,
+                "recommend": false,
+                "site": {
+                    "stid": 13,
+                    "title": "XDA",
+                    "url": "http://www.xda-developers.com/",
+                    "thumb": "local",
+                    "hash": "a0c5c676",
+                    "extra": "13_default__2280"
+                }
+            },
+            {
+                "movable": true,
+                "deletable": true,
+                "recommend": false,
+                "site": {
+                    "stid": 14,
+                    "title": "Википедия",
+                    "url": "http://ru.m.wikipedia.org/",
+                    "thumb": "local",
+                    "hash": "a0c5c676",
+                    "extra": "14_default__2280"
+                }
+            },
+            {
+                "movable": true,
+                "deletable": true,
+                "recommend": false,
+                "site": {
+                    "stid": 15,
+                    "title": "ApkMania",
+                    "url": "http://www.apkmania.co/?m=1",
+                    "thumb": "local",
+                    "hash": "a0c5c676",
+                    "extra": "15_default__2280"
+                }
+            },
+            {
+                "movable": true,
+                "deletable": true,
+                "recommend": false,
+                "site": {
+                    "stid": 16,
+                    "title": "Авито",
+                    "url": "http://m.avito.ru/",
+                    "thumb": "local",
+                    "hash": "a0c5c676",
+                    "extra": "16_default__2280"
+                }
+            }
+        ]
+    }
+}

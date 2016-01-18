@@ -1,0 +1,36 @@
+   |Name                   | build.prop            | Normalized Name | Display |   System Size
+--------------------------------------------------------------------------------------------------
+1  | Mi Note               | virgo                 | MiNote          | FHD     |  755MB
+2  | Mi Pad                | mocha                 | MIPAD           | QXGA    |  619MB
+3  | Redmi 2 TD            | wt86047               | HM2XTD          | HD      |  1074MB
+4  | Redmi 2 WCDMA         | wt88047               | HM2XWC          | HD      |  1074MB
+5  | Redmi 2 WCDMA Global  | wt88047_global        | HM2XWCGlobal    | HD      |  1074MB
+6  | Redmi 2A              | lte26007              | HM2A            | HD      |  671MB
+7  | Mi4 LTE               | cancro_lte_ct         | MI4LTECT        | FHD     |  671MB
+8  | Mi3/4 WCDMA           | cancro                | MI3WMI4W        | FHD     |  671MB
+9  | Mi3/4 WCDMA Global    | cancro_global         | MI3WMI4WGlobal  | FHD     |  671MB
+10 | Mi3 TD                | pisces                | MI3TD           | FHD     |  671MB
+11 | Mi2a                  | taurus_beta           | MI2ABeta        | HD      |  513MB
+12 | Mi2/2s                | aries                 | MI2             | HD      |  1.0GB
+13 | RM Note 4G            | dior                  | HMNoteLTE       | HD      |  786MB
+14 | RM Note 4G Global     | dior_global           | HMNoteLTEGlobal | HD      |  786MB
+15 | RM Note 4G DualSim    | gucci                 | HMNote1S        | HD      |  1.5GB
+16 | RM Note WCDMA         | lcsh92_wet_jb9        | HMNoteW         | HD      |  786MB
+17 | RM Note WCDMA Global  | lcsh92_wet_jb9_global | HMNoteWGlobal   | HD      |  786MB
+18 | RM Note TD            | lcsh92_wet_tdd        | HMNoteTD        | HD      |  786MB
+19 | Redmi 1S 4G           | HM2014501             | HM1SLTE         | HD      |  786MB
+20 | Redmi 1S TD           | HM2014011             | HM1STD          | HD      |  786MB
+21 | Redmi 1S WCDMA        | armani                | HM1SWC          | HD      |  786MB
+22 | Redmi 1S WCDMA Global | armani_global         | HM1SWCGlobal    | HD      |  786MB
+23 | Redmi 1 TD            | HM2013022             | HMTD            | HD      |  640MB
+24 | Redmi 1 WCDMA         | HM2013023             | HMW             | HD      |  640MB 
+25 | Mi4i                  | ferrari               | MI4i            | FHD     |  1.6GB
+26 | MI4iGlobal            | ferrari_global        | MI4iGlobal      | FHD     |  1.6GB
+27 | Mi Note Pro           | leo                   | MINotePro       | QHD     |  1.6GB
+28 | Mi Note LTE           | virgo_lte_ct          | MINoteCT        | FHD     |  765MB
+29 | RM Note 2             | hermes                | HERMES          | FHD     |  1.9GB
+30 | Nexus 5               | hammerhead            | Nexus5          | FHD     |  1074MB
+31 | Mi4c                  | libra                 | MI4c            | FHD     |  1.6GB
+32 | RM Note 3             | hennessy              | HENNESSY        | FHD     |  2.08GB
+33 | Nubia Z9 mini         | NX511J	               | NUBIAZ9MINI     | FHD     |  1.4GB
+-------------------------------------------------------------------------------------------------

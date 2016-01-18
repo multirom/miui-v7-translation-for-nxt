@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<profile>
+    <activity name="AllActivities">
+        <backgroundtype>1</backgroundtype>
+		<backgroundfile>MyBus</backgroundfile>
+		<offset>2</offset>
+	</activity>
+	<activity name="LoginActivity">
+		<color>f4f4f2</color>
+	</activity>
+	<activity name="mapsearch.PoiSearchActivity">
+		<color>ffffff</color>
+	</activity>
+	<activity name="mapsearch.MapSearchActivity">
+		<color>fcf9f2</color>
+		<offset>2</offset>
+	</activity>
+</profile>

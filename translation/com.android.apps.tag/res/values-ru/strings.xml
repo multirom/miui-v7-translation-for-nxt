@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="action_call">Вызов %s</string>
+     <string name="action_text">Текст %s</string>
+     <string name="app_name">NFC-метки</string>
+     <string name="button_done">Готово</string>
+     <string name="empty_tag_prompt">Эта метка пустая</string>
+     <string name="import_vcard">Импорт ^1</string>
+     <string name="mime_display_name">Данные из NFC-метки</string>
+     <string name="stms_version"></string>
+     <string name="tag_cancel">Отмена</string>
+     <string name="tag_dial">Набор</string>
+     <string name="tag_dial_warning">Набор номера %1$s. Продолжить?</string>
+     <string name="tag_empty">Пустая метка</string>
+     <string name="tag_ok">OK</string>
+     <string name="tag_sms">Сообщение</string>
+     <string name="tag_sms_warning">Отправка сообщения для %1$s. Продолжить?</string>
+     <string name="tag_unknown">Неизвестный тип метки</string>
+     <string name="title_existing_tag">Метка</string>
+     <string name="title_scanned_tag">Новая метка</string>
+     <string name="vcard_title">Контактная информация для ^1</string>
+</resources>

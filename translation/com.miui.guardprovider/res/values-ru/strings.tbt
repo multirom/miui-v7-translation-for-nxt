@@ -1,0 +1,4 @@
+<string name="title_activity_main">MainActivity</string>
+     <string name="avl_dialog_url">http://api.sec.miui.com/policy/proxy?p=antiy&amp;l=en_US</string>
+	 <string name="tencent_dialog_url">http://api.sec.miui.com/policy/proxy?p=tencent&amp;l=en_US</string>
+     <string name="hello_world">Hello world!</string>

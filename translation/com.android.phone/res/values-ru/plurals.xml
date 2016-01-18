@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="phone_in_ecm_notification_time">
+        <item quantity="other">Подключение для передачи данных отсутствует %s мин.</item>
+        <item quantity="one">Подключение для передачи данных отсутствует %s мин.</item>
+    </plurals>
+    <plurals name="alert_dialog_exit_ecm">
+        <item quantity="other">Телефон перейдет в режим экстренных обратных вызовов на %s мин. В этом режиме невозможно использовать приложения, задействующие передачу данных. Выйти из режима?</item>
+        <item quantity="one">Телефон перейдет в режим экстренных обратных вызовов на %s мин. В этом режиме невозможно использовать приложения, задействующие передачу данных. Выйти из режима?</item>
+    </plurals>
+    <plurals name="alert_dialog_not_avaialble_in_ecm">
+        <item quantity="other">Выбранное действие недоступно в режиме экстренных обратных вызовов. Телефон будет оставаться в этом режиме ещё %s мин. Выйти из режима?</item>
+        <item quantity="one">Выбранное действие недоступно в режиме экстренных обратных вызовов. Телефон будет оставаться в этом режиме ещё %s мин. Выйти из режима?</item>
+    </plurals>
+    <plurals name="call_recording_notification_complete">
+        <item quantity="zero">нет записей</item>
+        <item quantity="one">1 запись вызова</item>
+        <item quantity="few">%d записи вызовов</item>
+        <item quantity="many">%d записей вызовов</item>
+    </plurals>
+</resources>

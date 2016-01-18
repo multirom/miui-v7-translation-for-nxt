@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <plurals name="hints_traffic_enable_title">
+        <item quantity="other">Трафик не отслеживается для %d приложений</item>
+        <item quantity="one">Трафик не отслеживается для %d приложения</item>
+     </plurals>
+     <plurals name="hints_traffic_disable_title">
+        <item quantity="other">Трафик отслеживается для %d приложений</item>
+        <item quantity="one">Трафик отслеживается  для %d приложения</item>
+     </plurals>
+     <plurals name="hints_traffic_saving_optimized">
+        <item quantity="zero">%d приложений оптимизировано</item>
+        <item quantity="one">%d приложение оптимизировано</item>
+        <item quantity="few">%d приложения оптимизировано</item>
+        <item quantity="many">%d приложений оптимизировано</item>
+     </plurals>
+     <plurals name="hints_traffic_saving_need_optimize">
+        <item quantity="zero">Можно оптимизировать: %d</item>
+        <item quantity="one">Можно оптимизировать: %d</item>
+        <item quantity="few">Можно оптимизировать: %d</item>
+        <item quantity="many">Можно оптимизировать: %d</item>
+     </plurals>
+     <plurals name="hints_traffic_saving_enable_title">
+        <item quantity="zero">%d приложений использует сжатие</item>
+        <item quantity="one">%d приложение использует сжатие</item>
+        <item quantity="few">%d приложения использует сжатие</item>
+        <item quantity="many">%d приложений использует сжатие</item>
+     </plurals>
+     <plurals name="hints_traffic_saving_disable_title">
+        <item quantity="zero">%d приложений не использует сжатие</item>
+        <item quantity="one">%d приложение не использует сжатие</item>
+        <item quantity="few">%d приложения не использует сжатие</item>
+        <item quantity="many">%d приложений не использует сжатие</item>
+     </plurals>
+     <plurals name="hints_install_apps_interval">
+        <item quantity="zero">Использовалось %d дней назад</item>
+        <item quantity="one">Использовалось вчера</item>
+        <item quantity="few">Использовалось %d дня назад</item>
+        <item quantity="many">Использовалось %d дней назад</item>
+     </plurals>
+     <plurals name="search_app_count_txt">
+        <item quantity="zero">Поиск (%d приложений)</item>
+        <item quantity="one">Поиск (%d приложение)</item>
+        <item quantity="few">Поиск (%d приложения)</item>
+        <item quantity="many">Поиск (%d приложений)</item>
+     </plurals>
+     <plurals name="hints_roaming_enable_title">
+        <item quantity="other">%d прилож. может использ. моб. трафик в роуминге</item>
+        <item quantity="one">%d прилож. может использ. моб. трафик в роуминге</item>
+     </plurals>
+     <plurals name="hints_roaming_disable_title">
+        <item quantity="other">%d прилож. не может использ. моб. трафик в роуминге</item>
+        <item quantity="one">%d прилож. не может использ. моб. трафик в роуминге</item>
+     </plurals>
+     <plurals name="hints_roaming_found_app_count_title">
+        <item quantity="zero">Найдено %d приложений</item>
+        <item quantity="one">Найдено %d приложение</item>
+        <item quantity="few">Найдено %d приложения</item>
+        <item quantity="many">Найдено %d приложений</item>
+     </plurals>
+</resources>

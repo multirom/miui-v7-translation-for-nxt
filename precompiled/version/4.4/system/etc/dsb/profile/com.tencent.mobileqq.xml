@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<profile>
+	<activity name="activity.SplashActivity">
+		<color>18b4ed</color>
+	</activity>
+	<activity name="activity.aio.photo.AIOGalleryActivity">
+		<backgroundtype>2</backgroundtype>
+	</activity>
+	<activity name="cooperation.qzone.QzonePicturePluginProxyActivity">
+		<backgroundtype>2</backgroundtype>
+	</activity>
+	<activity name="activity.FriendProfileCardActivity">
+		<color>18b4ed</color>
+	</activity>
+	<activity name="activity.FriendProfileImageActivity">
+		<backgroundtype>2</backgroundtype>
+	</activity>
+	<activity name="troop.activity.TroopAvatarWallPreviewActivity">
+		<backgroundtype>2</backgroundtype>
+	</activity>
+</profile>

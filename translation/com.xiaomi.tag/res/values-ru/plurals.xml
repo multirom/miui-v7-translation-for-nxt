@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="tags_description">
+        <item quantity="other">Приложений</item>
+        <item quantity="one">Приложение</item>
+    </plurals>
+    <plurals name="play_description">
+        <item quantity="other">Задач</item>
+        <item quantity="one">Задача</item>
+    </plurals>
+    <plurals name="history_description">
+        <item quantity="other">Счетчик</item>
+        <item quantity="one">Счетчик</item>
+    </plurals>
+    <plurals name="select_n_item">
+        <item quantity="other">Выбрано: %d</item>
+        <item quantity="zero">Выбрано: 0</item>
+        <item quantity="one">Выбрано: %d</item>
+    </plurals>
+</resources>

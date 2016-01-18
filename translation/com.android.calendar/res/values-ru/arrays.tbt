@@ -1,0 +1,379 @@
+/* availability_values: {bag00000000,0x02000000={t=0x10 d=0x00000000},0x02000001={t=0x10 d=0x00000001},0x02000002={t=0x10 d=0x00000002}} */
+    <string-array name="availability_values">
+    </string-array>
+/* delete_repeating_values: {bag00000000,0x02000000={t=0x10 d=0x00000000},0x02000001={t=0x10 d=0x00000001},0x02000002={t=0x10 d=0x00000002}} */
+    <string-array name="delete_repeating_values">
+    </string-array>
+/* online_reminder_minutes_labels: {bag00000000,0x02000000=活动开始前,0x02000001=5 分钟前,0x02000002=10 分钟前,0x02000003=15 分钟前,0x02000004=30 分钟前,0x02000005=1 小时前,0x02000006=1 天前,0x02000007=2 天前,0x02000008=1 周前} */
+    <string-array name="online_reminder_minutes_labels">
+        <item>活动开始前</item>
+        <item>5 分钟前</item>
+        <item>10 分钟前</item>
+        <item>15 分钟前</item>
+        <item>30 分钟前</item>
+        <item>1 小时前</item>
+        <item>1 天前</item>
+        <item>2 天前</item>
+        <item>1 周前</item>
+    </string-array>
+/* online_reminder_minutes_labels_allday: {bag00000000,0x02000000=当天9点,0x02000001=提前1天9点,0x02000002=提前2天9点,0x02000003=提前3天9点,0x02000004=提前1周9点} */
+    <string-array name="online_reminder_minutes_labels_allday">
+        <item>当天9点</item>
+        <item>提前1天9点</item>
+        <item>提前2天9点</item>
+        <item>提前3天9点</item>
+        <item>提前1周9点</item>
+    </string-array>
+/* online_reminder_minutes_values: {bag00000000,0x02000000={t=0x10 d=0x00000000},0x02000001={t=0x10 d=0x00000005},0x02000002={t=0x10 d=0x0000000a},0x02000003={t=0x10 d=0x0000000f},0x02000004={t=0x10 d=0x0000001e},0x02000005={t=0x10 d=0x0000003c},0x02000006={t=0x10 d=0x000005a0},0x02000007={t=0x10 d=0x00000b40},0x02000008={t=0x10 d=0x00002760}} */
+    <string-array name="online_reminder_minutes_values">
+    </string-array>
+/* online_reminder_minutes_values_allday: {bag00000000,0x02000000={t=0x10 d=0x00000000},0x02000001={t=0x10 d=0x000005a0},0x02000002={t=0x10 d=0x00000b40},0x02000003={t=0x10 d=0x000010e0},0x02000004={t=0x10 d=0x00002760}} */
+    <string-array name="online_reminder_minutes_values_allday">
+    </string-array>
+/* prefValues_alerts_vibrateWhen: {bag00000000,0x02000000=always,0x02000001=silent,0x02000002=never} */
+    <string-array name="prefValues_alerts_vibrateWhen">
+        <item>always</item>
+        <item>silent</item>
+        <item>never</item>
+    </string-array>
+/* preferences_default_reminder_values: {bag00000000,0x02000000=-1,0x02000001=0,0x02000002=5,0x02000003=10,0x02000004=15,0x02000005=30,0x02000006=60,0x02000007=1440,0x02000008=2880,0x02000009=10080} */
+    <string-array name="preferences_default_reminder_values">
+        <item>-1</item>
+        <item>0</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>1440</item>
+        <item>2880</item>
+        <item>10080</item>
+    </string-array>
+/* preferences_week_start_day_values: {bag00000000,0x02000000=-1,0x02000001=7,0x02000002=1,0x02000003=2} */
+    <string-array name="preferences_week_start_day_values">
+        <item>-1</item>
+        <item>7</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+/* reminder_methods_values: {bag00000000,0x02000000={t=0x10 d=0x00000001},0x02000001={t=0x10 d=0x00000002},0x02000002={t=0x10 d=0x00000003},0x02000003={t=0x10 d=0x00000004}} */
+    <string-array name="reminder_methods_values">
+    </string-array>
+/* reminder_minutes_values: {bag00000000,0x02000000={t=0x10 d=0xffffffff},0x02000001={t=0x10 d=0x00000000},0x02000002={t=0x10 d=0x00000005},0x02000003={t=0x10 d=0x0000000a},0x02000004={t=0x10 d=0x0000000f},0x02000005={t=0x10 d=0x0000001e},0x02000006={t=0x10 d=0x0000003c},0x02000007={t=0x10 d=0x000005a0},0x02000008={t=0x10 d=0x00000b40},0x02000009={t=0x10 d=0x00002760}} */
+    <string-array name="reminder_minutes_values">
+    </string-array>
+/* timezone_values: {bag00000000,0x02000000=Pacific/Majuro,0x02000001=Pacific/Midway,0x02000002=Pacific/Honolulu,0x02000003=America/Anchorage,0x02000004=America/Los_Angeles,0x02000005=America/Tijuana,0x02000006=America/Phoenix,0x02000007=America/Chihuahua,0x02000008=America/Denver,0x02000009=America/Costa_Rica,0x0200000a=America/Chicago,0x0200000b=America/Mexico_City,0x0200000c=America/Regina,0x0200000d=America/Bogota,0x0200000e=America/New_York,0x0200000f=America/Caracas,0x02000010=America/Barbados,0x02000011=America/Halifax,0x02000012=America/Manaus,0x02000013=America/Santiago,0x02000014=America/St_Johns,0x02000015=America/Sao_Paulo,0x02000016=America/Argentina/Buenos_Aires,0x02000017=America/Godthab,0x02000018=America/Montevideo,0x02000019=Atlantic/South_Georgia,0x0200001a=Atlantic/Azores,0x0200001b=Atlantic/Cape_Verde,0x0200001c=Africa/Casablanca,0x0200001d=Europe/London,0x0200001e=Europe/Amsterdam,0x0200001f=Europe/Belgrade,0x02000020=Europe/Brussels,0x02000021=Europe/Sarajevo,0x02000022=Africa/Windhoek,0x02000023=Africa/Brazzaville,0x02000024=Asia/Amman,0x02000025=Europe/Athens,0x02000026=Asia/Beirut,0x02000027=Africa/Cairo,0x02000028=Europe/Helsinki,0x02000029=Asia/Jerusalem,0x0200002a=Europe/Minsk,0x0200002b=Africa/Harare,0x0200002c=Asia/Baghdad,0x0200002d=Europe/Moscow,0x0200002e=Asia/Kuwait,0x0200002f=Africa/Nairobi,0x02000030=Asia/Tehran,0x02000031=Asia/Baku,0x02000032=Asia/Tbilisi,0x02000033=Asia/Yerevan,0x02000034=Asia/Dubai,0x02000035=Asia/Kabul,0x02000036=Asia/Karachi,0x02000037=Asia/Oral,0x02000038=Asia/Yekaterinburg,0x02000039=Asia/Calcutta,0x0200003a=Asia/Colombo,0x0200003b=Asia/Katmandu,0x0200003c=Asia/Almaty,0x0200003d=Asia/Rangoon,0x0200003e=Asia/Krasnoyarsk,0x0200003f=Asia/Bangkok,0x02000040=Asia/Shanghai,0x02000041=Asia/Hong_Kong,0x02000042=Asia/Irkutsk,0x02000043=Asia/Kuala_Lumpur,0x02000044=Australia/Perth,0x02000045=Asia/Taipei,0x02000046=Asia/Seoul,0x02000047=Asia/Tokyo,0x02000048=Asia/Yakutsk,0x02000049=Australia/Adelaide,0x0200004a=Australia/Darwin,0x0200004b=Australia/Brisbane,0x0200004c=Australia/Hobart,0x0200004d=Australia/Sydney,0x0200004e=Asia/Vladivostok,0x0200004f=Pacific/Guam,0x02000050=Asia/Magadan,0x02000051=Pacific/Auckland,0x02000052=Pacific/Fiji,0x02000053=Pacific/Tongatapu} */
+    <string-array name="timezone_values">
+        <item>Pacific/Majuro</item>
+        <item>Pacific/Midway</item>
+        <item>Pacific/Honolulu</item>
+        <item>America/Anchorage</item>
+        <item>America/Los_Angeles</item>
+        <item>America/Tijuana</item>
+        <item>America/Phoenix</item>
+        <item>America/Chihuahua</item>
+        <item>America/Denver</item>
+        <item>America/Costa_Rica</item>
+        <item>America/Chicago</item>
+        <item>America/Mexico_City</item>
+        <item>America/Regina</item>
+        <item>America/Bogota</item>
+        <item>America/New_York</item>
+        <item>America/Caracas</item>
+        <item>America/Barbados</item>
+        <item>America/Halifax</item>
+        <item>America/Manaus</item>
+        <item>America/Santiago</item>
+        <item>America/St_Johns</item>
+        <item>America/Sao_Paulo</item>
+        <item>America/Argentina/Buenos_Aires</item>
+        <item>America/Godthab</item>
+        <item>America/Montevideo</item>
+        <item>Atlantic/South_Georgia</item>
+        <item>Atlantic/Azores</item>
+        <item>Atlantic/Cape_Verde</item>
+        <item>Africa/Casablanca</item>
+        <item>Europe/London</item>
+        <item>Europe/Amsterdam</item>
+        <item>Europe/Belgrade</item>
+        <item>Europe/Brussels</item>
+        <item>Europe/Sarajevo</item>
+        <item>Africa/Windhoek</item>
+        <item>Africa/Brazzaville</item>
+        <item>Asia/Amman</item>
+        <item>Europe/Athens</item>
+        <item>Asia/Beirut</item>
+        <item>Africa/Cairo</item>
+        <item>Europe/Helsinki</item>
+        <item>Asia/Jerusalem</item>
+        <item>Europe/Minsk</item>
+        <item>Africa/Harare</item>
+        <item>Asia/Baghdad</item>
+        <item>Europe/Moscow</item>
+        <item>Asia/Kuwait</item>
+        <item>Africa/Nairobi</item>
+        <item>Asia/Tehran</item>
+        <item>Asia/Baku</item>
+        <item>Asia/Tbilisi</item>
+        <item>Asia/Yerevan</item>
+        <item>Asia/Dubai</item>
+        <item>Asia/Kabul</item>
+        <item>Asia/Karachi</item>
+        <item>Asia/Oral</item>
+        <item>Asia/Yekaterinburg</item>
+        <item>Asia/Calcutta</item>
+        <item>Asia/Colombo</item>
+        <item>Asia/Katmandu</item>
+        <item>Asia/Almaty</item>
+        <item>Asia/Rangoon</item>
+        <item>Asia/Krasnoyarsk</item>
+        <item>Asia/Bangkok</item>
+        <item>Asia/Shanghai</item>
+        <item>Asia/Hong_Kong</item>
+        <item>Asia/Irkutsk</item>
+        <item>Asia/Kuala_Lumpur</item>
+        <item>Australia/Perth</item>
+        <item>Asia/Taipei</item>
+        <item>Asia/Seoul</item>
+        <item>Asia/Tokyo</item>
+        <item>Asia/Yakutsk</item>
+        <item>Australia/Adelaide</item>
+        <item>Australia/Darwin</item>
+        <item>Australia/Brisbane</item>
+        <item>Australia/Hobart</item>
+        <item>Australia/Sydney</item>
+        <item>Asia/Vladivostok</item>
+        <item>Pacific/Guam</item>
+        <item>Asia/Magadan</item>
+        <item>Pacific/Auckland</item>
+        <item>Pacific/Fiji</item>
+        <item>Pacific/Tongatapu</item>
+    </string-array>
+    <string-array name="backup_country_codes">
+        <item>SX</item>
+        <item>BQ</item>
+        <item>CW</item>
+        <item>SS</item>
+    </string-array>
+    <string-array name="backup_country_names">
+        <item>Sint Maarten</item>
+        <item>Caribbean Netherlands</item>
+        <item>Curaçao</item>
+        <item>South Sudan</item>
+    </string-array>
+    <string-array name="di_zhi">
+        <item>子</item>
+        <item>丑</item>
+        <item>寅</item>
+        <item>卯</item>
+        <item>辰</item>
+        <item>巳</item>
+        <item>午</item>
+        <item>未</item>
+        <item>申</item>
+        <item>酉</item>
+        <item>戌</item>
+        <item>亥</item>
+    </string-array>
+    <string-array name="jia_zi">
+        <item>甲子</item>
+        <item>乙丑</item>
+        <item>丙寅</item>
+        <item>丁卯</item>
+        <item>戊辰</item>
+        <item>己巳</item>
+        <item>庚午</item>
+        <item>辛未</item>
+        <item>壬申</item>
+        <item>癸酉</item>
+        <item>甲戌</item>
+        <item>乙亥</item>
+        <item>丙子</item>
+        <item>丁丑</item>
+        <item>戊寅</item>
+        <item>己卯</item>
+        <item>庚辰</item>
+        <item>辛巳</item>
+        <item>壬午</item>
+        <item>癸未</item>
+        <item>甲申</item>
+        <item>乙酉</item>
+        <item>丙戌</item>
+        <item>丁亥</item>
+        <item>戊子</item>
+        <item>己丑</item>
+        <item>庚寅</item>
+        <item>辛卯</item>
+        <item>壬辰</item>
+        <item>癸巳</item>
+        <item>甲午</item>
+        <item>乙未</item>
+        <item>丙申</item>
+        <item>丁酉</item>
+        <item>戊戌</item>
+        <item>己亥</item>
+        <item>庚子</item>
+        <item>辛丑</item>
+        <item>壬寅</item>
+        <item>癸卯</item>
+        <item>甲辰</item>
+        <item>乙巳</item>
+        <item>丙午</item>
+        <item>丁未</item>
+        <item>戊申</item>
+        <item>己酉</item>
+        <item>庚戌</item>
+        <item>辛亥</item>
+        <item>壬子</item>
+        <item>癸丑</item>
+        <item>甲寅</item>
+        <item>乙卯</item>
+        <item>丙辰</item>
+        <item>丁巳</item>
+        <item>戊午</item>
+        <item>己未</item>
+        <item>庚申</item>
+        <item>辛酉</item>
+        <item>壬戌</item>
+        <item>癸亥</item>
+    </string-array>
+    <string-array name="preferences_skip_reminders_labels">
+        <item>Only if declined</item>
+        <item>If declined or not responded</item>
+    </string-array>
+    <string-array name="preferences_skip_reminders_values">
+        <item>declined</item>
+        <item>not_responded</item>
+    </string-array>
+    <string-array name="recurrence_freq">
+        <item>REPEAT DAILY</item>
+        <item>REPEAT WEEKLY</item>
+        <item>REPEAT MONTHLY</item>
+        <item>REPEAT YEARLY</item>
+    </string-array>
+    <string-array name="repeat_by_nth_fri">
+        <item>on every first Friday</item>
+        <item>on every second Friday</item>
+        <item>on every third Friday</item>
+        <item>on every fourth Friday</item>
+        <item>on every last Friday</item>
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>on every first Monday</item>
+        <item>on every second Monday</item>
+        <item>on every third Monday</item>
+        <item>on every fourth Monday</item>
+        <item>on every last Monday</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>on every first Saturday</item>
+        <item>on every second Saturday</item>
+        <item>on every third Saturday</item>
+        <item>on every fourth Saturday</item>
+        <item>on every last Saturday</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>on every first Sunday</item>
+        <item>on every second Sunday</item>
+        <item>on every third Sunday</item>
+        <item>on every fourth Sunday</item>
+        <item>on every last Sunday</item>
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>on every first Thursday</item>
+        <item>on every second Thursday</item>
+        <item>on every third Thursday</item>
+        <item>on every fourth Thursday</item>
+        <item>on every last Thursday</item>
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>on every first Tuesday</item>
+        <item>on every second Tuesday</item>
+        <item>on every third Tuesday</item>
+        <item>on every fourth Tuesday</item>
+        <item>on every last Tuesday</item>
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>on every first Wednesday</item>
+        <item>on every second Wednesday</item>
+        <item>on every third Wednesday</item>
+        <item>on every fourth Wednesday</item>
+        <item>on every last Wednesday</item>
+    </string-array>
+    <string-array name="tian_gan">
+        <item>甲</item>
+        <item>乙</item>
+        <item>丙</item>
+        <item>丁</item>
+        <item>戊</item>
+        <item>己</item>
+        <item>庚</item>
+        <item>辛</item>
+        <item>壬</item>
+        <item>癸</item>
+    </string-array>
+    <string-array name="timezone_rename_ids">
+        <item>Australia/Darwin</item>
+        <item>Australia/Adelaide</item>
+        <item>Australia/Brisbane</item>
+        <item>Australia/Sydney</item>
+        <item>America/Dawson_Creek</item>
+        <item>America/Regina</item>
+        <item>America/Atikokan</item>
+        <item>America/Blanc-Sablon</item>
+        <item>Pacific/Honolulu</item>
+        <item>America/Adak</item>
+        <item>America/Metlakatla</item>
+        <item>America/Phoenix</item>
+        <item>America/Tijuana</item>
+        <item>America/Ojinaga</item>
+        <item>America/Matamoros</item>
+        <item>America/Hermosillo</item>
+        <item>Africa/Juba</item>
+        <item>America/Kralendijk</item>
+        <item>America/Lower_Princes</item>
+        <item>Europe/Minsk</item>
+        <item>Europe/Kaliningrad</item>
+        <item>America/Porto_Velho</item>
+        <item>America/Belem</item>
+    </string-array>
+    <string-array name="timezone_rename_labels">
+        <item>Australian Central - NT</item>
+        <item>Australian Central - SA</item>
+        <item>Australian Eastern - QLD</item>
+        <item>Australian Eastern - NSW</item>
+        <item>Mountain Standard - Dawson Creek</item>
+        <item>Central Standard - Saskatchewan</item>
+        <item>Eastern Standard - Atikokan</item>
+        <item>Atlantic Standard - Quebec</item>
+        <item>Hawaii-Aleutian - Hawaii</item>
+        <item>Hawaii-Aleutian - Alaska</item>
+        <item>Pacific Standard - Metlakatla</item>
+        <item>Mountain Standard - Arizona</item>
+        <item>Pacific - Baja California</item>
+        <item>Mountain - Chihuahua</item>
+        <item>Central - Tamaulipas</item>
+        <item>Mountain - Sonora</item>
+        <item>East Africa Time</item>
+        <item>Atlantic Standard Time</item>
+        <item>Atlantic Standard Time</item>
+        <item>Eastern European Time</item>
+        <item>Kaliningrad Time</item>
+        <item>Amazon - Rondônia</item>
+        <item>Brasilia - Pará</item>
+    </string-array>
+    <string-array name="account_birthday">
+    </string-array>
+    <string-array name="account_preset1">
+    </string-array>
+    <string-array name="account_preset2">
+    </string-array>
+    <string-array name="account_preset3">
+    </string-array>
+    <string-array name="account_preset4">
+    </string-array>
+    <string-array name="account_xiaomi">
+    </string-array>
+    <string-array name="travel_reminder_minutes_values">
+    </string-array>
+

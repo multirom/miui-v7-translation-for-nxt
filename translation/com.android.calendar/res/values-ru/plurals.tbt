@@ -1,0 +1,8 @@
+/* 0x01000004 - other   0x01000005 - zero   0x01000006 - one   0x01000007 - two   0x01000008 - few   0x01000009 - many */daily: {bag00000000,0x01000004=Every %d days,0x01000006=Daily}
+endByCount: {bag00000000,0x01000004=; for %d times,0x01000006=; for one time}
+recurrence_end_count: {bag00000000,0x01000004=For %d events,0x01000006=For %d event}
+recurrence_interval_daily: {bag00000000,0x01000004=Every %d days,0x01000006=Every %d day}
+recurrence_interval_monthly: {bag00000000,0x01000004=Every %d months,0x01000006=Every %d month}
+recurrence_interval_weekly: {bag00000000,0x01000004=Every %d weeks,0x01000006=Every %d week}
+recurrence_interval_yearly: {bag00000000,0x01000004=Every %d years,0x01000006=Every %d year}
+weekly: {bag00000000,0x01000004=Every %1$d weeks on %2$s,0x01000006=Weekly on %2$s}

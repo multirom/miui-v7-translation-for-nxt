@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<profile>
+	<activity name="AppActivity">
+		<backgroundtype>1</backgroundtype>
+		<backgroundfile>AppActivity</backgroundfile>
+	</activity>
+</profile>

@@ -1,0 +1,15 @@
+ <string-array name="wind_power">
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+    </string-array>

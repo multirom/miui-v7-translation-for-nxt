@@ -1,0 +1,4 @@
+<string name="HIPS_Action_Accept_Count">允许%1$d次</string>
+<string name="HIPS_Action_Reject_Count">拦截%1$d次</string>
+<string name="HIPS_Perm_ROOT_Desc_Stable">稳定版不支持</string>
+<string name="static_cache_db_md5">d3bcc85e9ff1f1f8f1e641ea19e7b30f</string>

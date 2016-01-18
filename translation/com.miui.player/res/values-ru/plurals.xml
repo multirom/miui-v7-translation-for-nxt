@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with CloudBuildr -->
+<resources>
+     <plurals name="NPlaylist_delete_confirm">
+        <item quantity="zero">Удалить %d плейлистов?</item>
+        <item quantity="one">Удалить %d плейлист?</item>
+        <item quantity="few">Удалить %d плейлиста?</item>
+        <item quantity="many">Удалить %d плейлистов?</item>
+     </plurals>
+     <plurals name="Nartists_count">
+        <item quantity="zero">%d исполнителей</item>
+        <item quantity="one">%d исполнитель</item>
+        <item quantity="few">%d исполнителя</item>
+        <item quantity="many">%d исполнителей</item>
+     </plurals>
+     <plurals name="Ngroups_count">
+        <item quantity="zero">%d групп</item>
+        <item quantity="one">%d группа</item>
+        <item quantity="few">%d группы</item>
+        <item quantity="many">%d групп</item>
+     </plurals>
+     <plurals name="Nquit_warning">
+        <item quantity="other">Остановка воспроизведения через %d мин.</item>
+        <item quantity="one">Остановка воспроизведения через %d мин.</item>
+     </plurals>
+     <plurals name="dialog_delete_descript">
+        <item quantity="zero">Удалить %d песен?</item>
+        <item quantity="one">Удалить %d песню?</item>
+        <item quantity="few">Удалить %d песни?</item>
+        <item quantity="many">Удалить %d песен?</item>
+     </plurals>
+     <plurals name="dialog_remove_descript">
+        <item quantity="zero">Удалить %d песен из плейлиста?</item>
+        <item quantity="one">Удалить %d песню из плейлиста?</item>
+        <item quantity="few">Удалить %d песни из плейлиста?</item>
+        <item quantity="many">Удалить %d песен из плейлиста?</item>
+     </plurals>
+     <plurals name="multichoice_title">
+        <item quantity="other">Выбрано: %d</item>
+        <item quantity="one">Выбрано: %d</item>
+     </plurals>
+     <plurals name="song_already_favorite">		
+        <item quantity="other">Песни уже вы избранном</item>
+        <item quantity="one">Песня уже вы избранном</item>
+     </plurals>
+     <plurals name="NTrackstoDownload">
+        <item quantity="zero">Песни не будут скачаны</item>
+        <item quantity="one">Будет скачана %d песня</item>
+        <item quantity="few">Будет скачано %d песни</item>
+        <item quantity="many">Будет скачано %d песен</item>
+     </plurals>
+     <plurals name="Nexpired_remind">
+        <item quantity="other">Осталось: %d дн.</item>
+        <item quantity="one">Осталось: %d дн.</item>
+     </plurals>
+     <plurals name="Nnew_tracks_count">
+        <item quantity="zero">Нет новых</item>
+        <item quantity="one">%d новая</item>
+        <item quantity="few">%d новые</item>
+        <item quantity="many">%d новых</item>
+     </plurals>
+     <plurals name="Ntracks_add_to_playlist">
+        <item quantity="zero">Песен не добавлено в плейлист</item>
+        <item quantity="one">Добавлена в плейлист %d песня</item>
+        <item quantity="few">Добавлено в плейлист %d песни</item>
+        <item quantity="many">Добавлено в плейлист %d песен</item>
+     </plurals>
+     <plurals name="Ntracks_count">
+        <item quantity="zero">Нет песен</item>
+        <item quantity="one">%d песня</item>
+        <item quantity="few">%d песни</item>
+        <item quantity="many">%d песен</item>
+     </plurals>
+     <plurals name="Ntracks_remove_from_playlist">
+        <item quantity="zero">Ни одной песни не было удалено из плейлиста</item>
+        <item quantity="one">Удалена из плейлиста %d песня</item>
+        <item quantity="few">Удалено из плейлиста %d песни</item>
+        <item quantity="many">Удалено из плейлиста %d песен</item>
+     </plurals>
+     <plurals name="Ntracks_search_result">
+        <item quantity="zero">Песен не найдено</item>
+        <item quantity="one">Найдена %d песня</item>
+        <item quantity="few">Найдено %d песни</item>
+        <item quantity="many">Найдено %d песен</item>
+     </plurals>
+     <plurals name="artist_list_fragment_item_count_format">
+        <item quantity="zero">Нет песен</item>
+        <item quantity="one">%d песня</item>
+        <item quantity="few">%d песни</item>
+        <item quantity="many">%d песен</item>
+     </plurals>
+     <plurals name="folder_songs_count">
+        <item quantity="zero">Нет песен</item>
+        <item quantity="one">%d песня</item>
+        <item quantity="few">%d песни</item>
+        <item quantity="many">%d песен</item>
+     </plurals>
+     <plurals name="send_songs_toast">
+        <item quantity="other">Песен к отправке: %d</item>
+        <item quantity="one">Песен к отправке: %d</item>
+     </plurals>
+     <plurals name="Ntracks_similar_count">
+        <item quantity="zero">Нет похожих песен</item>
+        <item quantity="one">%d похожая песня</item>
+        <item quantity="few">%d похожие песни</item>
+        <item quantity="many">%d похожих песен</item>
+     </plurals>
+     <plurals name="Nnew_local_audios">
+        <item quantity="zero">Песен не добавлено</item>
+        <item quantity="one">Добавлена %d песня</item>
+        <item quantity="few">Добавлено %d песни</item>
+        <item quantity="many">Добавлено %d песен</item>
+    </plurals>
+</resources>

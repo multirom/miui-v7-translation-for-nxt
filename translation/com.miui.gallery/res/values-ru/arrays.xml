@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with CloudBuildr -->
+<resources>
+    <string-array name="baby_sexy">
+        <item>Мальчик</item>
+        <item>Девочка</item>
+    </string-array>
+    <string-array name="owner_relation">
+        <item>Отец</item>
+        <item>Мать</item>
+        <item>Дедушка отца</item>
+        <item>Бабушка отца</item>
+        <item>Дедушка матери</item>
+        <item>Бабушка матери</item>
+    </string-array>
+     <string-array name="slideshow_time_entries">
+        <item>5 минут</item>
+        <item>15 минут</item>
+        <item>30 минут</item>
+        <item>1 час</item>
+        <item>Всегда</item>
+     </string-array>
+</resources>

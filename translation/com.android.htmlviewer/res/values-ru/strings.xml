@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="app_label">Средство просмотра HTML</string>
+     <string name="app_name_which_call">Приложение: %s</string>
+     <string name="app_version_which_call">Версия :%s</string>
+     <string name="license_host_unreachable">Не удалось подключиться к сети. Чтобы просмотреть информацию,
+перейдите на %s</string>
+     <string name="loading">Загрузка…</string>
+     <string name="mibi_license">Условия использования</string>
+     <string name="open_wifi_connect_summary">Нажмите для подробностей</string>
+     <string name="open_wifi_connect_title">Подключение к %1$s</string>
+     <string name="permdesc_accessDrm">Разрешить приложению доступ к содержимому, защищённому DRM.</string>
+     <string name="permlab_accessDrm">Доступ к содержимому DRM</string>
+     <string name="policy_name">Соглашение: %s</string>
+     <string name="settings_license_activity_loading">Загрузка…</string>
+     <string name="settings_license_activity_title">Лицензии открытого ПО</string>
+     <string name="settings_license_activity_unavailable">При завантаженні ліцензій виникла неполадка.</string>
+     <string name="settings_safetylegal_activity_loading">Загрузка…</string>
+     <string name="settings_safetylegal_activity_title">Сведения о безопасности</string>
+     <string name="settings_safetylegal_activity_unreachable">Устройство не подключено к Интернету. Чтобы просмотреть эту информацию, откройте страницу %s на любом компьютере с интернет-доступом.</string>
+     <string name="settings_safetylegal_title">Сведения о безопасности</string>
+</resources>

@@ -1,0 +1,33 @@
+<string name="call_log_empty_gecode">-</string>
+<string name="call_log_item_count_and_date">(%1$d) %2$s</string>
+<string name="call_type_and_date">%1$s %2$s</string>
+<string name="config_export_dir">/mnt/sdcard</string>
+<string name="config_export_extensions_to_consider"></string>
+<string name="config_export_file_extension">vcf</string>
+<string name="config_export_file_prefix"></string>
+<string name="config_export_file_suffix"></string>
+<string name="config_export_vcard_type">v30_generic</string>
+<string name="config_import_vcard_type">default</string>
+<string name="config_prohibited_phone_number_regexp"></string>
+<string name="from_account_format">%1$s</string>
+<string name="help_url_people_add"></string>
+<string name="help_url_people_edit"></string>
+<string name="help_url_people_main"></string>
+<string name="imei">IMEI</string>
+<string name="import_percent">0%</string>
+<string name="import_weibo_progress_percent">%1$d%%</string>
+<string name="label_duplicate_count">(%1$d)</string>
+<string name="meid">MEID</string>
+<string name="notification_voicemail_callers_list">%1$s, %2$s</string>
+<string name="percent_sign">%</string>
+<string name="percentage">%s%%</string>
+<string name="phone_info_divider"> ｜ </string>
+<string name="resource_price_format">(%1$s)</string>
+<string name="ret_sign">
+</string>
+<string name="sina_weibo">Sina Weibo</string>
+<string name="smart_group_action_bar_title">%1$s: %2$s (%3$s)</string>
+<string name="widget_name_and_phonetic">%1$s (%2$s)</string>
+<string name="combined_title_and_miprofile_swaped">%1$s, %2$s</string>
+<string name="combined_title_and_miprofile_swaped_huge_mode">%1$s
+%2$s</string>

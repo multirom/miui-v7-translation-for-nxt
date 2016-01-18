@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="AVL">AVL</string>
+     <string name="DesAVL">AVL</string>
+     <string name="DesMi">Mi</string>
+     <string name="DesTencent">Tencent</string>
+     <string name="Mi">Mi</string>
+     <string name="Tencent">Tencent</string>
+     <string name="app_name">com.securitycore.miui_t</string>
+     <string name="avl_dialog_cloudscan"></string>
+     <string name="avl_dialog_dbupdate"></string>
+     <string name="avl_dialog_header">Эта функция шифрует и передает ID Вашего устройства на сервера AVL (%s).</string>
+     <string name="avl_dialog_policy">просмотреть Политику конфиденциальности</string>
+     <string name="avl_dialog_title">Политика конфиденциальности AVL</string>
+     <string name="default_sdcard_volume_path" />
+     <string name="menu_settings">Настройки</string>
+     <string name="tencent_dialog_cloudscan">Проверять приложения и их информацию, используя онлайн базы вирусных сигнатур.</string>
+     <string name="tencent_dialog_dbupdate">Автоматически обновлять базы вирусных сигнатур</string>
+     <string name="tencent_dialog_header">Эта функция шифрует и передает ID Вашего устройства на сервера Tencent (%s).</string>
+     <string name="tencent_dialog_policy">просмотреть Политику конфиденциальности</string>
+     <string name="tencent_dialog_title">Политика конфиденциальности Tencent</string>
+</resources>

@@ -1,0 +1,60 @@
+/* app_locating_animation_scaler: {bag00000000,0x02000000={t=0x04 d=0x3f800000},0x02000001={t=0x04 d=0x3fb33333},0x02000002={t=0x04 d=0x3f666666},0x02000003={t=0x04 d=0x3f8ccccd},0x02000004={t=0x04 d=0x3f800000}} */
+    <string-array name="app_locating_animation_scaler">
+    </string-array>
+/* cell_layout_size_entries: {bag00000000,0x02000000=4x4,0x02000001=4x5} */
+    <string-array name="cell_layout_size_entries">
+        <item>4x4</item>
+        <item>4x5</item>
+    </string-array>
+/* cell_layout_size_values: {bag00000000,0x02000000=4x4,0x02000001=4x5} */
+    <string-array name="cell_layout_size_values">
+        <item>4x4</item>
+        <item>4x5</item>
+    </string-array>
+/* editing_mode_values: {bag00000000,0x02000000=0,0x02000001=1,0x02000002=2,0x02000003=3} */
+    <string-array name="editing_mode_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+/* item_shake_animation_scaler: {bag00000000,0x02000000={t=0x05 d=0x00000001},0x02000001={t=0x05 d=0xfffffc01},0x02000002={t=0x05 d=0x00000201},0x02000003={t=0x05 d=0xffffff01},0x02000004={t=0x05 d=0x00000001}} */
+    <string-array name="item_shake_animation_scaler">
+    </string-array>
+/* transformation_values: {bag00000000,0x02000000=0,0x02000001=1,0x02000002=2,0x02000003=3,0x02000004=5,0x02000005=7,0x02000006=8,0x02000007=4} */
+    <string-array name="transformation_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>5</item>
+        <item>7</item>
+        <item>8</item>
+        <item>4</item>
+    </string-array>
+/* wallpaper_scroll_values: {bag00000000,0x02000000=byTheme,0x02000001=center,0x02000002=left,0x02000003=right} */
+    <string-array name="wallpaper_scroll_values">
+        <item>byTheme</item>
+        <item>center</item>
+        <item>left</item>
+        <item>right</item>
+    </string-array>
+/* widget_sizes: {bag00000000,0x02000000=home_edit_box_area_1_1,0x02000001=home_edit_box_area_1_2,0x02000002=home_edit_box_area_1_3,0x02000003=home_edit_box_area_1_4,0x02000004=home_edit_box_area_2_1,0x02000005=home_edit_box_area_2_2,0x02000006=home_edit_box_area_2_3,0x02000007=home_edit_box_area_2_4,0x02000008=home_edit_box_area_3_1,0x02000009=home_edit_box_area_3_2,0x0200000a=home_edit_box_area_3_3,0x0200000b=home_edit_box_area_3_4,0x0200000c=home_edit_box_area_4_1,0x0200000d=home_edit_box_area_4_2,0x0200000e=home_edit_box_area_4_3,0x0200000f=home_edit_box_area_4_4} */
+    <string-array name="widget_sizes">
+        <item>home_edit_box_area_1_1</item>
+        <item>home_edit_box_area_1_2</item>
+        <item>home_edit_box_area_1_3</item>
+        <item>home_edit_box_area_1_4</item>
+        <item>home_edit_box_area_2_1</item>
+        <item>home_edit_box_area_2_2</item>
+        <item>home_edit_box_area_2_3</item>
+        <item>home_edit_box_area_2_4</item>
+        <item>home_edit_box_area_3_1</item>
+        <item>home_edit_box_area_3_2</item>
+        <item>home_edit_box_area_3_3</item>
+        <item>home_edit_box_area_3_4</item>
+        <item>home_edit_box_area_4_1</item>
+        <item>home_edit_box_area_4_2</item>
+        <item>home_edit_box_area_4_3</item>
+        <item>home_edit_box_area_4_4</item>
+    </string-array>

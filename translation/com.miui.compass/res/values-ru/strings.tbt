@@ -1,0 +1,3 @@
+<string name="altitude">%.1f</string>
+<string name="cannot_get_location">--</string>
+<string name="pressure">%.1f</string>

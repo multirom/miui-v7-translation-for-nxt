@@ -1,0 +1,15 @@
+<string name="create_table_keyword">CREATE TABLE keyword( _id INTEGER PRIMARY KEY AUTOINCREMENT, data TEXT NOT NULL DEFAULT NULL );</string>
+<string name="create_table_mode">CREATE TABLE mode( _id INTEGER PRIMARY KEY AUTOINCREMENT, name TEXT NOT NULL DEFAULT NULL, state TEXT NOT NULL DEFAULT NULL );</string>
+<string name="create_table_phonelist">CREATE TABLE phone_list( _id INTEGER PRIMARY KEY AUTOINCREMENT, number TEXT DEFAULT NULL, display_number TEXT DEFAULT NULL, notes TEXT DEFAULT NULL, state INTEGER NOT NULL DEFAULT 0, isdisplay INTEGER NOT NULL DEFAULT 0, type INTEGER );</string>
+<string name="create_table_report_sms">create table reportSms( id TEXT NOT NULL );</string>
+<string name="create_table_report_sms_pending">create table reportSmsPending( id TEXT NOT NULL, address TEXT, body TEXT, date TEXT );</string>
+<string name="create_table_sim">CREATE TABLE sim( _id INTEGER PRIMARY KEY AUTOINCREMENT, sim_id TEXT NOT NULL, call_wait TEXT DEFAULT -1, name TEXT DEFAULT NULL, backsound_mode TEXT DEFAULT -1 );</string>
+<string name="create_talbe_fwlog">CREATE TABLE fwlog( _id INTEGER PRIMARY KEY AUTOINCREMENT, number TEXT DEFAULT NULL, date INTEGER NOT NULL DEFAULT 0, type INTEGER NOT NULL DEFAULT 0, reason INTEGER NOT NULL DEFAULT 0, data1 TEXT DEFAULT NULL, data2 TEXT DEFAULT NULL, read INTEGER NOT NULL DEFAULT 0, simid TEXT NOT NULL DEFAULT -1, mode TEXT );</string>
+<string name="info_antispam_current_mode">%s</string>
+<string name="log_count">(%d)</string>
+<string name="st_antispam_mode_blacklist_state">11112121</string>
+<string name="st_antispam_mode_only_all_deny_state">10000000</string>
+<string name="st_antispam_mode_only_contacts_state">11110000</string>
+<string name="st_antispam_mode_only_whitelist_state">11000000</string>
+<string name="st_antispam_mode_smart_state">11111111</string>
+<string name="xiaomi_account_type">com.xiaomi</string>

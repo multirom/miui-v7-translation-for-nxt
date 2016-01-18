@@ -1,0 +1,10 @@
+<string name="date_format">yyyy-MM-dd HH:mm:ss</string>
+<string name="dir_date_format">yyyyMMdd_HHmmss</string>
+<string name="enable_encrypt_ok">OK</string>
+<string name="xiaomi_account_type">com.xiaomi</string>
+<string name="st_antispam_mode_blacklist_state">11112121</string>
+<string name="st_antispam_mode_only_all_deny_state">10000000</string>
+<string name="st_antispam_mode_only_contacts_state">11110000</string>
+<string name="st_antispam_mode_only_whitelist_state">11000000</string>
+<string name="st_antispam_mode_smart_state">11111111</string>
+     <string name="digit_percent">%</string>

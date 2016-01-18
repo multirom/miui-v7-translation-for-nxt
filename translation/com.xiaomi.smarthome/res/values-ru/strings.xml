@@ -1,0 +1,1905 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="about_check_update">Проверить наличие обновлений</string>
+     <string name="about_faq">FAQ</string>
+     <string name="about_faq_content">Проверьте WiFi сети следующее
+1.Правильный Wi-Fi пароль подключенных умных устройств
+2.Suman
+3.Не поддерживает WEP и EAP шифрования
+4.Маршрутизатор не подключен к интернету
+5.Публичная Wi-Fi сеть не может подключиться
+6.Wi-Fi 5ГГц не может подключиться</string>
+     <string name="about_faq_link">(смотрите метод)</string>
+     <string name="about_hight_light">Основные нововведения</string>
+     <string name="about_normal">Переключиться на обычное окружение</string>
+     <string name="about_smarthome_bbs">Форум умный дом</string>
+     <string name="about_test">Переключиться на тестовое окружение</string>
+     <string name="account_login">Войти</string>
+     <string name="action_settings">Настройки</string>
+     <string name="add_back_device_error">Удалить не удалось, попробуйте ещё раз</string>
+     <string name="add_btn_text">添加</string>
+     <string name="add_device">Добавить устройство</string>
+     <string name="add_failed">添加失败,请稍后重试</string>
+     <string name="add_family_member">添加家人</string>
+     <string name="add_family_success">添加成功</string>
+     <string name="add_or_kick_device_failed">Операция не выполняется, попробуйте ещё раз</string>
+     <string name="add_other_family">添加其他家人</string>
+     <string name="add_scene">Добавить функцию</string>
+     <string name="air_error_page_text">После первоначального подключения, или когда телефон не подключен к очистителю, нажмите одновременно кнопку режима и кнопки освещения в течение 5 секунд, чтобы услышать &quot;Бип&quot;, Wi-Fi сброшен успешно</string>
+     <string name="air_pufifier_outdoor_city">Город</string>
+     <string name="air_pufifier_outdoor_district">Площадь</string>
+     <string name="air_pufifier_v2_outdoor_city">市</string>
+     <string name="air_pufifier_v2_outdoor_district">区</string>
+     <string name="air_purifier">Очиститель воздуха</string>
+     <string name="air_purifier_act_det_desc">Вы можете в реальном времени проверять качество воздуха в доме, потребление электроэнергии увеличиться около 5 процентов, активировать?</string>
+     <string name="air_purifier_act_det_fail">Открыть не удалось</string>
+     <string name="air_purifier_act_det_no">Поздняя дата</string>
+     <string name="air_purifier_act_det_processing">Обработка…</string>
+     <string name="air_purifier_act_det_success">Общедоступна, Вы можете отключить эту функцию в настройках</string>
+     <string name="air_purifier_act_det_yes">Включить</string>
+     <string name="air_purifier_air_gran">Всего твердых частиц</string>
+     <string name="air_purifier_air_quality">Качество воздуха</string>
+     <string name="air_purifier_closed">Перезагрузка устройства</string>
+     <string name="air_purifier_common_indoor_detail_location">地点:</string>
+     <string name="air_purifier_common_indoor_detail_ok">知道了</string>
+     <string name="air_purifier_common_indoor_detail_pm25">细颗粒物(PM2.5):</string>
+     <string name="air_purifier_common_indoor_detail_source">数据来源:</string>
+     <string name="air_purifier_common_indoor_detail_source_pub">采集</string>
+     <string name="air_purifier_common_indoor_detail_title">室内</string>
+     <string name="air_purifier_common_location_fail">定位失败</string>
+     <string name="air_purifier_common_location_gps_fail">GPS定位失败, 请打开网络定位或者到室外定位</string>
+     <string name="air_purifier_common_location_gps_timeout">GPS定位超时, 请打开网络定位或者到室外定位</string>
+     <string name="air_purifier_common_location_network_fail">网络定位失败</string>
+     <string name="air_purifier_common_location_network_timeout">网络定位超时</string>
+     <string name="air_purifier_common_location_timeout">定位超时</string>
+     <string name="air_purifier_common_location_unavailable">请开启定位</string>
+     <string name="air_purifier_common_outdoor_detail_aqi">Всего твердых частиц:</string>
+     <string name="air_purifier_common_outdoor_detail_location">Расположение:</string>
+     <string name="air_purifier_common_outdoor_detail_no2">Диоксид азота:</string>
+     <string name="air_purifier_common_outdoor_detail_o3">Озон:</string>
+     <string name="air_purifier_common_outdoor_detail_ok">Знать</string>
+     <string name="air_purifier_common_outdoor_detail_pm10">Твердые частицы (PM10):</string>
+     <string name="air_purifier_common_outdoor_detail_pm25">Мелкие частицы (PM2.5):</string>
+     <string name="air_purifier_common_outdoor_detail_so2">Диоксид серы:</string>
+     <string name="air_purifier_common_outdoor_detail_source">Источник:</string>
+     <string name="air_purifier_common_outdoor_detail_source_pub">Релиз</string>
+     <string name="air_purifier_common_outdoor_detail_title">室外</string>
+     <string name="air_purifier_controll">Устройство управления</string>
+     <string name="air_purifier_device_location_empty">Определить местоположение устройства не удалось</string>
+     <string name="air_purifier_device_location_unavailable">Пожалуйста включите сетевое обнаружение</string>
+     <string name="air_purifier_filter">Фильтр</string>
+     <string name="air_purifier_filter_buy">Купить фильтр</string>
+     <string name="air_purifier_filter_desc">Описание:
+
+При обнаружении для необходимости замены картриджа, каждый раз при включении очистителя индикатор замены фильтра горит красным светом в течение 30 секунд.
+После замены фильтра включите Очиститель и нажмите кнопку сброса на задней панели корпуса фильтра, Вы услышите звуковой сигнал после успешного сброса фильтра</string>
+     <string name="air_purifier_filter_health">Состояние фильтра Чистый</string>
+     <string name="air_purifier_filter_level_0">Отлично</string>
+     <string name="air_purifier_filter_level_1">Хорошо</string>
+     <string name="air_purifier_filter_level_2">??????</string>
+     <string name="air_purifier_filter_life">Срок службы фильтра</string>
+     <string name="air_purifier_filter_reset">Сброс фильтра</string>
+     <string name="air_purifier_filter_reset_no">Отменить</string>
+     <string name="air_purifier_filter_reset_tip">Убедитесь, что фильтр был заменен новым, если не заменить фильтр и произвести сброс фильтра, это приведет к неспособности очистки воздуха</string>
+     <string name="air_purifier_filter_reset_tip_2">не заменив фильтр и сделать сброс фильтра, приведет к невозможности обнаружить очиститель</string>
+     <string name="air_purifier_filter_reset_yes">Подтверждение</string>
+     <string name="air_purifier_filter_rest_life">% s дней доступно</string>
+     <string name="air_purifier_filter_tip">Степень загрязнения фильтра% s</string>
+     <string name="air_purifier_filter_to_buy">Купить фильтр&gt;</string>
+     <string name="air_purifier_health_index">Индекс состояния текущего фильтра:</string>
+     <string name="air_purifier_health_index_good">Хорошо</string>
+     <string name="air_purifier_health_index_normal">Нормальний</string>
+     <string name="air_purifier_indoor">Комната</string>
+     <string name="air_purifier_indoor_act_det">Время отключения&gt;</string>
+     <string name="air_purifier_indoor_air">Воздух в помещении</string>
+     <string name="air_purifier_indoor_closed">已关机</string>
+     <string name="air_purifier_indoor_last">Последний раз обнаруженное значение</string>
+     <string name="air_purifier_indoor_none">Нет значения обнаружения</string>
+     <string name="air_purifier_info_bar_fix_auto">Автоматический режим</string>
+     <string name="air_purifier_info_bar_fix_auto_high">Автоматический выбор высокой скорости мощности очистки</string>
+     <string name="air_purifier_info_bar_fix_auto_low">Автоматически выбирать сохранение низкой скорости для экономии энергии</string>
+     <string name="air_purifier_info_bar_fix_auto_medium">Автоматически выбрать скорость, чтобы снизить уровень шума</string>
+     <string name="air_purifier_info_bar_fix_high">Qiangdang mode</string>
+     <string name="air_purifier_info_bar_fix_idle_bad">Оповещение об открытии очистителя</string>
+     <string name="air_purifier_info_bar_fix_idle_nice">Выключен</string>
+     <string name="air_purifier_info_bar_fix_low">Профиль низкого режима</string>
+     <string name="air_purifier_info_bar_fix_medium">Средний режим</string>
+     <string name="air_purifier_info_bar_fix_silent">Спящий режим</string>
+     <string name="air_purifier_info_bar_fix_strong">Скоростной режим</string>
+     <string name="air_purifier_info_bar_fix_syncing">Синхронизация данных очистителя…</string>
+     <string name="air_purifier_info_bar_tmp_closing">очистка завершена…</string>
+     <string name="air_purifier_info_bar_tmp_light_closed">Подсветка выключена</string>
+     <string name="air_purifier_info_bar_tmp_light_open">Подсветка включена</string>
+     <string name="air_purifier_info_bar_tmp_opening">Очистка начинаеться…</string>
+     <string name="air_purifier_info_bar_tmp_syncing">Синхронизация данных очистителя…</string>
+     <string name="air_purifier_main_filter">Левый картридж% s</string>
+     <string name="air_purifier_manual_check">Нажмите здесь, чтобы в помещении тестировалось качество воздуха</string>
+     <string name="air_purifier_manual_check_count_three">У вас активированно ручное сканирование, автоматическое сканирование отключается</string>
+     <string name="air_purifier_manual_checking">Сканирование…</string>
+     <string name="air_purifier_more_update_location_doing">Обновление…</string>
+     <string name="air_purifier_more_update_location_fail">Обновить не удалось</string>
+     <string name="air_purifier_more_update_location_msg">Очиститель использует текущее местоположение телефона, убедитесь, что телефон находится рядом с очистителем</string>
+     <string name="air_purifier_more_update_location_success">Обновление завершено</string>
+     <string name="air_purifier_more_update_location_title">Обновить местоположение устройства</string>
+     <string name="air_purifier_notify_air_alarm">Сообщить о загрязнении воздуха</string>
+     <string name="air_purifier_notify_air_alarm_desc">выключить очиститель, когда качество воздуха будет отличное</string>
+     <string name="air_purifier_notify_auto_start">Автоматическое открытие</string>
+     <string name="air_purifier_notify_auto_start_desc">в выключенном состоянии, при обнаружении в комнате грязного воздуха влияющего на состояние здоровья, очиститель воздуха запускаться автоматически, для очистки воздуха в помещении. Когда воздух в помещении очистися, очиститель автоматически отключается</string>
+     <string name="air_purifier_notify_blue_sky_alarm">Напоминие Blue Sky</string>
+     <string name="air_purifier_notify_blue_sky_alarm_desc">Когда очиститель включен, воздух в комнате будет Вам напоминать открытое окно</string>
+     <string name="air_purifier_notify_exception_alarm">выполнить исключение для напоминания</string>
+     <string name="air_purifier_notify_exception_alarm_desc">Когда очиститель обнаружит неполадки в работе, он Вам сообщит об этом</string>
+     <string name="air_purifier_notify_filter_alarm">картридж исчерпал лимит</string>
+     <string name="air_purifier_notify_title">Настройки уведомления</string>
+     <string name="air_purifier_open">Устройство включено</string>
+     <string name="air_purifier_outdoor">Cнаружи</string>
+     <string name="air_purifier_outdoor_locating">Определение местоположения…</string>
+     <string name="air_purifier_pm25_indoor_level_0">Отлично</string>
+     <string name="air_purifier_pm25_indoor_level_1">Хорошо</string>
+     <string name="air_purifier_pm25_indoor_level_2">Умеренно</string>
+     <string name="air_purifier_pm25_level_0">Отлично</string>
+     <string name="air_purifier_pm25_level_1">Хорошо</string>
+     <string name="air_purifier_pm25_level_2">Среднее загрязнение</string>
+     <string name="air_purifier_pm25_level_3">Умеренное загрязнение</string>
+     <string name="air_purifier_pm25_level_4">Сильное загрязнение</string>
+     <string name="air_purifier_pm25_level_5">Сильнейшее загрязнение</string>
+     <string name="air_purifier_reset_fail">Ошибка сброса</string>
+     <string name="air_purifier_reset_success">Успешный сброс</string>
+     <string name="air_purifier_set_fail">неудачная настройка</string>
+     <string name="air_purifier_set_success">Успешная настройка</string>
+     <string name="air_purifier_setting_act_det">Контроль времени выключения</string>
+     <string name="air_purifier_setting_act_det_desc">В течении каждого дня потребления электроэнергии составит примерно 5%</string>
+     <string name="air_purifier_setting_aqi_link">Отчет по качеству воздуха</string>
+     <string name="air_purifier_setting_aqi_link_desc">Автоматически запускается при грязном воздухе в помещении, после очистки автоматически выключается</string>
+     <string name="air_purifier_setting_auto_det_unvailable">Ваше устройство не поддерживает эту функцию</string>
+     <string name="air_purifier_setting_buzzer_unvailable">Ваше устройство не поддерживает эту функцию, пожалуйста обновите прошивку</string>
+     <string name="air_purifier_setting_child_lock">Блокировка от детей</string>
+     <string name="air_purifier_setting_child_lock_desc">Аппаратная операция неудачная</string>
+     <string name="air_purifier_setting_close_auto_check">Автоматическое обнаружение выключено</string>
+     <string name="air_purifier_setting_close_auto_check_desc">Режим выключения, автоматически проверяет качество воздуха ежечасно</string>
+     <string name="air_purifier_setting_end_time">Время окончания</string>
+     <string name="air_purifier_setting_every_day">Каждый день</string>
+     <string name="air_purifier_setting_feedback">Обратная связь</string>
+     <string name="air_purifier_setting_filter">Фильтр</string>
+     <string name="air_purifier_setting_home">Главная;дом (Лаб)</string>
+     <string name="air_purifier_setting_home_desc">Домашнее автовыключение, автоматически выключать</string>
+     <string name="air_purifier_setting_light">Световая индикация очистителя</string>
+     <string name="air_purifier_setting_light_desc">При автоматическом открытии загорится подсветка</string>
+     <string name="air_purifier_setting_manual">Руководство пользователя</string>
+     <string name="air_purifier_setting_notify">Настройки уведомления</string>
+     <string name="air_purifier_setting_power">Потребление оборудования</string>
+     <string name="air_purifier_setting_relocation">Расположение очистителя</string>
+     <string name="air_purifier_setting_sound">Звук при очистке</string>
+     <string name="air_purifier_setting_sound_desc">При загрузке автоматически включится звук</string>
+     <string name="air_purifier_setting_start_time">Время</string>
+     <string name="air_purifier_setting_time_open_close">Таймер</string>
+     <string name="air_purifier_setting_time_open_close_close">Выключить</string>
+     <string name="air_purifier_setting_time_open_close_open">Открыто</string>
+     <string name="air_purifier_setting_title">Настройки</string>
+     <string name="air_purifier_timing_add">добавить время</string>
+     <string name="air_purifier_timing_title">Таймер</string>
+     <string name="air_purifier_update_location_content">Очиститель использует текущее местоположение телефона, убедитесь, что телефон находится рядом с очистителем</string>
+     <string name="air_purifier_update_location_doing">Обновление…</string>
+     <string name="air_purifier_update_location_fail">Не удалось обновить</string>
+     <string name="air_purifier_update_location_fail_loc_time_out">Ошибка позиционирования, включите сетевое расположение</string>
+     <string name="air_purifier_update_location_title">Калибровка расположения очистителя</string>
+     <string name="air_purifier_v2">Очиститель Воздуха 2</string>
+     <string name="air_purifier_v2_act_det_desc">Вы можете в реальном времени проверять качество воздуха в доме, потребление электроэнергии увеличиться около 5 центов, активировать?</string>
+     <string name="air_purifier_v2_act_det_fail">Открыть не удалось</string>
+     <string name="air_purifier_v2_act_det_no">Поздняя дата</string>
+     <string name="air_purifier_v2_act_det_processing">Обработка…</string>
+     <string name="air_purifier_v2_act_det_success">общедоступна, Вы можете отключить эту функцию в настройках</string>
+     <string name="air_purifier_v2_act_det_yes">Включить</string>
+     <string name="air_purifier_v2_air_gran">Всего твердых частиц</string>
+     <string name="air_purifier_v2_air_quality">Качество воздуха</string>
+     <string name="air_purifier_v2_closed">Перезагрузка устройства</string>
+     <string name="air_purifier_v2_controll">Устройство управления</string>
+     <string name="air_purifier_v2_device_location_empty">Определить местоположение устройства не удалось</string>
+     <string name="air_purifier_v2_device_location_unavailable">Пожалуйста включите сетевое обнаружение</string>
+     <string name="air_purifier_v2_filter">Фильтр</string>
+     <string name="air_purifier_v2_filter_buy">Купить фильтр</string>
+     <string name="air_purifier_v2_filter_desc">Описание:
+
+При обнаружении для необходимости замены картриджа, каждый раз при включении Очистителя индикатор замены фильтра горит красным светом в течение 30 секунд.
+После замены фильтра включите Очиститель и нажмите кнопку сброса на задней панели корпуса фильтра, DDD Вы услышите звуковой сигнал после успешного сброса фильтра</string>
+     <string name="air_purifier_v2_filter_health">Степень фильтра чистый</string>
+     <string name="air_purifier_v2_filter_level_0">Отлично</string>
+     <string name="air_purifier_v2_filter_level_1">Хорошо</string>
+     <string name="air_purifier_v2_filter_level_2">?????</string>
+     <string name="air_purifier_v2_filter_life">Срок службы фильтра</string>
+     <string name="air_purifier_v2_filter_reset">Сброс фильтра</string>
+     <string name="air_purifier_v2_filter_reset_no">Отменить</string>
+     <string name="air_purifier_v2_filter_reset_tip">Убедитесь, что фильтр был заменен новым, если не заменить фильтр и произвести сброс фильтра, это приведет к неспособности очистки воздуха</string>
+     <string name="air_purifier_v2_filter_reset_tip_2">Не заменив фильтр и сделать сброс фильтра, приведет к невозможности обнаружить очиститель</string>
+     <string name="air_purifier_v2_filter_reset_yes">Подтверждение</string>
+     <string name="air_purifier_v2_filter_rest_life">% s дней доступно</string>
+     <string name="air_purifier_v2_filter_tip">Степень загрязнения фильтра %s</string>
+     <string name="air_purifier_v2_filter_to_buy">Купить фильтр</string>
+     <string name="air_purifier_v2_health_index">Индекс состояния текущего фильтра:</string>
+     <string name="air_purifier_v2_health_index_good">Хорошо</string>
+     <string name="air_purifier_v2_health_index_normal">Нормально</string>
+     <string name="air_purifier_v2_indoor">Комната</string>
+     <string name="air_purifier_v2_indoor_act_det">Время отключения&gt;</string>
+     <string name="air_purifier_v2_indoor_air">Воздух в помещении</string>
+     <string name="air_purifier_v2_indoor_closed">已关机</string>
+     <string name="air_purifier_v2_indoor_last">Последний раз обнаруженное значение</string>
+     <string name="air_purifier_v2_indoor_none">Нет значения обнаружения</string>
+     <string name="air_purifier_v2_info_bar_fix_auto">Автоматический режим</string>
+     <string name="air_purifier_v2_info_bar_fix_auto_high">Автоматический выбор высокой скорости мощности очистки</string>
+     <string name="air_purifier_v2_info_bar_fix_auto_low">Автоматически выбирать сохранение низкой скорости для экономии энергии</string>
+     <string name="air_purifier_v2_info_bar_fix_auto_medium">Автоматически выбрать скорость, чтобы снизить уровень шума</string>
+     <string name="air_purifier_v2_info_bar_fix_high">Qiangdang mode</string>
+     <string name="air_purifier_v2_info_bar_fix_idle_bad">Оповещение об открытии очистителя</string>
+     <string name="air_purifier_v2_info_bar_fix_idle_nice">Выключен</string>
+     <string name="air_purifier_v2_info_bar_fix_low">Профиль низкого режима</string>
+     <string name="air_purifier_v2_info_bar_fix_medium">Средний режим</string>
+     <string name="air_purifier_v2_info_bar_fix_silent">Спящий режим</string>
+     <string name="air_purifier_v2_info_bar_fix_strong">Скоростной режим</string>
+     <string name="air_purifier_v2_info_bar_fix_syncing">Синхронизация данных очистителя…</string>
+     <string name="air_purifier_v2_info_bar_tmp_closing">Выключение очистки…</string>
+     <string name="air_purifier_v2_info_bar_tmp_light_closed">Подсветка выключена</string>
+     <string name="air_purifier_v2_info_bar_tmp_light_open">Подсветка включена</string>
+     <string name="air_purifier_v2_info_bar_tmp_opening">Включение очистки…</string>
+     <string name="air_purifier_v2_info_bar_tmp_syncing">Синхронизация данных очистителя…</string>
+     <string name="air_purifier_v2_main_filter">Левый картридж %s</string>
+     <string name="air_purifier_v2_manual_check">Нажмите здесь, чтобы в помещении тестировалось качество воздуха</string>
+     <string name="air_purifier_v2_manual_check_count_three">У вас активированно ручное сканирование, автоматическое сканирование отключается</string>
+     <string name="air_purifier_v2_manual_checking">Сканирование…</string>
+     <string name="air_purifier_v2_more_update_location_doing">Обновление…</string>
+     <string name="air_purifier_v2_more_update_location_fail">Обновить не удалось</string>
+     <string name="air_purifier_v2_more_update_location_msg">Определить текущее местоположение используя телефон?</string>
+     <string name="air_purifier_v2_more_update_location_success">Обновление завершено</string>
+     <string name="air_purifier_v2_more_update_location_title">Обновление местоположения устройства</string>
+     <string name="air_purifier_v2_notify_air_alarm">Сообщить о загрязнении воздуха</string>
+     <string name="air_purifier_v2_notify_air_alarm_desc">выключить очиститель, когда качество воздуха будет отличное</string>
+     <string name="air_purifier_v2_notify_auto_start">Открыть автоматически</string>
+     <string name="air_purifier_v2_notify_auto_start_desc">в выключенном состоянии, при обнаружении в комнате грязного воздуха влияющего на состояние здоровья, очиститель воздуха запускаться автоматически, для очистки воздуха в помещении. Когда воздух в помещении очистися, очиститель автоматически отключится</string>
+     <string name="air_purifier_v2_notify_blue_sky_alarm">Напоминие Blue Sky</string>
+     <string name="air_purifier_v2_notify_blue_sky_alarm_desc">Когда очиститель включен, воздух в комнате будет напоминать открытое окно</string>
+     <string name="air_purifier_v2_notify_exception_alarm">выполнить исключение для напоминания</string>
+     <string name="air_purifier_v2_notify_exception_alarm_desc">Когда очиститель обнаружит неполадки в работе, он Вам сообщит об этом</string>
+     <string name="air_purifier_v2_notify_filter_alarm">картридж исчерпал лимит</string>
+     <string name="air_purifier_v2_notify_title">Настройки уведомления</string>
+     <string name="air_purifier_v2_open">Устройство включено</string>
+     <string name="air_purifier_v2_outdoor">Снаружи</string>
+     <string name="air_purifier_v2_outdoor_locating">Определение местоположения…</string>
+     <string name="air_purifier_v2_pm25_indoor_level_0">Отлично</string>
+     <string name="air_purifier_v2_pm25_indoor_level_1">Хорошо</string>
+     <string name="air_purifier_v2_pm25_indoor_level_2">Умеренно</string>
+     <string name="air_purifier_v2_pm25_level_0">Отлично</string>
+     <string name="air_purifier_v2_pm25_level_1">Хорошо</string>
+     <string name="air_purifier_v2_pm25_level_2">Среднее загрязнение</string>
+     <string name="air_purifier_v2_pm25_level_3">Умеренное грязнение</string>
+     <string name="air_purifier_v2_pm25_level_4">Сильное загрязнение</string>
+     <string name="air_purifier_v2_pm25_level_5">Сильнейшее загрязнение</string>
+     <string name="air_purifier_v2_reset_fail">Ошибка сброса</string>
+     <string name="air_purifier_v2_reset_success">Успешный сброс</string>
+     <string name="air_purifier_v2_set_fail">неудачная настройка</string>
+     <string name="air_purifier_v2_set_success">Успешная настройка</string>
+     <string name="air_purifier_v2_setting_act_det">Контроль времени выключения</string>
+     <string name="air_purifier_v2_setting_act_det_desc">в течении каждого дня потребления электроэнергии составит примерно 5%</string>
+     <string name="air_purifier_v2_setting_aqi_link">Отчет по качеству воздуха</string>
+     <string name="air_purifier_v2_setting_aqi_link_desc">автоматически запускается при грязном воздухе в помещении, после очистки автоматически выключается</string>
+     <string name="air_purifier_v2_setting_auto_det_unvailable">Ваше устройство не поддерживает эту функцию</string>
+     <string name="air_purifier_v2_setting_buzzer_unvailable">Ваше устройство не поддерживает эту функцию, пожалуйста обновите прошивку</string>
+     <string name="air_purifier_v2_setting_child_lock">Блокировка от детей</string>
+     <string name="air_purifier_v2_setting_child_lock_desc">Операция неудачная</string>
+     <string name="air_purifier_v2_setting_close_auto_check">Автоматическое сканирование отключено</string>
+     <string name="air_purifier_v2_setting_close_auto_check_desc">Режим выключения, автоматически проверяет качество воздуха ежечасно</string>
+     <string name="air_purifier_v2_setting_end_time">Время окончания</string>
+     <string name="air_purifier_v2_setting_every_day">каждый</string>
+     <string name="air_purifier_v2_setting_feedback">Обратная связь</string>
+     <string name="air_purifier_v2_setting_filter">Фильтр</string>
+     <string name="air_purifier_v2_setting_home">Главная; дом (Lab)</string>
+     <string name="air_purifier_v2_setting_home_desc">Автовыключение дома, автоматическое питание</string>
+     <string name="air_purifier_v2_setting_light">Световая индикация очистителя</string>
+     <string name="air_purifier_v2_setting_light_desc">При автоматическом открытии загорится подсветка</string>
+     <string name="air_purifier_v2_setting_manual">Руководство пользователя</string>
+     <string name="air_purifier_v2_setting_notify">Настройки уведомления</string>
+     <string name="air_purifier_v2_setting_power">потребление устройства</string>
+     <string name="air_purifier_v2_setting_relocation">Расположение очистителя</string>
+     <string name="air_purifier_v2_setting_sound">звук при очистке</string>
+     <string name="air_purifier_v2_setting_sound_desc">При загрузке автоматически включится звук</string>
+     <string name="air_purifier_v2_setting_start_time">Время</string>
+     <string name="air_purifier_v2_setting_time_open_close">Таймер</string>
+     <string name="air_purifier_v2_setting_time_open_close_close">Выключить</string>
+     <string name="air_purifier_v2_setting_time_open_close_open">Открыто</string>
+     <string name="air_purifier_v2_setting_title">Настройки</string>
+     <string name="air_purifier_v2_timing_add">добавить время</string>
+     <string name="air_purifier_v2_timing_title">Таймер</string>
+     <string name="air_purifier_v2_update_location_content">Очиститель использует текущее местоположение телефона, убедитесь, что телефон находится рядом с очистителем</string>
+     <string name="air_purifier_v2_update_location_doing">Обновление…</string>
+     <string name="air_purifier_v2_update_location_fail">Не удалось обновить</string>
+     <string name="air_purifier_v2_update_location_fail_loc_time_out">Мобильное позиционирование не удаётся</string>
+     <string name="air_purifier_v2_update_location_title">Калибровка расположения очистителя</string>
+     <string name="air_reset_title_text">Сброс настроек очистителя</string>
+     <string name="air_serach_no_device_green_1">Мигающий зеленый: очиститель ожидает подключения</string>
+     <string name="air_serach_no_device_green_2">Зеленый, устройство занято, нужен сброс</string>
+     <string name="alarm_is_disenabled">Сингализация отключена</string>
+     <string name="alarm_is_enabled">Сингализация включена</string>
+     <string name="app_latest_version_installed">Текущее приложение обновилось до последней версии</string>
+     <string name="app_latest_version_installed_smarthome">Текущая версия самая новая</string>
+     <string name="app_name">Умный дом</string>
+     <string name="app_upgrade_check_smarthome">Проверка…</string>
+     <string name="app_upgrade_detail_smarthome">Найдена новая версия приложения, обновить?</string>
+     <string name="app_upgrade_failed_smarthome">Скачать не удалось, попробуйте ещё раз</string>
+     <string name="application_feedback">Расширенное приложение</string>
+     <string name="back_name_less_limit_30">Название заметки не должно привешать 30 символов</string>
+     <string name="back_name_less_limit_not_null">Название заметки не может быть пустым</string>
+     <string name="begin_connection">Начать подключение</string>
+     <string name="bind_bind">Подключено</string>
+     <string name="bind_error">Ошибка</string>
+     <string name="bind_error_info">1. Пожалуйста, проверьте доступность сетей
+ 2. Повторно нажмите кнопку питания, чтобы завершить подключение</string>
+     <string name="bind_info">Пожалуйста, перезагрузите устройство, затем снова подключите</string>
+     <string name="bind_success">Успешно</string>
+     <string name="bind_title">Подробнее о подключенных устройствах</string>
+     <string name="bind_unbind">Нет подключения</string>
+     <string name="binding_feedback">Счет аккаунта</string>
+     <string name="bing_tips">Просмотреть метод сбрасывания</string>
+     <string name="bought_device_go">Читать далее</string>
+     <string name="bought_device_remote">Интеллектуальное управление</string>
+     <string name="bought_device_switch">Умная розетка</string>
+     <string name="button_bind">Проверьте подключение</string>
+     <string name="button_bind_failed">Подключение неудачное, проверьте настройки сети</string>
+     <string name="button_bind_failed_info">Подключение не удаётся, проверьте, что устройство и телефон подключены к одному роутеру</string>
+     <string name="button_bind_success">Подключено</string>
+     <string name="button_bind_tips">Пожалуйста, нажмите через % d секунд, чтобы открыть ключ и завершить подключение</string>
+     <string name="calorie">кал</string>
+     <string name="camera_alarm_set_error">Неудачный сигнал камеры</string>
+     <string name="camera_audio_record_not_author">Несанкционированная запись голоса, разрешить запись?</string>
+     <string name="camera_get_device_error">Получить информацию о камеры не удалось</string>
+     <string name="camera_get_device_info_error_retry">Получение информации о неисправности камеры, пожалуйста подождите</string>
+     <string name="camera_local_scan">Сканирование камеры</string>
+     <string name="camera_max_record_time">Достигнуто максимальное время записи</string>
+     <string name="camera_name">Умные камеры</string>
+     <string name="camera_need_update_rom">Текущая версия прошивки является слишком старой, для использования камеры, пожалуйста, обновите до последней версии</string>
+     <string name="camera_need_update_rom_for_use">Текущая версия прошивки является слишком старой, Вы не можете использовать эту возможность, пожалуйста, обновите до последней версии</string>
+     <string name="camera_not_show_top_snap">Поднять верхнее изображение дисплея</string>
+     <string name="camera_not_support_play_record">В камере отсутствует TF карта, невозможно воспроизвести</string>
+     <string name="camera_open_no_wifi_tips">Отсутствует подключение Wi-Fi на телефоне, будет использован трафик мобильной сети, продолжить?</string>
+     <string name="camera_open_ok">OK</string>
+     <string name="camera_play_error">Не удалось открыть камеру</string>
+     <string name="camera_play_initial">Инициализация %1$ d%% …</string>
+     <string name="camera_play_initial_buffer">Буферизация…</string>
+     <string name="camera_play_no_record">В это время камера не записывает видео</string>
+     <string name="camera_play_on_tv_title">Определить проекцию камеры %1$s</string>
+     <string name="camera_realtime">Просмотр в реальном времени</string>
+     <string name="camera_remote_scan">Сканирование камеры в облаке</string>
+     <string name="camera_serach_no_device_blue">Камера, мигание синего света: оборудование используется, нужен сброс</string>
+     <string name="camera_serach_no_device_red">Камера, красный свет: система начинает и не может соединиться с сервером, мигает красный индикатор в ожидании соединения</string>
+     <string name="camera_set_error">Обработка не удалась</string>
+     <string name="camera_set_error_not_open">Камера была отключена, подключите</string>
+     <string name="camera_set_error_timeout">Обработка тайм-аут</string>
+     <string name="camera_set_video_quality">Настройки разрешения видео:</string>
+     <string name="camera_set_video_save_time">Настройки храниения видео по времени:</string>
+     <string name="camera_settings_alarm_all_day">Сигнал дня</string>
+     <string name="camera_settings_alarm_user_define">Пользовательский сигнал</string>
+     <string name="camera_settings_camera_and_router_no_space_to_support_copyback">Вы не можете использовать эту функцию на камерах наблюдения и роутерах где нет жесткого диска</string>
+     <string name="camera_settings_camera_backup_close">Закрыть</string>
+     <string name="camera_settings_camera_backup_open">Открыто</string>
+     <string name="camera_settings_camera_cancel_update">Отменить обновление</string>
+     <string name="camera_settings_camera_closed">Видеокамера выключена</string>
+     <string name="camera_settings_camera_info">Проверить обновление</string>
+     <string name="camera_settings_camera_light">Подстветка</string>
+     <string name="camera_settings_camera_not_support_copyback">В обнаруженной камере нет карты памяти, Вы не можете использовать эту функцию для использования желательно вставить TF карту</string>
+     <string name="camera_settings_camera_reboot">Перезагрузить для  завершения обновления</string>
+     <string name="camera_settings_camera_snap_share">Поделится картинкой</string>
+     <string name="camera_settings_camera_snap_share_info">Раздача картинки с камеры</string>
+     <string name="camera_settings_camera_speaking">Нет нового релиза</string>
+     <string name="camera_settings_camera_update">Обновить сейчас</string>
+     <string name="camera_settings_check_update">Проверить обновление</string>
+     <string name="camera_settings_check_update_new">Проверить обновление (нов)</string>
+     <string name="camera_settings_copybacking">Создать резервное копирование</string>
+     <string name="camera_settings_copybacking_desc">Резервное копирование…</string>
+     <string name="camera_settings_last_copyback_time">Последняя резервная копия:</string>
+     <string name="camera_settings_motion_alarm_switch">Сигнал</string>
+     <string name="camera_settings_motion_alarm_switch_desc">Напоминие</string>
+     <string name="camera_settings_motion_alarm_switch_setting">Сигнал</string>
+     <string name="camera_settings_motion_detect_switch">Запись при обнаружении движения</string>
+     <string name="camera_settings_motion_detect_switch_des">Чтобы начать запись при обнаружении движения, после открытия можете определить место хранения, но не сможете записать звуки</string>
+     <string name="camera_settings_open_error_no_config_info">Определение роутера для резервного копирования данных</string>
+     <string name="camera_settings_open_error_no_device_info">Видеокамера не открыта, Вы не можете просмотреть</string>
+     <string name="camera_settings_open_error_no_update_info">Вы не можете просмотреть данные об обновлении камеры</string>
+     <string name="camera_settings_open_error_router_not_support">маршрутизатор не поддерживает резервное копирование, пожалуйста обновите прошивку</string>
+     <string name="camera_settings_router_no_space_to_support_copyback">На обнаруженном маршрутизаторе не существует ни одного жестког диска, Вы не можете использовать функцию использования доступа к жесткому диску до установления</string>
+     <string name="camera_settings_router_not_support_copyback">Роутер не поддерживает резервное копирование</string>
+     <string name="camera_settings_save_all_day">Запись дней</string>
+     <string name="camera_settings_save_location">Хранилище</string>
+     <string name="camera_settings_save_route">Mi роутер</string>
+     <string name="camera_settings_save_route_des">хранить видео можно до 30 дней</string>
+     <string name="camera_settings_save_sd_card">TF карта камеры</string>
+     <string name="camera_settings_save_sd_card_des">может хранить видео высокой четкости, а также видео реального времени</string>
+     <string name="camera_settings_save_space_not_enough">На маршрутизаторе может быть недостаточно места для хранения</string>
+     <string name="camera_settings_save_user_define">Пользовательская запись</string>
+     <string name="camera_settings_set_alarm_user_define">Установить время срабатывания будильника</string>
+     <string name="camera_settings_set_save_time_days">Когда настройки хранятся долго</string>
+     <string name="camera_settings_set_save_user_define">Установить время срабатывания будильника</string>
+     <string name="camera_settings_set_save_user_define_des">В целях обеспечения сохранности HDD на роутере, хранить до 18 часов записанного видео каждый день</string>
+     <string name="camera_settings_space_save_size_desc">Свободно на HDD роутера:</string>
+     <string name="camera_settings_update_done">Перезапуск, а затем обновить список после завершения открытия</string>
+     <string name="camera_settings_video_high">HD</string>
+     <string name="camera_settings_video_normal">Нормальное качество видео</string>
+     <string name="camera_settings_video_save_one_day">один раз</string>
+     <string name="camera_settings_video_save_one_day_desc">24-х часовой цикл записи</string>
+     <string name="camera_settings_video_save_one_month">месяц</string>
+     <string name="camera_settings_video_save_one_month_desc">24-х часовой цикл записи полного месяца</string>
+     <string name="camera_settings_video_save_one_week">Одну неделю</string>
+     <string name="camera_settings_video_save_one_week_desc">24-х часовой цикл записи полной недели</string>
+     <string name="camera_settings_video_save_size_desc">Хранить файлы видеонаблюдения на HDD роутера:</string>
+     <string name="camera_settings_video_save_switch">Сохранение видеонаблюдения</string>
+     <string name="camera_settings_video_save_switch_desc">После открытия, видеонаблюдение будет храниться на роутере</string>
+     <string name="camera_settings_video_save_switch_setting">Настройка видео и путь хранения файлов</string>
+     <string name="camera_show_top_snap">В верхней части отображаемого изображения</string>
+     <string name="camera_snapshot_no_space">Телефон не имеет внешнего устройства для хранения данных</string>
+     <string name="camera_snapshot_save_success">Фото была сохранена в фотогалерее</string>
+     <string name="camera_update_current_is_last_version">В настоящее время последняя версия: %1$s</string>
+     <string name="camera_update_current_version">Текущая версия: %1$s</string>
+     <string name="camera_update_new_version">Изменяемая версия: %1$s</string>
+     <string name="camera_update_rom_download_completed">Скачивание прошивки завершено, ожидается следующий этап установки</string>
+     <string name="camera_update_rom_download_failed">Скачать прошивку не удалось</string>
+     <string name="camera_update_rom_download_failed_no_tf">В камере отсутствует TF карта, невозможно загрузить обновления</string>
+     <string name="camera_update_rom_download_progress">Скачивание прошивки: %1$d %%</string>
+     <string name="camera_video_quality">Разрешение видео </string>
+     <string name="camera_video_quality_auto">Авто</string>
+     <string name="camera_video_quality_bq">SD</string>
+     <string name="camera_video_quality_hd">HD</string>
+     <string name="camera_waiting">Обрабатывается…</string>
+     <string name="cancel">Отменить</string>
+     <string name="cardCancle">取消</string>
+     <string name="cardDefaultuse">默认使用该卡支付</string>
+     <string name="cardUnbing">解除绑定</string>
+     <string name="change_back_name">Изменить название заметки</string>
+     <string name="change_back_name_fail">Изменить название заметки не удалось, попробуйте ещё раз</string>
+     <string name="changeing_back_name">Обратите внимание, в название вносятся изменения</string>
+     <string name="channel">CommonChannelInfo</string>
+     <string name="check_upgrading_error">Проверить наличие обновлений не удалось</string>
+     <string name="check_upgrading_error_smarthome">Проверить наличие обновлений не удалась, попробуйте ещё раз</string>
+     <string name="checking">Сканирование…</string>
+     <string name="choose_detail_wifi">готов к подключению %s
+</string>
+     <string name="choose_device_title">Выберите устройство
+для подключения</string>
+     <string name="choose_question">Пожалуйста, выберите вопрос классификации</string>
+     <string name="choose_same_ssid_error">Вы выбрали тот же Wi-Fi, выберите другой</string>
+     <string name="choosedevice_wifi_title">Пожалуйста, выберите Wi-Fi для подключения умных устройств</string>
+     <string name="client_connect_fail">Не удалось установить соединение с устройством</string>
+     <string name="client_connect_kuailian">% s подключенных устройств</string>
+     <string name="client_connect_kuailian_device">Подключение к % s …</string>
+     <string name="client_connect_kuailian_green">% s было обнаружено устройство</string>
+     <string name="client_download_speed_k">%s Кб/с</string>
+     <string name="client_download_total">%1 $s Гб</string>
+     <string name="client_info">Детали оборудования</string>
+     <string name="client_kuailian">быстрая маршрутизация</string>
+     <string name="client_kuailian_failed">Маршрутизация не удалась, попробуйте ещё раз позже</string>
+     <string name="client_kuailian_failed_binding">Пришла пора поменять ключ, не так ли?</string>
+     <string name="client_kuailian_not_find_subdevice">Не найдено новых умных устройств, повторите попытку позже</string>
+     <string name="client_kuailian_succed">Успешных % s подключенных устройств</string>
+     <string name="client_kuailian_succed_bind">Успешно подключен,% S, нажмите любую клавишу для подтверждения устройства</string>
+     <string name="client_kuailian_succed_binding">Подключение к % s</string>
+     <string name="client_kuailian_succed_device">Успешное подключение % s</string>
+     <string name="client_kuailian_succed_device_nobinding">Неуспешное подключение % s, проверьте подключение</string>
+     <string name="client_kuailian_tips">При обновление до последней версии роутера, могут быть идентифицированы несколько устройств</string>
+     <string name="client_manage">Мое устройство</string>
+     <string name="close_wifi_failed">Включить WiFi не удалось, отключите эту установку</string>
+     <string name="close_wifi_message">Ваш Wi-Fi выключен, использование журнала путешествия требует подключенного Wi-Fi, подключить?</string>
+     <string name="closed">Закрыть</string>
+     <string name="closing">Закрытие…</string>
+     <string name="color_setting_tip">拖动滑杆改变指示灯颜色</string>
+     <string name="comefrom_device">от</string>
+     <string name="comment_back">返回</string>
+     <string name="comment_from_site_app">来自：小米商城移动版</string>
+     <string name="comment_from_site_web">来自：小米网</string>
+     <string name="comment_get_data_failed">获取数据失败</string>
+     <string name="comment_multi_graph_number">共%d张</string>
+     <string name="comment_no_comment">该商品没有评论</string>
+     <string name="comment_offical_reply_prefix">官方回复：</string>
+     <string name="comment_person">人</string>
+     <string name="comment_pic_view_format">%1$s/%2$s</string>
+     <string name="comment_product_comments">商品评价</string>
+     <string name="comment_reply">回复	</string>
+     <string name="comment_reply_detail">评价详情</string>
+     <string name="comment_reply_format">回复 %s：</string>
+     <string name="comment_reply_hint">回复评价</string>
+     <string name="comment_reply_suffix">：</string>
+     <string name="comment_reply_total">用户评论（%d条）</string>
+     <string name="comment_save_pic">保存</string>
+     <string name="comment_save_pic_failed">保存图片失败，请检查SD卡是否可用</string>
+     <string name="comment_save_pic_success">图片已经保存到%s</string>
+     <string name="comment_save_pic_unavailiable">图片尚未下载，无法保存</string>
+     <string name="comment_submit_suc_toast">发表成功，等待管理员审核</string>
+     <string name="comment_update_failed">获取数据失败</string>
+     <string name="comment_updown_already_toast">您已经对此评价顶/踩过一次</string>
+     <string name="comments_get_fail">获取数据失败</string>
+     <string name="comments_no_comments">该商品没有评论</string>
+     <string name="comments_product_comments">商品评价</string>
+     <string name="commit">Подтвердить</string>
+     <string name="common_finish">Выполнено</string>
+     <string name="common_hint">Подсказка</string>
+     <string name="complete">Выполнено</string>
+     <string name="condition_come_home">Домой</string>
+     <string name="condition_leave_home">Домой</string>
+     <string name="confirm_button">OK</string>
+     <string name="confirm_delete_family">确认删除家人?</string>
+     <string name="confirm_quit">Подтвердите выход</string>
+     <string name="confirm_title">提示</string>
+     <string name="connectFailed">Не удалось установить соединение!</string>
+     <string name="connectTimeout">5000</string>
+     <string name="connect_first_step">Питание, выясните или мигает желтый свет</string>
+     <string name="connect_first_step_has_ready">Установить новое устройство, нажмите далее, чтобы начать подключение</string>
+     <string name="connect_second_step">Шаг второй: выберите сетевое оборудование для доступа в сеть</string>
+     <string name="connect_time">Время соединения</string>
+     <string name="connect_type">Тип соединения</string>
+     <string name="connect_type_line">Проводное</string>
+     <string name="connect_type_wifi_24">WiFi - 2.4ГГц</string>
+     <string name="connect_type_wifi_5">WiFi - 5ГГц</string>
+     <string name="connected">Подключено！</string>
+     <string name="content_description">Описание проблемы (обязательно)</string>
+     <string name="continue_nextstep">Продолжить</string>
+     <string name="control_panel">Панель управления</string>
+     <string name="creating">Создается…</string>
+     <string name="current_all_step">Общее количество шагов</string>
+     <string name="current_speed">Текущая скорость</string>
+     <string name="day">День</string>
+     <string name="delete">Удалить</string>
+     <string name="developing_desc">Разработка…</string>
+     <string name="deviceFound">​​Поиск устройств</string>
+     <string name="deviceListName">Выберите устройство</string>
+     <string name="deviceLost">Устройство отсоединено</string>
+     <string name="device_closed">Закрыто</string>
+     <string name="device_detail_detail">Подробнее</string>
+     <string name="device_detail_mac_address">MAC Адрес:% s</string>
+     <string name="device_detail_network">Доступ в интернет</string>
+     <string name="device_detail_option_cumstom">Пользовательский цвет</string>
+     <string name="device_detail_option_rename">Редактировать примечание</string>
+     <string name="device_detail_pri_storage">Защитить доступ к диску</string>
+     <string name="device_detail_save">Сохранение настроек</string>
+     <string name="device_detail_storage">Общий доступ к диску</string>
+     <string name="device_failed">Ошибка доступа</string>
+     <string name="device_more_activity_feedback">Обратная связь</string>
+     <string name="device_more_activity_firmware_update">Проверить обновление</string>
+     <string name="device_more_activity_new_firmware">Новая версия % s</string>
+     <string name="device_more_activity_rename">Изменить имя устройства</string>
+     <string name="device_more_activity_reset">重置</string>
+     <string name="device_more_activity_setting">Настройки</string>
+     <string name="device_more_activity_share">Делится с друзьями</string>
+     <string name="device_more_activity_title">Больше</string>
+     <string name="device_more_activity_unbind">Разъединить</string>
+     <string name="device_nickname">Заметка</string>
+     <string name="device_offline">Устройство отключено</string>
+     <string name="device_offline_check">Пожалуйста, проверьте, что: 1. Устройство подключено к источнику питания; 2. Wi-Fi работает нормально; 3. Попробуйте сбросить настройки устройства, когда проверка завершится, обновите список</string>
+     <string name="device_offline_text">Пожалуйста, проверьте, что: 1. Устройство подключено в источники питания; 2. Работает подключения Wi-Fi; 3. Попробуйте сбросить устройство. После проверки обновите и повторите снова</string>
+     <string name="device_offline_title">Соединение недоступно</string>
+     <string name="device_open">Открыто</string>
+     <string name="device_shop">Магазин оборудования</string>
+     <string name="disclaim_cancel">取消</string>
+     <string name="disclaim_confirm">同意</string>
+     <string name="disclaim_content">您将使用小米智能家庭服务，需要同意《使用条款》后方可继续。</string>
+     <string name="disclaim_remember">不再提示</string>
+     <string name="disclaim_title">声明与条款</string>
+     <string name="do_task">Задачи</string>
+     <string name="dongle_failed">Ключ не подключен, проверка</string>
+     <string name="download_feedback">Скачать удалено</string>
+     <string name="download_info">Скачать из общего потока</string>
+     <string name="download_speed">Текущая скорость загрузки</string>
+     <string name="edit">Редактировать</string>
+     <string name="exit">Закрыть</string>
+     <string name="family">家人</string>
+     <string name="family_accept">同意</string>
+     <string name="family_accept_title">请求添加你为家人</string>
+     <string name="family_confirm_add_family">%1$s请求添加你为家人,是否确认?</string>
+     <string name="family_default_accept_name">你是他/她的%s</string>
+     <string name="family_delete">删除</string>
+     <string name="family_input_new_relation">输入新的家人关系</string>
+     <string name="family_modify_nickname">修改家人关系</string>
+     <string name="family_nickname_empty">您输入的家人关系为空,请重新输入</string>
+     <string name="family_reject">拒绝</string>
+     <string name="family_share_count">共享%s个智能设备</string>
+     <string name="family_share_detail_title">家人详情</string>
+     <string name="family_share_time">%1$s.%2$s.%3$s共享</string>
+     <string name="family_wait_accept">等待接受</string>
+     <string name="feedback">Отзывы пользователей</string>
+     <string name="feedback_app_succ_router_fail">Успешная загрузка пользователем APP журнала</string>
+     <string name="feedback_error">Не удалось оставить отзыв, попробуйте ещё раз</string>
+     <string name="feedback_succ">Отзыв от пользователя отправлен</string>
+     <string name="feedbacking">Обратная связь с пользователем</string>
+     <string name="find_user_info_error">无法找到该用户!</string>
+     <string name="friday">Пятница</string>
+     <string name="from_site_app">来自：小米商城移动版</string>
+     <string name="from_site_web">来自：小米网</string>
+     <string name="g_s">Гб/с</string>
+     <string name="gateway_add_bind_failed">设置失败</string>
+     <string name="gateway_alarm_music">报警音</string>
+     <string name="gateway_alarm_music_set">报警音设置</string>
+     <string name="gateway_alarm_setting">警报音设置</string>
+     <string name="gateway_alarm_voice_select">选择报警音乐</string>
+     <string name="gateway_arming_device_select">选择警戒设备</string>
+     <string name="gateway_arming_off">解除警戒</string>
+     <string name="gateway_arming_on">警戒设置成功</string>
+     <string name="gateway_arming_setting_title">警戒设置</string>
+     <string name="gateway_bind_no_set">暂无设置</string>
+     <string name="gateway_body_sensor">人体传感器</string>
+     <string name="gateway_body_sensor_pass_alarm">有人经过报警</string>
+     <string name="gateway_bodysensor_airpurifier_on">空气净化器开启</string>
+     <string name="gateway_bodysensor_camera_on">摄像头开启</string>
+     <string name="gateway_bodysensor_night_pass">夜间有人经过</string>
+     <string name="gateway_bodysensor_pass">有人经过</string>
+     <string name="gateway_bodysensor_pass_device">有人经过启动设备</string>
+     <string name="gateway_bodysensor_setting">人体传感器设置</string>
+     <string name="gateway_bodysensor_trig">人体传感器 触发</string>
+     <string name="gateway_bodysensor_tv_on">电视开启</string>
+     <string name="gateway_check_log">查看日志</string>
+     <string name="gateway_del_log">删除日志</string>
+     <string name="gateway_del_log_failed">删除日志失败</string>
+     <string name="gateway_door_bell_setting">门铃音设置</string>
+     <string name="gateway_doorbell_alarm">绿米门铃报警</string>
+     <string name="gateway_doorbell_choose_color">选择门铃灯光颜色</string>
+     <string name="gateway_doorbell_light">绿米门铃亮灯</string>
+     <string name="gateway_doorbell_light_title">灯光</string>
+     <string name="gateway_doorbell_music">门铃音</string>
+     <string name="gateway_doorbell_music_set">门铃音设置</string>
+     <string name="gateway_doorbell_ring">门铃响起</string>
+     <string name="gateway_get_bind_failed">获取设置失败</string>
+     <string name="gateway_guard_setting">警戒设置</string>
+     <string name="gateway_intelligent_caution">智能提醒</string>
+     <string name="gateway_load_log_failed">加载日志失败</string>
+     <string name="gateway_load_music_failed">加载音乐列表失败</string>
+     <string name="gateway_location_adjust">家庭地理位置校准</string>
+     <string name="gateway_location_sample">北京 海淀</string>
+     <string name="gateway_log">日志</string>
+     <string name="gateway_log_bodysensor_motion">有人经过</string>
+     <string name="gateway_log_desc_none">暂无日志</string>
+     <string name="gateway_log_magnetsensor_close">门窗关闭</string>
+     <string name="gateway_log_magnetsensor_open">门窗打开</string>
+     <string name="gateway_log_sample_event">按键一次</string>
+     <string name="gateway_log_sample_time">1月8日 12:18</string>
+     <string name="gateway_log_switchsensor_click">按键一次</string>
+     <string name="gateway_log_switchsensor_double_click">按键两次</string>
+     <string name="gateway_magnet_gps_location_fail">GPS定位失败, 请打开网络定位或在室外定位</string>
+     <string name="gateway_magnet_gps_location_timeout">GPS定位超时, 请打开网络定位或在室外定位</string>
+     <string name="gateway_magnet_location_fail">定位失败</string>
+     <string name="gateway_magnet_location_timeout">定位超时</string>
+     <string name="gateway_magnet_location_unavailable">请开启定位</string>
+     <string name="gateway_magnet_location_updating">更新中...</string>
+     <string name="gateway_magnet_network_location_fail">网络定位失败</string>
+     <string name="gateway_magnet_network_location_timeout">网络定位超时</string>
+     <string name="gateway_magnet_sensor">门窗传感器</string>
+     <string name="gateway_magnet_update_location_content">绿米门窗需要使用手机当前位置,请确保手机在绿米门窗附近</string>
+     <string name="gateway_magnet_update_location_fail">更新失败</string>
+     <string name="gateway_magnet_update_location_success">更新成功</string>
+     <string name="gateway_magnet_update_location_title">校准绿米门窗位置</string>
+     <string name="gateway_magnetsensor_alarm">门窗打开报警</string>
+     <string name="gateway_magnetsensor_close_window_notice">智能关窗提醒</string>
+     <string name="gateway_magnetsensor_open">门窗传感器 打开</string>
+     <string name="gateway_magnetsensor_setting">门窗传感器设置</string>
+     <string name="gateway_music_title">铃声</string>
+     <string name="gateway_name">Название шлюза</string>
+     <string name="gateway_night_lamp_setting">夜灯设置</string>
+     <string name="gateway_night_light_auto_open">夜晚自动打开</string>
+     <string name="gateway_night_light_text">夜灯功能</string>
+     <string name="gateway_no_log">无日志</string>
+     <string name="gateway_other_device">相关智能设备</string>
+     <string name="gateway_phone_push_alarm">手机推送报警消息</string>
+     <string name="gateway_rain_close_window_notice">下雨前提前通知关窗</string>
+     <string name="gateway_set_music_failed">设置音乐失败</string>
+     <string name="gateway_set_music_success">设置音乐成功</string>
+     <string name="gateway_setting">设置</string>
+     <string name="gateway_setting_failed">设置失败</string>
+     <string name="gateway_setting_success">设置成功</string>
+     <string name="gateway_settings">网关设置</string>
+     <string name="gateway_subdevice_connected">已连接%d个设备</string>
+     <string name="gateway_subdevice_text">查看连接的设备</string>
+     <string name="gateway_subdevice_title">已连接设备</string>
+     <string name="gateway_switchsensor_press">智能按键 按一次</string>
+     <string name="gateway_switchsensor_press_once">按键一次</string>
+     <string name="gateway_switchsensor_press_twice">按键两次</string>
+     <string name="gateway_switchsensor_setting">智能按键设置</string>
+     <string name="gateway_system_bell">系统自带</string>
+     <string name="gateway_system_setting">系统设置</string>
+     <string name="gateway_title">多功能网关</string>
+     <string name="gateway_voice_broadcast">语音播报</string>
+     <string name="gateway_voice_select">铃音选择</string>
+     <string name="gateway_volume_set">音量设置</string>
+     <string name="gateway_volume_title">音量</string>
+     <string name="gateway_welcome_setting">语音播报设置</string>
+     <string name="gateway_xiaomi_air_purifier">小米空气净化器</string>
+     <string name="gateway_xiaomi_tv">小米电视</string>
+     <string name="gateway_xiaoyi_camera">小蚁摄像头</string>
+     <string name="gb">Гб</string>
+     <string name="get_clients_error">Устройство отсутствует</string>
+     <string name="get_wifi_scan_result_error">Нет доступных Wi-Fi, проверьте разрешение</string>
+     <string name="give_up_invite">放弃邀请</string>
+     <string name="go_to_buy">Пойти купить</string>
+     <string name="guard_settings">警戒设置</string>
+     <string name="handle_error">Обработка не удалась</string>
+     <string name="header_content_home">Вы дома</string>
+     <string name="header_content_office">В офисе</string>
+     <string name="header_content_outside">На улице</string>
+     <string name="header_leave_home">Выйти из дома</string>
+     <string name="header_leave_office">Покинуть офис</string>
+     <string name="header_title_home">Дома</string>
+     <string name="header_title_office">Вернуться в офис</string>
+     <string name="header_title_outside">Снаружи</string>
+     <string name="hello_world">Здравствуй мир!</string>
+     <string name="home_log_privacy">出行日志将获取您的位置和您的wifi信息,是否同意?</string>
+     <string name="home_set_failed">Не удалось установить, попробуйте позже</string>
+     <string name="hour">час</string>
+     <string name="ignore">Игнорировать</string>
+     <string name="input_account">输入账号</string>
+     <string name="input_account_null">您的关系或者账号为空,请重新输入</string>
+     <string name="intelligent_220v_plug">220В</string>
+     <string name="intelligent_plug">Умная розетка</string>
+     <string name="intelligent_plug_dunhao">,</string>
+     <string name="intelligent_plug_everyday">Каждый</string>
+     <string name="intelligent_plug_everytime">Еженедельно</string>
+     <string name="intelligent_plug_failed">Не удалось установить время, проверьте настройки сети</string>
+     <string name="intelligent_plug_finish">Выполнено</string>
+     <string name="intelligent_plug_five">пять</string>
+     <string name="intelligent_plug_four">четыре</string>
+     <string name="intelligent_plug_frequency_setting">Выполняется</string>
+     <string name="intelligent_plug_friday">Пятница</string>
+     <string name="intelligent_plug_hasoff">Закрыть</string>
+     <string name="intelligent_plug_hason">Открыто</string>
+     <string name="intelligent_plug_monday">Понедельник</string>
+     <string name="intelligent_plug_off">Выход</string>
+     <string name="intelligent_plug_off_setting">Установка автоматического выключения</string>
+     <string name="intelligent_plug_on">Вход</string>
+     <string name="intelligent_plug_one">a</string>
+     <string name="intelligent_plug_open_setting">Открыть автоматические настройки</string>
+     <string name="intelligent_plug_repeat_setting">Повторить</string>
+     <string name="intelligent_plug_saturday">Суббота</string>
+     <string name="intelligent_plug_self">Custom</string>
+     <string name="intelligent_plug_seven">День</string>
+     <string name="intelligent_plug_six">шесть</string>
+     <string name="intelligent_plug_sunday">Воскресенье</string>
+     <string name="intelligent_plug_three">три</string>
+     <string name="intelligent_plug_thursday">Четверг</string>
+     <string name="intelligent_plug_time">Время</string>
+     <string name="intelligent_plug_timer_repeat">Повторить</string>
+     <string name="intelligent_plug_timer_setting">Установка времени</string>
+     <string name="intelligent_plug_tips">Установить время +2 минуты, через 24 часа после начала</string>
+     <string name="intelligent_plug_tuesday">Вторник</string>
+     <string name="intelligent_plug_two">два</string>
+     <string name="intelligent_plug_wednesday">Среда</string>
+     <string name="intelligent_plug_workday">дней</string>
+     <string name="intelligent_usb_plug">USB гнездо</string>
+     <string name="internet_feedback">Проблема с интернетом</string>
+     <string name="intro_camera_text_1">Имейте душевное спокойствие, куда бы Вы не шли</string>
+     <string name="intro_camera_text_2">Говорите об этом через MiTalk</string>
+     <string name="intro_camera_text_3">Смотрите на все даже в темноте</string>
+     <string name="intro_plug_text_1">Несколько вариантов для удовлетворения разнообразных потребностей</string>
+     <string name="intro_plug_text_2">Пульт дистанционного управления</string>
+     <string name="intro_plug_text_3">таймер запускается автоматически</string>
+     <string name="intru_btn_text">Узнать больше</string>
+     <string name="invate_user_by_sms">无法找到该用户,发送短信邀请?</string>
+     <string name="item_home">Вы должны отдохнуть дома</string>
+     <string name="item_office">Вы должны работать в офисе</string>
+     <string name="item_outside">Вы должны выйти на улицу</string>
+     <string name="just_now">Только что</string>
+     <string name="k_s">Кб/с</string>
+     <string name="kb">Кб</string>
+     <string name="kb_s">Кб/с</string>
+     <string name="kick_device_error">Создать чёрный список не удалось, попробуйте снова</string>
+     <string name="kilocalorie">Ккал</string>
+     <string name="kilomile">км</string>
+     <string name="know_button">Я знаю</string>
+     <string name="kuailian_cancel">Отмена</string>
+     <string name="kuailian_complete">Выполнено</string>
+     <string name="kuailian_failed">Не удалось установить соединение</string>
+     <string name="kuailian_get_error_help">Нажмите</string>
+     <string name="kuailian_main_title_1">Найдено %s</string>
+     <string name="kuailian_main_title_2">Подключите к Wi-Fi</string>
+     <string name="kuailian_main_title_3">Подключение: %s</string>
+     <string name="kuailian_main_title_4">Проверка безопасности</string>
+     <string name="kuailian_network_error">网络异常</string>
+     <string name="kuailian_network_slow">您的网速似乎有些慢,不适合连接设备</string>
+     <string name="kuailian_network_test">检查网络</string>
+     <string name="kuailian_no_passwd">无密码</string>
+     <string name="kuailian_retry_network">重新连接</string>
+     <string name="kuailian_save_passwd">已保存</string>
+     <string name="kuailian_sub_main_device_count">%s: найдено умное устройство</string>
+     <string name="kuailian_sub_main_device_finish">已找到%d个智能设备,点我完成</string>
+     <string name="kuailian_sub_main_title_1">Включите питание, мигает индикатор и нажмите далее</string>
+     <string name="kuailian_sub_main_title_2">Выберите доступный Wi-Fi, позвольте устройству доступ к сети</string>
+     <string name="kuailian_sub_main_title_3_1">Подключение работает для Вас...</string>
+     <string name="kuailian_sub_main_title_3_2">Проблемное подключение...</string>
+     <string name="kuailian_sub_main_title_3_3">Делаем все для подключения...</string>
+     <string name="kuailian_sub_main_title_3_4">Попробуйте другое подключение...</string>
+     <string name="kuailian_sub_main_title_4">Для безопасности оборудования, пожалуйста, нажмите открыть ключ в течение 30 секунд, чтобы завершить подключение</string>
+     <string name="kuailian_success">Успешное соединение</string>
+     <string name="kuailian_unconn_reason">智能设备暂不支持该网络类型,请使用家庭路由器连接</string>
+     <string name="kuailian_unsafe_wifi">非安全网络类型</string>
+     <string name="kuailian_unsafe_wifi_content">智能设备可能不支持该类型的网络连接,确认连接吗?</string>
+     <string name="kuailian_unsafe_wifi_content_1">当前环境存在重名网络,确认连接吗?</string>
+     <string name="kuailian_wifi_security_type">通过%s保护</string>
+     <string name="kualian_conn_title">可连接网络</string>
+     <string name="kualian_unconn_title">不可连接网络</string>
+     <string name="launcher_login">Вход...</string>
+     <string name="launcher_scene_loading">Выполнение</string>
+     <string name="launcher_switch_to_userid">Пожалуйста, включите создание аккаунта</string>
+     <string name="lcd_error">-</string>
+     <string name="light_des">Яркость</string>
+     <string name="light_des_comma">Яркость:</string>
+     <string name="light_off_noopt">灯已经关了</string>
+     <string name="load_data_error">Не удалось загрузить данные</string>
+     <string name="loading_share_info">Получение данных...</string>
+     <string name="local_and_not_binded_device">本地设备非绑定</string>
+     <string name="local_binded_device">本地设备已绑定</string>
+     <string name="local_device">Локального устройства</string>
+     <string name="location_hint">Для более точного позиционирования включите Wi-Fi</string>
+     <string name="lock_device_type_ir">红外设备</string>
+     <string name="lock_empty_message_need_add">去智能家庭添加设备</string>
+     <string name="lock_empty_message_need_login">点击登录体验智能家庭</string>
+     <string name="lock_empty_title_need_add">你还没有设备</string>
+     <string name="lock_empty_title_need_login">你还没有登录</string>
+     <string name="lock_intell_title">智能设备</string>
+     <string name="lock_ir_title">红外设备</string>
+     <string name="lock_subtitle_not_lognin">未登录</string>
+     <string name="lock_title">智能设备</string>
+     <string name="log_clear_all_logs">Очистить все записи?</string>
+     <string name="log_clear_error">Ошибка очистки</string>
+     <string name="log_clear_success">Очищено успешно</string>
+     <string name="log_downlaoding">Получение отчета...</string>
+     <string name="log_no_logs">Не удалось войти</string>
+     <string name="log_scene_error">Ошибка</string>
+     <string name="log_scene_sucess">Успешно</string>
+     <string name="log_title">Отчет</string>
+     <string name="loggin_first">Пожалуйста, войдите</string>
+     <string name="login_account_hint">E-mail / номер телефона / Mi акаунт</string>
+     <string name="login_account_login">Войти</string>
+     <string name="login_account_login_title">Войти в систему</string>
+     <string name="login_change_account">Выбрать аккаунт</string>
+     <string name="login_des_icon">Вход в сайт через Ми аккаунт</string>
+     <string name="login_dynamic_token_fail">Ошибка динамического пароля</string>
+     <string name="login_dynamic_token_hint">Пожалуйста, введите пароль из шести цифр</string>
+     <string name="login_dynamic_token_title">Динамический пароль</string>
+     <string name="login_dynamic_token_trust">Войти без ввода пароля</string>
+     <string name="login_forget_password">Забыли свой пароль</string>
+     <string name="login_local_admin_account_login">Пароль администратора для входа</string>
+     <string name="login_new_user_register">Регистрация</string>
+     <string name="login_passport_input_fail">Ошибка ввода аккаунта или пароля</string>
+     <string name="login_passport_login_fail">Не удалось войти в аккаунт</string>
+     <string name="login_passport_login_waiting">Вы вошли в систему, пожалуйста, подождите...</string>
+     <string name="login_passport_logouting">Выйти из ...</string>
+     <string name="login_password_hint">пароль</string>
+     <string name="login_system_account_admin_password">Ввести пароль администратора</string>
+     <string name="login_system_login">Войти непосредственно</string>
+     <string name="login_time_out">Тайм-аут, повторите попытку позже.</string>
+     <string name="login_verify_code_fail">Введите правильный код</string>
+     <string name="login_verify_code_hint">код</string>
+     <string name="login_xiaomi_account_login">Войти в Mi аккаунт</string>
+     <string name="login_xiaomi_account_login_link">&lt;u&gt;Войти в Mi аккаунт&lt;/u&gt;</string>
+     <string name="loing_helper_title">Нужно зарегистрироваться для использования, войти сейчас?</string>
+     <string name="m_s">Мб/с</string>
+     <string name="mac_address">MAC Адрес</string>
+     <string name="mall_icon_address">Адрес управления</string>
+     <string name="mall_icon_aftermarket">Сервисная служба</string>
+     <string name="mall_icon_collect">Избранное</string>
+     <string name="mall_icon_commodity">Купить</string>
+     <string name="mall_icon_coupon">Купоны</string>
+     <string name="mall_icon_evaluate">Отзывы о товаре</string>
+     <string name="mall_icon_f_code">F Код канала</string>
+     <string name="mall_icon_logistics">Запрос логистики</string>
+     <string name="mall_icon_payment_orders">Оплата заказов</string>
+     <string name="mall_icon_search_orders">Отслеживание заказа</string>
+     <string name="mall_icon_shopping_cart">Корзина</string>
+     <string name="mb">Мб</string>
+     <string name="mb_s">Мб/с</string>
+     <string name="media_select_items">Выберите пункт</string>
+     <string name="media_select_x_items">Выбрано % d пунктов</string>
+     <string name="media_type_images">Галерея</string>
+     <string name="media_type_others">Другой</string>
+     <string name="media_type_videos">Видео</string>
+     <string name="media_upload_none_selected">Не выбран файл для загрузки!/string&gt;
+     &lt;string name=&quot;launcher_login&quot;&gt;Вход...</string>
+     <string name="menu_correct">Изменить местоположение</string>
+     <string name="message_clear_all">Очистить все сообщения</string>
+     <string name="miio_before_firmware_upgrade_tip">Пожалуйста, укажите прошивку</string>
+     <string name="miio_close">Закрыть</string>
+     <string name="miio_del_success">Успешное удаление</string>
+     <string name="miio_device_list_add_device">Добавить устройство</string>
+     <string name="miio_device_list_add_device_fail">Ошибка подключения устройства</string>
+     <string name="miio_device_list_add_sub_device_title">Добавить панель дистанционного управления</string>
+     <string name="miio_device_list_del_device_fail">Удалить не удалось</string>
+     <string name="miio_device_list_del_device_fail_no_token">Ни одно устройство не может быть удалено</string>
+     <string name="miio_device_list_none_avail_miio_device">Устройство дистанционного управления недоступно</string>
+     <string name="miio_device_list_refreshing">Обновите список устройств, попробуйте ещё раз</string>
+     <string name="miio_device_list_select_main_device_title">Выберите определение разумного устройства</string>
+     <string name="miio_device_local_device_exception">Исключение устройства</string>
+     <string name="miio_device_local_permission_denied">Нет прав</string>
+     <string name="miio_device_local_timeout">Время ожидания</string>
+     <string name="miio_device_remote_offline">Удаленное устройство недостижимо</string>
+     <string name="miio_device_remote_permission_denied">Нет разрешения удаленного устройства</string>
+     <string name="miio_device_remote_timeout">Удаленный интерфейс, тайм-аут</string>
+     <string name="miio_device_remove">Удалить устройство</string>
+     <string name="miio_device_rename">Переименовать устройство</string>
+     <string name="miio_fetch_token_fail">Не удалось получить локальный маркер</string>
+     <string name="miio_firmware_upgrade">Обновление прошивки</string>
+     <string name="miio_firmware_upgrade_fail">Сбой прошивки</string>
+     <string name="miio_firmware_upgrade_success">Успешно прошито</string>
+     <string name="miio_firmware_upgrading">Прошивка...</string>
+     <string name="miio_go_back_tips">Приведет к выходу из дальнейших страниц</string>
+     <string name="miio_ir_name">Название устройства</string>
+     <string name="miio_market_user_center">Личный раздел</string>
+     <string name="miio_no_message">Нет сообщений</string>
+     <string name="miio_not_bind_device">Убедитесь, что устройство подключено</string>
+     <string name="miio_not_click_btn">Не нажимайте!</string>
+     <string name="miio_read_ir_fail">Не удалось прочитать ИК-код</string>
+     <string name="miio_rename_illegal">Пожалуйста, введите замечания</string>
+     <string name="miio_save_db_fail">Не удалось сохранить базу данных</string>
+     <string name="miio_setting_about">О приложении</string>
+     <string name="miio_setting_bind_detail">Подробности соединения</string>
+     <string name="miio_setting_feedback">Обратная связь</string>
+     <string name="miio_setting_log">Настройки лога</string>
+     <string name="miio_setting_logout">Выход</string>
+     <string name="miio_setting_message_center">Центр сообщений</string>
+     <string name="miio_setting_share">Поделится</string>
+     <string name="miio_setting_share_manager">Доступ к устройству</string>
+     <string name="miio_setting_upgrade">Проверить наличие обновлений</string>
+     <string name="miio_setting_upgrade_checking">Проверка...</string>
+     <string name="miio_start_firmware_upgrade_fail">Ошибка прошивки</string>
+     <string name="miio_sub_device_key_not_available">Ключ устройства не доступен</string>
+     <string name="miio_sub_device_preview_record">Предварительный просмотр</string>
+     <string name="miio_sub_device_record">Инструкция пользовательских сочетаний</string>
+     <string name="miio_sub_device_record_click_start">Нажмите начать запись</string>
+     <string name="miio_sub_device_record_none_cmd">Директива не активирована</string>
+     <string name="miio_sub_device_remove">Удалить устройство</string>
+     <string name="miio_sub_device_rename">Переименовать</string>
+     <string name="miio_sub_device_send_fail">Ошибка отправки</string>
+     <string name="miio_sub_device_send_success">Успешно отправлено</string>
+     <string name="miio_sub_device_start_record">Начать запись</string>
+     <string name="miio_sub_device_stop_record">Прекратить запись</string>
+     <string name="miio_sub_device_study">Функциональная клавиша обучения</string>
+     <string name="miio_sub_device_study_cancel">Отменить обучение</string>
+     <string name="miio_sub_device_study_complete">Выполнено</string>
+     <string name="miio_sub_device_study_fail">Ошибка обучения</string>
+     <string name="miio_sub_device_study_start">Начать обучение</string>
+     <string name="miio_sub_device_study_start_fail">Не удалось запустить обучение</string>
+     <string name="miio_sub_device_study_stop">Прекратить обучение</string>
+     <string name="miio_sub_device_study_success">Успешное обучение</string>
+     <string name="miio_sub_device_study_tips">Пульт дистанционного управления, нажмите соответствующую кнопку в ИК-пульте</string>
+     <string name="miio_sub_device_studying">Обучение...</string>
+     <string name="miio_sub_device_sync">Синхронизация</string>
+     <string name="miio_sub_device_sync_fail">Ошибка синхронизации</string>
+     <string name="miio_sub_device_sync_success">Успешная синхронизация</string>
+     <string name="miio_sub_device_title_more">Детально</string>
+     <string name="miio_twingkle">Прошивка</string>
+     <string name="miio_unknown">Этот тип устройств не поддерживается</string>
+     <string name="miio_update_reboot">Успешное обновление, перезагрузка...</string>
+     <string name="miio_update_tips">Обновления, не выключайте, дождитесь пока устройство перестанет мигать</string>
+     <string name="mile">м</string>
+     <string name="mini_agree">同意</string>
+     <string name="mini_app_error">系统繁忙，请稍后再试。</string>
+     <string name="mini_canel_install_msp">你已取消安装移动快捷支付。</string>
+     <string name="mini_canel_install_wallet">你已取消安装支付宝钱包。</string>
+     <string name="mini_car_default_use">默认使用该卡支付</string>
+     <string name="mini_car_limit_phone">调整交易限额，请联系银行客服：</string>
+     <string name="mini_card_no">卡号</string>
+     <string name="mini_countdown_info">获取校验码</string>
+     <string name="mini_date">有效期</string>
+     <string name="mini_date_hint">月份/年份</string>
+     <string name="mini_debug_app_error">程序发生错误！点击确定退出程序。</string>
+     <string name="mini_error_title_default">提示</string>
+     <string name="mini_format_error">格式错误</string>
+     <string name="mini_id_no">证件号</string>
+     <string name="mini_loading">正在加载…</string>
+     <string name="mini_loading_1">正在安全检测…</string>
+     <string name="mini_net_error">不能连接到网络，是否重试？</string>
+     <string name="mini_page_add_hint">银行卡号</string>
+     <string name="mini_page_add_tips">支付宝提供支付密码和短信验证的双重保障</string>
+     <string name="mini_page_add_title">添加银行卡</string>
+     <string name="mini_page_input_id_hint">证件号码</string>
+     <string name="mini_page_input_name_hint">持卡人姓名</string>
+     <string name="mini_page_msg_check">信息加密处理，仅用于银行验证</string>
+     <string name="mini_page_msg_choose_type">选择证件类型</string>
+     <string name="mini_page_msg_title">填写银行卡信息</string>
+     <string name="mini_page_name">姓名</string>
+     <string name="mini_page_next">下一步</string>
+     <string name="mini_password">密码</string>
+     <string name="mini_password_hint">请输入密码</string>
+     <string name="mini_phone_no">手机号</string>
+     <string name="mini_phone_no_hint">银行预留手机号码</string>
+     <string name="mini_quickpay_protocol">《服务协议》</string>
+     <string name="mini_redo">重试</string>
+     <string name="mini_safe_no">安全码</string>
+     <string name="mini_safe_no_hint">卡背面末三位数字</string>
+     <string name="mini_setting_credit_cards_tips">信用卡</string>
+     <string name="mini_setting_debit_cards_tips">储蓄卡</string>
+     <string name="mini_setting_default_tips">默认使用该卡支付</string>
+     <string name="mini_setting_pay_password">支付密码</string>
+     <string name="mini_setting_view_all_bankcard">查看全部(%1$d张)</string>
+     <string name="mini_str_null"></string>
+     <string name="mini_switch">切换</string>
+     <string name="mini_weakpassword_error_same">请不要使用相同的数字</string>
+     <string name="mini_weakpassword_error_serial">请不要使用连续的数字</string>
+     <string name="minute">мин</string>
+     <string name="mitv_app">Установка приложения</string>
+     <string name="mitv_bind_device">已绑定设备</string>
+     <string name="mitv_is_local">В той же локальной сети</string>
+     <string name="mitv_is_not_in_local">Дистанционное управление невозможно, убедитесь, что находитесь в одной сети</string>
+     <string name="mitv_is_not_local">Не в одной сети</string>
+     <string name="mitv_local_device">本地</string>
+     <string name="mitv_login_account_box_info">Пожалуйста, введите Mi аккаунт %1$s пароль авторизации box login</string>
+     <string name="mitv_login_account_error_already_login">Вы уже авторизированны</string>
+     <string name="mitv_login_account_error_decode">Не удалось расшифровать данные</string>
+     <string name="mitv_login_account_error_format">数据格式不正确</string>
+     <string name="mitv_login_account_error_invalid_user">Неверный пользователь</string>
+     <string name="mitv_login_account_error_passwd">Неверный пароль</string>
+     <string name="mitv_login_account_error_server">Ошибка доступа к службе</string>
+     <string name="mitv_login_account_passwd">Пожалуйста, введите пароль</string>
+     <string name="mitv_login_account_title">Войдите для привязки устройств</string>
+     <string name="mitv_login_account_tv_info">Пожалуйста, введите Mi аккаунт %1$s пароль авторизации TV Log</string>
+     <string name="mitv_movie">Смотреть видео</string>
+     <string name="mitv_not_bind_device">设备</string>
+     <string name="mitv_offline_device">离线</string>
+     <string name="mitv_old_tv_app">尚未安装小米公司专为智能电视设计的投屏神器,是否下载安装？</string>
+     <string name="mitv_play">Просмотр</string>
+     <string name="mitv_remote_device">非本地</string>
+     <string name="mitv_share_device">来自%1$s分享设备</string>
+     <string name="mitv_touch_info">Кнопками регулировки громкости телефона можно регулировать громкость MiTV/MiBox</string>
+     <string name="monday">Понедельник</string>
+     <string name="month">Месяц</string>
+     <string name="msp_action_settings">设置</string>
+     <string name="msp_app_name">支付宝快捷支付服务</string>
+     <string name="msp_close">关闭</string>
+     <string name="msp_error_title_default">提示</string>
+     <string name="msp_memo_app_cancel">程序或者数据出现问题。</string>
+     <string name="msp_memo_repeat_pay">同一订单禁止同时多次支付。</string>
+     <string name="msp_memo_server_cancel">系统繁忙，请稍后再试。</string>
+     <string name="msp_memo_user_cancel">操作已经取消。</string>
+     <string name="msp_mini_card_type_text">卡类型</string>
+     <string name="msp_mini_choose_identitify">选择证件类别</string>
+     <string name="msp_mini_read_protocal_title">选择阅读协议</string>
+     <string name="msp_mini_safty_code_info">安全码是打印在信用卡背面签名区的一组数字，一般是后3位或后4位数字</string>
+     <string name="msp_mini_safty_code_title">安全码说明</string>
+     <string name="msp_str_null"></string>
+     <string name="msp_xlistview_footer_hint_normal">查看更多</string>
+     <string name="msp_xlistview_header_hint_normal">下拉刷新</string>
+     <string name="msp_xlistview_header_last_time">上次更新时间：</string>
+     <string name="my_ble">MiBand</string>
+     <string name="my_home">Личный</string>
+     <string name="my_phone_name">Имя телефона</string>
+     <string name="network_disable">Недоступно сетевое подключение</string>
+     <string name="network_erro">Ошибка сети</string>
+     <string name="nextVideo">Следующий</string>
+     <string name="next_button">Следующий</string>
+     <string name="night_light">夜灯功能</string>
+     <string name="night_light_desc">夜晚自动打开</string>
+     <string name="no_backname">Нет замечаний</string>
+     <string name="no_client">В настоящее время нет подключенного устройства</string>
+     <string name="no_device">Серийный номер:</string>
+     <string name="no_device_title">Нет устройств, посетите магазины Xiaomi</string>
+     <string name="no_install_ants_app">Не установлено облако клиента</string>
+     <string name="no_invite">还没有邀请</string>
+     <string name="no_location_log">还未设置出行日志</string>
+     <string name="no_network">Нет доступной сети</string>
+     <string name="not_admin">У вас нет прав на управление текущим роутером, выйдите и снова попробуйте войти.</string>
+     <string name="not_found_bracelet_app">Приложение Mi Band не установлено</string>
+     <string name="not_found_play_device">Не могу найти проекцию ТВ</string>
+     <string name="not_found_router_app">Приложение Мi роутер не установлено</string>
+     <string name="not_found_tv_app">Приложение MiTV не установлено</string>
+     <string name="not_local_binded_device">非本地设备已绑定</string>
+     <string name="not_setting_home_position">Вы не определили местоположение дома, сделать это сейчас?</string>
+     <string name="now_upgrade">Обновить сейчас</string>
+     <string name="offical_reply">官方回复：</string>
+     <string name="offline_device">Устройство отключено</string>
+     <string name="ok_button">OK</string>
+     <string name="opening">Открытие...</string>
+     <string name="other">Другой</string>
+     <string name="other_device">Другие умные устройства</string>
+     <string name="other_feedback">другой</string>
+     <string name="parent_device">Идентификатор ID:</string>
+     <string name="passcode_change_passcode">Изменить пароль</string>
+     <string name="passcode_enter_old_passcode">Введите старый пароль</string>
+     <string name="passcode_enter_passcode">Введите пароль</string>
+     <string name="passcode_re_enter_passcode">Повторно ввести пароль</string>
+     <string name="passcode_set">Установить пароль</string>
+     <string name="passcode_set_success">Пароль установлен успешно</string>
+     <string name="passcode_verify">Подтвердите пароль</string>
+     <string name="passcode_wrong_passcode">Неверный пароль, попробуйте снова</string>
+     <string name="passport_binding_account_input_hint">Пожалуйста, введите адрес электронной / телефон / аккаунт</string>
+     <string name="passport_binding_account_input_prompt">Пожалуйста введите  свой аккаунт</string>
+     <string name="passport_binding_account_name">%1$ s (%2$ s)</string>
+     <string name="passport_binding_advantage_title">Можете привязать аккаунт:</string>
+     <string name="passport_binding_bind_new_account">Войти и привязать</string>
+     <string name="passport_binding_bind_new_account_link">Привязать другой счет аккаунта</string>
+     <string name="passport_binding_bind_system_account">Прямая связь</string>
+     <string name="passport_binding_found_system_account">Обнаруженные счета Mi аккаунта:</string>
+     <string name="passport_binding_loading">Вход, пожалуйста, подождите ...</string>
+     <string name="passport_binding_no_empty_tip">Не может быть пустым</string>
+     <string name="passport_binding_password_input_hint">Пожалуйста, введите пароль</string>
+     <string name="passport_binding_title">Привязать аккаунт</string>
+     <string name="passport_login_retry_other_passport">&lt;u&gt;Другой счет аккаунта&lt;/u&gt;</string>
+     <string name="passport_login_retry_prompt">Продолжить использование Mi аккаунта?</string>
+     <string name="passport_manager">Счет аккаунта</string>
+     <string name="passport_prompt_login_fail">Не удалось войти в аккаунт</string>
+     <string name="password_incorrect">Неверный пароль</string>
+     <string name="password_must_not_empty">Пароль не может быть пустым</string>
+     <string name="pauseVideo">Пауза</string>
+     <string name="paused">Пауза</string>
+     <string name="person">人</string>
+     <string name="picker_day">День</string>
+     <string name="picker_hour">час</string>
+     <string name="picker_minite">м</string>
+     <string name="picker_month">месяц</string>
+     <string name="picker_year">год</string>
+     <string name="pictures_group_name_x_num_x">%s | %d Чжан</string>
+     <string name="playVideo">Воспроизвести</string>
+     <string name="play_camera_on_tv">Проецируется на</string>
+     <string name="play_device_camera_url_is_error">摄像头播放地址为空</string>
+     <string name="play_in_mitv">&lt;u&gt;Проецировать на TV&lt;/u&gt;</string>
+     <string name="playing">Начать воспроизведение</string>
+     <string name="please_inpt_account">Пожалуйста, войдите в Ваш аккаунт</string>
+     <string name="plug_confirm">确定</string>
+     <string name="plug_confirm_abort">舍弃更改</string>
+     <string name="plug_device_closed">Устройство отключенно</string>
+     <string name="plug_device_closed_short">220V已关闭</string>
+     <string name="plug_device_open">Устройство подключенно</string>
+     <string name="plug_device_open_short">220V已开启</string>
+     <string name="plug_dialog_confirm_abort">要舍弃对该定时的更改吗？</string>
+     <string name="plug_serach_no_device_blue">Устойчивый или мигает синим: устройство используется, нужен сброс</string>
+     <string name="plug_serach_no_device_red">Мигающий красный: устройство ожидает подключения</string>
+     <string name="plug_timer_add">添加定时</string>
+     <string name="plug_timer_del">删除定时</string>
+     <string name="plug_timer_delete">删除</string>
+     <string name="plug_timer_everyday">每天</string>
+     <string name="plug_timer_friday">星期五</string>
+     <string name="plug_timer_illegal">您设置的开关时间段相同请重新设置</string>
+     <string name="plug_timer_monday">星期一</string>
+     <string name="plug_timer_monday_to_friday">周一至周五</string>
+     <string name="plug_timer_off">关闭</string>
+     <string name="plug_timer_on">开启</string>
+     <string name="plug_timer_onetime">执行一次</string>
+     <string name="plug_timer_repeat">重复</string>
+     <string name="plug_timer_saturday">星期六</string>
+     <string name="plug_timer_sef_define">自定义</string>
+     <string name="plug_timer_set">设置定时</string>
+     <string name="plug_timer_sunday">星期日</string>
+     <string name="plug_timer_thursday">星期四</string>
+     <string name="plug_timer_tuesday">星期二</string>
+     <string name="plug_timer_wednesday">星期三</string>
+     <string name="plug_timer_weekend">周末</string>
+     <string name="plug_timer_workday">工作日</string>
+     <string name="plug_usb_closed">USB отключенно</string>
+     <string name="plug_usb_open">USB подключенно</string>
+     <string name="prevVideo">Предыдущий</string>
+     <string name="prev_button">Назад</string>
+     <string name="previous_button">Возврат</string>
+     <string name="processing">Обработка...</string>
+     <string name="proposal_feedback">пункт</string>
+     <string name="pull_down_refresh">drop-down refresh</string>
+     <string name="push">Нажать</string>
+     <string name="quit">Выход</string>
+     <string name="quit_application">Выйти из приложения</string>
+     <string name="quit_hint">Действительно выйти?</string>
+     <string name="reboot_router_rebooting_title">Перезагрузка...</string>
+     <string name="refresh_device_list">Повторите обновление</string>
+     <string name="refresh_list">Оновить список</string>
+     <string name="refreshing">Загрузка...</string>
+     <string name="refreshing_no_point">Загрузка</string>
+     <string name="refreshing_retry">Ошибка загрузки, повторить?</string>
+     <string name="relation_to_me">与我的关系</string>
+     <string name="release_to_refresh">Обновить релиз</string>
+     <string name="remind">Напоминание</string>
+     <string name="remote_control_aircon_congratulations">Успешное подключение кондиционера!</string>
+     <string name="remote_control_aircon_congratulations_tips">Списки могут быть редактированы, если часть кнопок не действует, повторите обучение</string>
+     <string name="remote_control_aircon_mode">режим</string>
+     <string name="remote_control_aircon_not_support">К сожалению, не поддерживает этот кондиционер</string>
+     <string name="remote_control_aircon_temperature_add">температура выше</string>
+     <string name="remote_control_aircon_temperature_minus">температура ниже</string>
+     <string name="remote_control_aircon_wind">скорость потока</string>
+     <string name="remote_control_av">Кнопка источника</string>
+     <string name="remote_control_combined_key_empty">Не записанные инструкции не смогут Вам помочь</string>
+     <string name="remote_control_combined_key_empty_preview">Не записанные инструкции мы не спожем просмотреть</string>
+     <string name="remote_control_combined_key_load_fail">Читать инструкцию и создать сочетание неудач</string>
+     <string name="remote_control_combined_key_preview">Предварительный просмотр</string>
+     <string name="remote_control_combined_key_save_fail">Сохранить настройки не удалось</string>
+     <string name="remote_control_combined_key_start">Начать запись</string>
+     <string name="remote_control_combined_key_stop">Остановить запись</string>
+     <string name="remote_control_combined_key_title">Пользовательская инструкция</string>
+     <string name="remote_control_curation_close">Закрыть</string>
+     <string name="remote_control_curation_open">Открыто</string>
+     <string name="remote_control_curation_pause">Пауза</string>
+     <string name="remote_control_devices">个可遥控设备</string>
+     <string name="remote_control_down">Кнопка вниз</string>
+     <string name="remote_control_eight">8</string>
+     <string name="remote_control_fan_add">ускорение</string>
+     <string name="remote_control_fan_minus">замедление</string>
+     <string name="remote_control_fan_shake">тряска</string>
+     <string name="remote_control_five">5</string>
+     <string name="remote_control_four">4</string>
+     <string name="remote_control_get_key_list">Список читаемых ключей</string>
+     <string name="remote_control_get_key_list_fail">Чтение списка ключей не удалось</string>
+     <string name="remote_control_get_key_study">Ждите чтобы узнать ключ...</string>
+     <string name="remote_control_get_key_study_fail">Ошибка исследования</string>
+     <string name="remote_control_get_key_study_success">Успешное обучение</string>
+     <string name="remote_control_get_subdevice_info">Получение информации от подключенных устройств</string>
+     <string name="remote_control_get_subdevice_info_fail">Получить информацию состояния подключенного устройства не удалось, попробуйте ещё раз</string>
+     <string name="remote_control_home">Кнопка домой</string>
+     <string name="remote_control_left">Кнопка влево</string>
+     <string name="remote_control_menu">Кнопка меню</string>
+     <string name="remote_control_menus">Кнопка меню</string>
+     <string name="remote_control_ok">Кнопка подтверждения</string>
+     <string name="remote_control_one">1</string>
+     <string name="remote_control_pause">Ключ</string>
+     <string name="remote_control_restudy_title">Функциональная клавиша обучается</string>
+     <string name="remote_control_return">Кнопка возврата</string>
+     <string name="remote_control_right">Кнопка направо</string>
+     <string name="remote_control_seven">7</string>
+     <string name="remote_control_six">6</string>
+     <string name="remote_control_study_mode">Начать</string>
+     <string name="remote_control_study_no_study">Функциональная клавиша не обучается</string>
+     <string name="remote_control_study_start">Продолжить обучение</string>
+     <string name="remote_control_study_stop">Завершить обучение</string>
+     <string name="remote_control_subtraction_add">Громкость +</string>
+     <string name="remote_control_subtraction_minus">Громкость -</string>
+     <string name="remote_control_switch">Кнопка питания</string>
+     <string name="remote_control_three">3</string>
+     <string name="remote_control_two">2</string>
+     <string name="remote_control_up">Кнопка вверх</string>
+     <string name="remote_key_switch">Кнопка питания</string>
+     <string name="retry">Повтор</string>
+     <string name="retrying">Повтор...</string>
+     <string name="rom_upgrade_check">Проверить наличие обновлений</string>
+     <string name="rom_upgrade_new_version">Доступна новая версия</string>
+     <string name="rom_upgrade_now">Ключ обновления</string>
+     <string name="rom_upgrade_title">Системное обновленик</string>
+     <string name="router_current_net_speed">Текущая скорость сети</string>
+     <string name="router_current_speed_format">Скорость сети: %1$ Кб/с</string>
+     <string name="router_disk">Жесткий диск роутера</string>
+     <string name="router_disk_info">Свободное место</string>
+     <string name="router_downloaded">Загружено</string>
+     <string name="router_downloaded_info">Загружено %1$d</string>
+     <string name="router_downloading">Загрузка</string>
+     <string name="router_downloading_info">Загрузка %1$da</string>
+     <string name="router_network_speed">Скорость интернет</string>
+     <string name="router_no_speed">В настоящее время нет скорости сети</string>
+     <string name="router_plug">Расширение</string>
+     <string name="router_plug_info">Установленные плагины %1$d</string>
+     <string name="router_speed_high">Текущая скорость подходит для просмотра видео</string>
+     <string name="router_speed_low">Текущая скорость подходит для просмотра веб-страниц</string>
+     <string name="router_speed_middle">Текущая скорость подходит для онлайн-игр</string>
+     <string name="router_speed_no">На данный момент нет скорости сети</string>
+     <string name="router_speed_no_info">Невозможно получить информацию о роутере</string>
+     <string name="routing_feedback">Привязка маршрутизации</string>
+     <string name="running_time_complete">%1$ d часов %2$ d минут</string>
+     <string name="saturday">Суббота</string>
+     <string name="scene_action_no_setting">Задача не установлена</string>
+     <string name="scene_add_condition">Шаг первый: установите условие начала</string>
+     <string name="scene_add_condition_empty">Не установлено условие запуска</string>
+     <string name="scene_add_task">Шаг второй: добавить задачи</string>
+     <string name="scene_add_task_empty">Нет добавленых заданий</string>
+     <string name="scene_default_keyname_1">Умная защита Вашего дома</string>
+     <string name="scene_default_keyname_2">Открыть все умные разъемы</string>
+     <string name="scene_default_keyname_3">Закрыть все умные разьемы</string>
+     <string name="scene_default_keyname_4">Разьем браслета открыт</string>
+     <string name="scene_default_keyname_5">Кольцо руки огни</string>
+     <string name="scene_default_name_1">Страж семьи</string>
+     <string name="scene_default_name_2">Легкое открытие</string>
+     <string name="scene_default_name_3">И закрытие</string>
+     <string name="scene_default_name_4">Режим утро</string>
+     <string name="scene_default_name_5">Ночной режим</string>
+     <string name="scene_enable">Начать</string>
+     <string name="scene_if">если</string>
+     <string name="scene_if_extra">Установите условие начала</string>
+     <string name="scene_manage">Управление умная функция</string>
+     <string name="scene_modify_name_error">Введите тоже имя и попробуйте снова</string>
+     <string name="scene_save">Сохранить функцию</string>
+     <string name="scene_then">является</string>
+     <string name="scene_then_extra">Вы можете добавлять задачи</string>
+     <string name="search_new_device">Найденное вблизи устройство может быть подключено</string>
+     <string name="second">сек</string>
+     <string name="select_device_title">Выберите устройство, которое нужно подключить</string>
+     <string name="select_mitvs">Выберите проекционное оборудование</string>
+     <string name="send_log">Отправить вопрос при регистрации</string>
+     <string name="serach_no_device_blue">Синий свет: устройство используется, сбросить (см. Методы)</string>
+     <string name="serach_no_device_red">Красный свет: запуск устройства, пожалуйста, подождите</string>
+     <string name="serach_no_device_title">Новое устройство не найден, проверьте световые устройства</string>
+     <string name="serach_no_device_yellow">Мигание желтого света: можно добавить новое устройство</string>
+     <string name="serviceUnavailable">Сетевой сервис не установлен, нажмите OK для установки</string>
+     <string name="setting">Настройки</string>
+     <string name="setting_detail_device">Подключение: %1$s Поделится: %2$s Другое: %3$s</string>
+     <string name="setting_home_wifi">Настройки домашнего Wi-Fi</string>
+     <string name="setting_logout">Выйти из аккаунта</string>
+     <string name="setting_logout_message">Вы хотите выйти из текущего логина?</string>
+     <string name="setting_logout_waiting">Выполняется отмена, пожалуйста подождите</string>
+     <string name="setting_menu_advanced_setting">Дополнительные настройки</string>
+     <string name="setting_menu_feedback">Обратная связь</string>
+     <string name="setting_menu_logout">Выход</string>
+     <string name="setting_menu_network_diagnosis">Сетевое сканирование</string>
+     <string name="setting_menu_upgrade">Обновить</string>
+     <string name="setting_reset">Сброс настроек</string>
+     <string name="setting_total_device">В общей сложности %S умных устройств</string>
+     <string name="setting_unbind">Отвязать</string>
+     <string name="setting_unbind_waiting">является развязывание, пожалуйста, подождите</string>
+     <string name="several_days_ago">%d дней назад</string>
+     <string name="several_hours_ago">%d часов назад</string>
+     <string name="several_minutes_ago">%d минут назад</string>
+     <string name="several_months_ago">%d месяцев назад</string>
+     <string name="several_years_ago">%d лет назад</string>
+     <string name="sh_confirm">OK</string>
+     <string name="sh_network_not_available">Недоступно подключение к сети</string>
+     <string name="sh_share">Поделится</string>
+     <string name="sh_share_account_hint">Счет аккаунта</string>
+     <string name="sh_share_fremax_request">Достигнуто максимальное ограничение поделится, пожалуйста, удалите некоторые в центре управления</string>
+     <string name="sh_share_frequent_request">Было отправлено приглашение, подождите другая обработка</string>
+     <string name="sh_share_request_fail">Ошибка пересылки приглашения</string>
+     <string name="sh_share_request_success">Приглашение поделится отправлено</string>
+     <string name="sh_share_tile">Поделится% s</string>
+     <string name="sh_user_not_exist">Не удалось найти пользователя</string>
+     <string name="share_device_title">Приходите и поделитесь устройствами,
+наслаждайтесь вместе разумной жизнью!</string>
+     <string name="share_no_device">Не найдено ни одного устройства</string>
+     <string name="share_no_user">Не найдено ни одного пользователя</string>
+     <string name="share_score_action_scores">Показатель активности: %1$ d</string>
+     <string name="share_score_all_socres">Ваш умный показатель: %1$ d</string>
+     <string name="share_score_safe_scores">Показатель безопасности: %1$ d</string>
+     <string name="share_score_scence_scores">Показатель связи:%1$ d</string>
+     <string name="share_score_score">Мой умный показатель</string>
+     <string name="share_score_score_info">Поделится моим умным индексом</string>
+     <string name="share_score_share_no_install">Приложение не установлено, Вы не можете делится</string>
+     <string name="share_score_win">Побежденные противники по всей стране: %1$ d %%</string>
+     <string name="shop_click_refresh">Обновить</string>
+     <string name="slideDialogName">Подтвердите для остановки режима слайд-шоу</string>
+     <string name="smart_bulb">Смарт-лампа</string>
+     <string name="smarthome_add_share">Ещё поделиться</string>
+     <string name="smarthome_aircon_temperature">% d °</string>
+     <string name="smarthome_aircon_temperature_default">-</string>
+     <string name="smarthome_cancel_timespan">Отменить</string>
+     <string name="smarthome_create_scene">Создать функции</string>
+     <string name="smarthome_delete_timespan">Удалить таймер</string>
+     <string name="smarthome_device__add_subdevice_error">Не удалось добавить дополнительное устройство, попробуйте ещё раз</string>
+     <string name="smarthome_device__add_subdevice_succ">Дополнительное устройство добавлено</string>
+     <string name="smarthome_device__confirm_remove">Действительно удалить это устройство?</string>
+     <string name="smarthome_device_add_to_launcher">Добавить ярлык на рабочий стол</string>
+     <string name="smarthome_device_appletv">AppleTV</string>
+     <string name="smarthome_device_auth">Поделиться с семьей</string>
+     <string name="smarthome_device_auth_friend">分享给朋友</string>
+     <string name="smarthome_device_auth_release">Отключить</string>
+     <string name="smarthome_device_common_aircon">Универсальный кондиционер</string>
+     <string name="smarthome_device_common_curation">Электрические шторы</string>
+     <string name="smarthome_device_common_device">Оборудование</string>
+     <string name="smarthome_device_common_fan">Вентилятор</string>
+     <string name="smarthome_device_common_smarttv">Универсальный умный TV</string>
+     <string name="smarthome_device_common_tv">Универсальный TV</string>
+     <string name="smarthome_device_delete_confirm">Подтвердить права пользователя для удаления %s?</string>
+     <string name="smarthome_device_delete_fail">Ошибка удаления</string>
+     <string name="smarthome_device_delete_launcher">Удалить ярлык на рабочем столе</string>
+     <string name="smarthome_device_delete_share">Удалить</string>
+     <string name="smarthome_device_delete_success">Успешно удалено</string>
+     <string name="smarthome_device_get_subdevice_error">Подкючить дополнительное устройство не удалось, попробуйте еще раз</string>
+     <string name="smarthome_device_hint">Добавить контроль управления</string>
+     <string name="smarthome_device_launcher">Добавить ярлык на рабочий стол</string>
+     <string name="smarthome_device_mibox1">MiBox 1</string>
+     <string name="smarthome_device_mibox1s">Mibox 1S</string>
+     <string name="smarthome_device_mitv">MiTV</string>
+     <string name="smarthome_device_remove">Удалить устройство</string>
+     <string name="smarthome_device_remove_error">Удалить устройство не удалась, попробуйте позже</string>
+     <string name="smarthome_device_remove_succ">Устройство удалено</string>
+     <string name="smarthome_device_rename">Изменить имя устройства</string>
+     <string name="smarthome_device_request_auth">Контроль приложений</string>
+     <string name="smarthome_device_request_unauth">Запрос несанкционированного устройства</string>
+     <string name="smarthome_device_set_camera_bg">Установить фон камеры</string>
+     <string name="smarthome_device_share">Поделиться</string>
+     <string name="smarthome_device_study">Функциональная клавиша обучения</string>
+     <string name="smarthome_device_upgrade">Проверить обновление</string>
+     <string name="smarthome_device_upgrade_new">Проверить обновление (нов)</string>
+     <string name="smarthome_device_user_detail">Управление поделится</string>
+     <string name="smarthome_disable_condition">Временно невозможно добавить задачи</string>
+     <string name="smarthome_edit_scene">Редактировать функцию</string>
+     <string name="smarthome_has_shared_to_user">Поделится:% 1$s</string>
+     <string name="smarthome_has_shared_to_user_more">Поделился %1$s% 2$ d и другими</string>
+     <string name="smarthome_input_xiaomi_account">Пожалуйста, войдите в Ми аккаунт</string>
+     <string name="smarthome_modify_timespan">Изменить таймер</string>
+     <string name="smarthome_no_device">Нет доступных устройств, посетите магазин Xiaomi!</string>
+     <string name="smarthome_no_localnetwork">К сожалению, браузер не поддерживает удаленную загрузку</string>
+     <string name="smarthome_not_shared">Не делится</string>
+     <string name="smarthome_play_video">Воспроизвести фильм</string>
+     <string name="smarthome_record_video_for_play">Запись видео</string>
+     <string name="smarthome_remote_mibo1_home">Домой</string>
+     <string name="smarthome_remote_mibo1_menu">Меню</string>
+     <string name="smarthome_remote_mibo1_return">Назад</string>
+     <string name="smarthome_scene">Функция умная сцена</string>
+     <string name="smarthome_scene_24_hour">Через сутки после запуска</string>
+     <string name="smarthome_scene_add_condition">Добавить стартовое условие</string>
+     <string name="smarthome_scene_add_short_cut_success">Ярлык добавлен</string>
+     <string name="smarthome_scene_add_start_condition">Пожалуйста, добавьте условие запуска</string>
+     <string name="smarthome_scene_add_task">добавить задачи</string>
+     <string name="smarthome_scene_all_device_offline">Выбранное устройство не в сети, Вы не можете выполнить данную операцию</string>
+     <string name="smarthome_scene_auto">Автоматическое выполнение</string>
+     <string name="smarthome_scene_camera_condition">Сигнал камеры</string>
+     <string name="smarthome_scene_changing_start_type">Режим запуска умной функции</string>
+     <string name="smarthome_scene_changing_start_type_error">Установить режим запуска не удалась, попробуйте еще раз</string>
+     <string name="smarthome_scene_click_start">Нажмите для запуска</string>
+     <string name="smarthome_scene_client_offline">Устройство выключено</string>
+     <string name="smarthome_scene_close">Закрыть</string>
+     <string name="smarthome_scene_close_device">Выключить</string>
+     <string name="smarthome_scene_collection">Воспроизвести любимую запись</string>
+     <string name="smarthome_scene_create">Новая умная сцена</string>
+     <string name="smarthome_scene_custom">Вручную</string>
+     <string name="smarthome_scene_delete_fail">Ошибка удаления умной функции, пожалуйста попробуйте еше раз</string>
+     <string name="smarthome_scene_delete_succ">Удаление умной функции завершено</string>
+     <string name="smarthome_scene_detail">детали функции</string>
+     <string name="smarthome_scene_device_offline_title">Нужное устройство временно недоступно</string>
+     <string name="smarthome_scene_execute">Выполнить</string>
+     <string name="smarthome_scene_get_fail">Получить умную функцию не удалось, попробуйте еще раз</string>
+     <string name="smarthome_scene_get_scene_status_error">Получить состояние функции не удалось, пожалуйста попробуйте еще раз</string>
+     <string name="smarthome_scene_helper">Функция умная сцена</string>
+     <string name="smarthome_scene_history">Воспроизвести историю просмотра</string>
+     <string name="smarthome_scene_less_than_1_minute">Менее одной минуты, чтобы начать</string>
+     <string name="smarthome_scene_null">Пустая функция</string>
+     <string name="smarthome_scene_off">Не запускается</string>
+     <string name="smarthome_scene_offline">Не включён</string>
+     <string name="smarthome_scene_open">Открыто</string>
+     <string name="smarthome_scene_open_close">Для выполнения на кнопку питания</string>
+     <string name="smarthome_scene_open_device">Загрузка</string>
+     <string name="smarthome_scene_outline">Выключить</string>
+     <string name="smarthome_scene_play_url">Воспроизвести данное видео</string>
+     <string name="smarthome_scene_quest_ok">Нажмите OK для выхода</string>
+     <string name="smarthome_scene_quit">После выхода будут утеряны все изменения, нажмите ОК, чтобы выйти?</string>
+     <string name="smarthome_scene_radio">Открыть интернет радио</string>
+     <string name="smarthome_scene_record_actions">Запись в сочетании инструкции</string>
+     <string name="smarthome_scene_router_pause_all_download_mission">Приостановить все загрузки</string>
+     <string name="smarthome_scene_router_resume_all_download_mission">Открыть все загрузки</string>
+     <string name="smarthome_scene_saving_scene">Сохранение умной функции</string>
+     <string name="smarthome_scene_set_fail">Ошибка создания умной функции, пожалуйста попробуйте еще раз</string>
+     <string name="smarthome_scene_set_fail_at_least_0">Пожалуйста, выберите хотя бы одно устройство для работы</string>
+     <string name="smarthome_scene_set_name">Задать имя</string>
+     <string name="smarthome_scene_set_succ">Функция умная сцена добавлена</string>
+     <string name="smarthome_scene_set_time">Установка времени</string>
+     <string name="smarthome_scene_seven_new">Воспроизвести последний фильм</string>
+     <string name="smarthome_scene_some_device_offline">Выбранная часть устройства не в сети, часть операции не может быть выполнена</string>
+     <string name="smarthome_scene_start">Умная функция запущена</string>
+     <string name="smarthome_scene_start_click">Нажмите для запуска</string>
+     <string name="smarthome_scene_start_click_setting">Нажмите Пуск</string>
+     <string name="smarthome_scene_start_complete">Умная функция остановлена</string>
+     <string name="smarthome_scene_start_condition">Просмотр состояния</string>
+     <string name="smarthome_scene_start_error">Ошибка умной функции, попробуйте еще раз</string>
+     <string name="smarthome_scene_start_gohome">Устройство подключено</string>
+     <string name="smarthome_scene_start_leavehome">Устройство отключено</string>
+     <string name="smarthome_scene_start_timer">Отложить старт</string>
+     <string name="smarthome_scene_start_when">После запуска</string>
+     <string name="smarthome_scene_stop_scene">Прервать выполнение</string>
+     <string name="smarthome_scene_stop_scene_error">Выполнение прерывания функции не удалось, попробуйте еще раз</string>
+     <string name="smarthome_scene_timer_day">Каждый</string>
+     <string name="smarthome_scene_timer_everyday">каждый</string>
+     <string name="smarthome_scene_timer_once">выполнить только один раз</string>
+     <string name="smarthome_scene_timer_repeat">Повторить</string>
+     <string name="smarthome_scene_timer_title">Будильник</string>
+     <string name="smarthome_scene_timer_workday">дней</string>
+     <string name="smarthome_scene_undefine">Без установки</string>
+     <string name="smarthome_scene_update_fail">Ошибка обновления умной функции, пожалуйста попробуйте еще раз</string>
+     <string name="smarthome_scene_update_succ">Обновление умной функции завершено</string>
+     <string name="smarthome_scene_updating_scene">Обновляются умные настройки функции</string>
+     <string name="smarthome_scene_wan_disconnect_processing">Задача будет выполнена</string>
+     <string name="smarthome_score">Индекс разумности</string>
+     <string name="smarthome_see_now">Немедленно пойти и посмотреть</string>
+     <string name="smarthome_select_route_video_for_play">Воспроизвести видео с роутера</string>
+     <string name="smarthome_sence_rename">修改场景名称</string>
+     <string name="smarthome_setting_first">Пожалуйста установите действие по умолчанию</string>
+     <string name="smarthome_share_accept">Согласится</string>
+     <string name="smarthome_share_accepted">Согласится</string>
+     <string name="smarthome_share_reject">Отказатся</string>
+     <string name="smarthome_share_rejected">Отказатся</string>
+     <string name="smarthome_share_request_title">% 1$ s поділитися з Вами</string>
+     <string name="smarthome_shared_time_format">dd день MM месяц yyyy год поделился</string>
+     <string name="smarthome_smart_liucheng">Функция умная сцена</string>
+     <string name="smarthome_span_error">Пожалуйста, выберите хотя бы один день</string>
+     <string name="smarthome_switch_status_get_failed">Получить смарт состояние разьема не удалось</string>
+     <string name="smarthome_switch_status_set_failed">Установить состояние смарт разьема не удалось</string>
+     <string name="smarthome_switch_status_setting">Проверка состояния смарт разьема</string>
+     <string name="smarthome_time_hint"> %1$ d: %2$ d</string>
+     <string name="smarthome_timespan_text">Установите таймер работы</string>
+     <string name="smarthome_to_user_status_accept">Принятые</string>
+     <string name="smarthome_to_user_status_reject">Отказатся</string>
+     <string name="smarthome_to_user_status_waiting">В ожидании получения</string>
+     <string name="smarthome_unbind_tips">Отсоединится?</string>
+     <string name="smarthome_unbinding">Отсоеденино</string>
+     <string name="smarthome_unbinding_info">Успешно удалено, для повторного использования перегрузите устройство, нажмите здесь, чтобы просмотреть методы перезагрузки</string>
+     <string name="smarthome_unbinding_title">Описание</string>
+     <string name="smarthome_upload_video_for_play">загрузка с Вашего телефона</string>
+     <string name="some_device_bind_error">Устройство недоступно, убедитесь что оно не используется другим аккаунтом</string>
+     <string name="splash_loading">Соединение ...</string>
+     <string name="startSlide">Запустить слайд-шоу</string>
+     <string name="start_upload_media_files">Начать загрузку</string>
+     <string name="status_error_cable_not_plugin_body">Проверьте правильность настройки сетевого соединения</string>
+     <string name="stopVideo">Стоп</string>
+     <string name="stopped">Стоп</string>
+     <string name="storage_feedback">Удаленное хранение</string>
+     <string name="sunday">Воскресенье</string>
+     <string name="switch_control_power_description">Питание в режиме реального времени</string>
+     <string name="switch_control_power_unit">w</string>
+     <string name="switch_wifi">Настройки сети</string>
+     <string name="terminal_feedback">Интелектуальное устройство</string>
+     <string name="ths_feed">Ваша обратная связь, является движущей силой нашего прогресса каждый день!</string>
+     <string name="thursday">Четверг</string>
+     <string name="tuesday">Вторник</string>
+     <string name="tv_play_camera_not_local">手机和电视不在一个局域网</string>
+     <string name="tv_play_camera_rom_old">请升级电视系统版本或者和电视账号一致</string>
+     <string name="um_share_score_share_no_install">Не установлено приложение, Вы не можете поделиться</string>
+     <string name="um_string_buy_time_01">下单之后预计在</string>
+     <string name="um_string_buy_time_02">年</string>
+     <string name="um_string_buy_time_03">月</string>
+     <string name="um_string_buy_time_04">日送货</string>
+     <string name="um_string_buy_time_05">天</string>
+     <string name="um_string_buy_time_06">次</string>
+     <string name="um_string_c1_max">365</string>
+     <string name="um_string_c2_max">180</string>
+     <string name="um_string_chart_date01">TDS значение</string>
+     <string name="um_string_chart_date02">Сгенерированный ежемесячный объем воды (л/месяц)</string>
+     <string name="um_string_descride_four">吸附水中的异臭、异味、改善口感,对自来水进行第四级过滤</string>
+     <string name="um_string_descride_one">滤除余氯、杂质颗粒、浑浊物、铁锈等,对自来水进行第一级过滤</string>
+     <string name="um_string_descride_three">孔径0.1纳米,清除水中的细菌、重金属、有机物等有机杂质,对自来水进行第三级过滤</string>
+     <string name="um_string_descride_two">吸附水中的异色异味、余氯及部分有机物,对自来水进行第二级过滤</string>
+     <string name="um_string_flow_01">过滤水量</string>
+     <string name="um_string_flow_02">升</string>
+     <string name="um_string_name_c1">Угольный фильтр предварительной очистки</string>
+     <string name="um_string_name_c2">Угольный фильтр конечной очистки</string>
+     <string name="um_string_name_pp">PP Хлопковый фильтр</string>
+     <string name="um_string_name_ro">RO фильтр обратного осмоса</string>
+     <string name="um_string_pp_max">180</string>
+     <string name="um_string_ro_max">730</string>
+     <string name="um_string_status_01">当前水质可以放心饮用</string>
+     <string name="um_string_status_02">当前水质可以放心饮用</string>
+     <string name="um_string_status_03">当前水质可以放心饮用</string>
+     <string name="um_string_status_start">检测设备状态中</string>
+     <string name="um_string_tds_anim">TDS介绍</string>
+     <string name="um_string_tds_anim_error01">TDS异常?</string>
+     <string name="um_string_tds_anim_error02">查询问题</string>
+     <string name="um_string_time_01">Оставшееся время</string>
+     <string name="um_string_time_02">День</string>
+     <string name="um_string_tu_TDS">TDS характеристика</string>
+     <string name="um_string_tu_usage">Годовая характеристика использования воды</string>
+     <string name="um_string_tu_usage_day">每天用水量</string>
+     <string name="um_string_tu_usage_month">每月用水量</string>
+     <string name="um_string_tu_usage_time">每次用水量</string>
+     <string name="um_string_water_rate">自助缴水费</string>
+     <string name="umback">Возврат</string>
+     <string name="umccontext">Эффективно отфильтровывать могущие присутствовать вредные вещества</string>
+     <string name="umctitle">Последнее испытаное качество воды отличное</string>
+     <string name="umdig">1</string>
+     <string name="umfilterlife">Срок службы фильтра</string>
+     <string name="umimg">umimg</string>
+     <string name="umpwater">Вода</string>
+     <string name="umstring01">0 месяцев 0 дней TDS</string>
+     <string name="umstring02">Местоположение не определено</string>
+     <string name="umstringaddress">Местоположение не определено</string>
+     <string name="umstringccontext01">TDS также ниже, так что вода продолжает течь, позже обнаружения</string>
+     <string name="umstringccontext02">Качество воды не является удовлетворительным, проверить фильтр, если есть замените</string>
+     <string name="umstringcheckerrorcontext">Ошибка соединения с сетью, попробуйте позже</string>
+     <string name="umstringcheckerrortitle">Обнаружение ошибок</string>
+     <string name="umstringcountdetail">Годовой отчет о воде</string>
+     <string name="umstringcountfour">Вы не потеряете ни капли воды,
+вся вода циркулируется</string>
+     <string name="umstringcountone">Использование воды</string>
+     <string name="umstringcountthree">Количество циркулирующей воды</string>
+     <string name="umstringcounttwo">Ваш расход воды в этом месяце</string>
+     <string name="umstringdeliver">Бронирование бесплатной доставки</string>
+     <string name="umstringerror1">Аномальная температура</string>
+     <string name="umstringerror10">Уровень анормальный</string>
+     <string name="umstringerror11">TDS анормальный</string>
+     <string name="umstringerror12">Протекание</string>
+     <string name="umstringerror2">Датчик воды поврежден</string>
+     <string name="umstringerror3">Датчик воды поврежден</string>
+     <string name="umstringerror4">Датчик поврежден</string>
+     <string name="umstringerror5">Ошибка Фильтра</string>
+     <string name="umstringerror6">Ошибка связи Wi-Fi</string>
+     <string name="umstringerror7">Ошибка связи RFID</string>
+     <string name="umstringerror8">Ошибка связи интерфейса пользователя</string>
+     <string name="umstringerror9">Ошибка свзяи накопителя</string>
+     <string name="umstringerrorout">Устройство выключено</string>
+     <string name="umstringintds">TDS воды</string>
+     <string name="umstringinusage">Проточная вода в этом месяце (л / месяц)</string>
+     <string name="umstringinusagetotal">Общий объем использования воды</string>
+     <string name="umstringrecheckbtn">Проверьте еще раз</string>
+     <string name="umstringroDec">Окончательный срок службы фильтра зависит от качества воды и жесткости</string>
+     <string name="umstringrodescridefour">Ответственный за поглощение запаха, улучшает вкус</string>
+     <string name="umstringrodescrideone">Рекомендуется ставить
+перед фильтром грубой очистки</string>
+     <string name="umstringrodescridethree">Ответственный за блокирование,  
+фильтрацию бактерий, тяжелых металлов, 
+органических соединений и других вредных веществ</string>
+     <string name="umstringrodescridetwo">Ответственный за поглощение гетерохроматинового
+привкуса, хлора и других органических веществ</string>
+     <string name="umstringrofourfun">Четвертый этап фильтрования
+последний угольный фильтр</string>
+     <string name="umstringroonefun">Первый этап фильтрования
+PP хлопковый фильтр</string>
+     <string name="umstringrotds">TDS воды</string>
+     <string name="umstringrothreefun">Третий этап фильтрования
+RO фильтр обратного осмоса</string>
+     <string name="umstringrotwofun">Второй этап фильтрования
+предварительный фильтр с активированным углем</string>
+     <string name="umstringrousage">Генерация чистого воздуха (л / месяц)</string>
+     <string name="umstringrousagetotal">Общий очищенный воздух</string>
+     <string name="umstringshare">Очиститель воды, поделиться</string>
+     <string name="umstringtab1">Текущая вода</string>
+     <string name="umstringtab2">Обнаружение фильтра</string>
+     <string name="umstringtab3">Вода</string>
+     <string name="umstringtds">TDS</string>
+     <string name="umstringtuCount">Годовая характиристика использования воды</string>
+     <string name="umstringunit">Всего растворимых сухих веществ (мгр / л)</string>
+     <string name="umtitle">Очиститель воды</string>
+     <string name="umtotal">Кол-во воды в этом месяце</string>
+     <string name="umtwater">кран</string>
+     <string name="unauthoried_tip">Ошибка входа. Пожалуйста, перезайдите</string>
+     <string name="unknown_os">Неизвестная версия</string>
+     <string name="upgrade_check_fail">Временно не в состоянии получить информацию о версии</string>
+     <string name="upgrade_has_update">Обновление</string>
+     <string name="upgrade_has_update_title">Обновление версии</string>
+     <string name="upgrade_new_version">Найти доступные обновления прошивки</string>
+     <string name="upgrade_new_version_cancel">Временно обновить</string>
+     <string name="upgrade_new_version_hint">Найдена новая версия</string>
+     <string name="upgrade_new_version_upgrade">Обновите сейчас</string>
+     <string name="upgrade_no_new_version_hint">Текущая версия</string>
+     <string name="upgrade_pkg_downloaded_title_smarthome">Обновляется ...</string>
+     <string name="upgrade_pkg_downloading_title2_smarthome">Проверка наличия новой версии, скачивание ...</string>
+     <string name="upgrade_pkg_downloading_title_smarthome">Загрузка обновлений</string>
+     <string name="upgrading_error">Обновить не удалось, проверьте сеть и попробуйте еще раз</string>
+     <string name="upload_type">Тип загружаемых файлов</string>
+     <string name="uploading_log_error">Ошибка загрузки журнала APP, попробуйте позже</string>
+     <string name="useable_space">Удаленное хранение</string>
+     <string name="user_license">【重要提示】
+ 请您在开始使用小米智能家庭系列产品（以下简称“本产品”）之前请务必仔细阅读并理解《用户许可使用协议》（以下简称“本协议”）中规定的所有权利和限制。
+ 
+ 小米通讯技术有限公司（以下简称“小米”或“我们”）一向尊重并会严格保护用户在使用本产品时的合法权益（包括用户隐私、用户数据等）不受到任何侵犯。
+ 
+ 本产品包括但不限于小米智能家庭硬件与小米智能家庭软件及其相关的、均由小米开发的产品。本产品中相关的知识产权（包括本产品的一切版权、专利权、商标权等）均属于小米。
+ 
+ 本协议（包括本文最后部分的隐私政策）是用户（包括通过各种合法途径获取到本产品的自然人、法人或其他组织机构，以下简称“用户”或“您“）与小米之间针对本产品相关事项最终的、完整的且排他的协议，并取代、合并之前的当事人之间关于上述事项的讨论和协议。
+ 
+ 本协议将对用户使用本产品的行为产生法律约束力，您已承诺和保证有权利和能力订立本协议。用户开始使用本产品将视为已经接受本协议，请认真阅读并理解本协议中各条款，包括免除和限制小米责任的免责条款和对用户的权利限制（未成年人审阅时应由法定监护人陪同），如果您不能接受本协议中的全部条款，请勿开始使用本产品。（如您已购买了我们的硬件产品但无法接受本协议中的全部条款，硬件产品部分的相关退货政策请查阅http://www.mi.com ）
+ 
+ 1、使用
+ 1.1 帐户
+ 用户无需建立账户即可使用本产品。如果您想使用本产品更多功能，您需要注册小米账号并且于注册页面
+ 上提供相关的个人信息。您必须承诺和保证：
+ 1.1.1 您提交的所有注册信息必须真实准确；
+ 1.1.2 您使用本产品的行为必须合法；
+ 1.1.3 您可以按照小米账号使用说明随时终止使用您的账户。
+ 本产品将会依据本协议第5条的规定保留或终止您的账户。您必须承诺对您的登录信息保密、不被其他人获取与使用，并且对您在本网站账户下的所有行为负责。您必须将任何有可能触犯法律的、未授权使用或怀疑为未授权使用的行为在第一时间通知本产品。本产品不对您因未能遵守上述要求而造成的损失承担法律责任。
+ 1.2 网络加速与故障检测服务
+ 在您使用本产品的过程中，有部分使用场景本产品会在征询您的同意之后对您在使用过程中的一部分网络访问行为进行检测。此举旨在帮助您进行网络加速与并在必要的时候执行故障检测服务。该检测全部由软件程序完成，不会有任何人为监控，只是使用相关的软件程序进行匹配并指引您打开相应的第三方内容或页面。我们承诺将确保您在使用本产品过程中的隐私不会被泄露。
+ 
+ 2、终端用户协议
+ 2.1 许可
+ 依据本协议规定，本产品将授予您以下不可转让的、非排他的许可：
+ 2.1.1 使用本产品的权利；
+ 2.1.2 在您所有的网络通信设备、计算机设备和移动通信设备上下载、安装、使用本产品的权利。
+ 2.2 限制性条款
+ 本协议对您的授权将受到以下限制：
+ 2.2.1 您不得对本产品进行任何形式的许可、出售、租赁、转让、发行或其他商业用途；
+ 2.2.2 除非法律禁止此类限制，否则您不得对本产品的任何部分或衍生产品进行修改、翻译、改编、合并、利用、分解、改造或反向编译、反向工程等；
+ 2.2.3 您不得以创建相同或竞争服务为目的使用本产品；
+ 2.2.4 除非法律明文规定，否则您不得对本产品的任何部分以任何形式或方法进行生产、复制、发行、出售、下载或显示等；
+ 2.2.5 您不得删除或破坏包含在本产品中的任何版权声明或其他所有权标记。
+ 2.3 权利归属
+ 2.3.1 小米许可您使用、下载本产品；
+ 2.3.2 小米（及其“授权人”，如有）拥有本产品的所有相关知识产权。
+ 
+ 2.4 费用
+ 您必须自行负担购买本产品的费用，个人上网或第三方（包括但不限于电信或移动通讯提供商）收取的通讯费、信息费等相关费用。如涉及电信增值服务，我们建议您与增值服务提供商确认相关费用问题。
+ 2.5 任何本产品的更新版本或未来版本、更新或者其他变更将受到本协议约束。
+ 
+ 3、用户内容
+ 3.1 用户内容
+ 3.1.1 用户内容是指该用户下载、发布或以其他方式使用本产品时产生的所有内容（例如：您的信息、图片、音乐或其他内容）。
+ 3.1.2 您是您的用户内容唯一的责任人，您将承担因您的用户内容披露而导致的您或任何第三方被识别的风险。
+ 3.1.3 您已同意您的用户内容受到第4条的限制。
+ 
+ 3.2 反馈
+ 3.2.1 您对小米提出的建议（或称“反馈”），即视为您向小米转让“反馈”的全部权利并同意小米有权利以任何合理方式使用此反馈及其相关信息。我们将视此类反馈信息为非保密且非专有；
+ 3.2.2 您已同意您不会向小米提供任何您视为保密和专有的信息。
+ 3.3 我们将保留基于我们的判断检查用户分享内容的权利（而非义务）
+ 无论通知与否，我们有权在任何时间以任何理由删除和移动您的用户分享内容。依据第5条规定，我们有权保留或终止您的账户。
+ 
+ 4、权利限制
+ 4.1 您已同意通过分享或其他方式使用本产品中的相关服务，在使用过程中，您将承担因下述行为所造成的风险而产生的全部法律责任：
+ 4.1.1 破坏宪法所确定的基本原则的；
+ 4.1.2 危害国家安全、泄露国家秘密、颠覆国家政权、破坏国家统一的；
+ 4.1.3 损害国家荣誉和利益的；
+ 4.1.4 煽动民族仇恨、民族歧视，破坏民族团结的；
+ 4.1.5 破坏国家宗教政策，宣扬邪教和封建迷信的；
+ 4.1.6 散布谣言，扰乱社会秩序，破坏社会稳定的；
+ 4.1.7 散布淫秽、色情、赌博、暴力、凶杀、恐怖或者教唆犯罪的；
+ 4.1.8 侮辱或者诽谤他人，侵害他人合法权益的；
+ 4.1.9 含有法律、行政法规禁止的其他内容的。
+ 4.2 您已同意不在本产品从事下列行为：
+ 4.2.1 发布或分享电脑病毒、蠕虫、恶意代码、故意破坏或改变计算机系统或数据的软件；
+ 4.2.2 未授权的情况下，收集其他用户的信息或数据，例如电子邮箱地址等；
+ 4.2.3 用自动化的方式恶意使用本产品，给服务器造成过度的负担或以其他方式干扰或损害网站服务器和网络链接；
+ 4.2.4 在未授权的情况下，尝试访问本产品的服务器数据或通信数据；
+ 4.2.5 干扰、破坏本产品其他用户的使用。
+ 
+ 5、修改和终止
+ 5.1 修改
+ 5.1.1 本协议容许变更。如果本协议有任何实质性变更，我们将通过电子邮件或本产品官方网站（http://home.mi.com）的公告来通知您。变更通知之后，继续使用本产品则视为您已知晓此类变更并同意接受条款约束。
+ 5.1.2 小米保留在任何时候无需通知而修改、保留或关闭本产品任何服务之权利。
+ 5.1.3 您已同意小米无需因修改、保留或关闭本产品任何服务的行为对您或第三方承担责任。
+ 5.2 终止
+ 5.2.1 本协议自您接受之日起生效，在您使用本产品的过程中持续有效，直至依据本协议终止；
+ 5.2.2 尽管有上述规定，如果您使用本产品的时间早于您接受本协议的时间，您在此知晓并同意本协议于您第一次使用本产品时生效，除非依据本协议提前终止；
+ 5.2.3 我们可能会依据法律的规定，保留您使用本产品或者本网站账户的权利；无论是否通知，我们将在任何时间以任何原因终止本协议，包括出于善意的相信您违反了我们可接受使用政策或本协议的其他规定；
+ 5.2.4 不受前款规定所限，如果用户侵犯第三人的版权且小米接到版权所有人或版权所有人的合法代理人的通知后，小米保留终止本协议的权利；
+ 5.2.5 一旦本协议终止，您使用本产品的权利即告终止。您应当知晓您的产品终止意味着您的用户内容将从我们的活动数据库中删除。小米不因终止本协议对您承担任何责任，包括终止您的用户账户和删除您的用户内容。
+ 
+ 
+ 6、第三方
+ 6.1 您已知晓或同意我们的部分服务是基于第三方的技术支持获得。
+ 您已知晓本协议是在您与小米之间签订，而非您与上述第三方之间签订。小米是基于本产品所产生的内容、维护、支持服务、保证和由此产生的诉讼等事项的唯一责任人。您已同意遵守且授权给本产品限制您有条件地使用本产品的服务。
+ 6.2 第三方信息和服务
+ 6.2.1 本产品包含了第三方的部分信息和服务。小米不控制且不对第三方的信息和服务负责。
+ 6.2.2 小米仅为您使用方便之目的或为承诺和保证第三方之需要而提供此类信息和服务。
+ 6.2.3 用户需对使用第三方信息和服务产生的风险承担法律责任。
+ 6.2.4 当用户访问第三方信息和服务时，适用第三方的条款和政策。
+ 6.3 其他用户
+ 6.3.1 本产品包含其他用户提供的用户内容。本产品不控制且不对用户内容承担法律责任。本产品没有检查、监控、审批、核准、承诺并保证用户内容的义务。您必须因使用用户内容和与其他用户互动产生的风险承担法律责任。
+ 6.3.2 用户与其他用户的互动仅属于您与其他用户之间的行为，本产品对此类行为不承担任何法律责任。您已同意本产品对此类互动行为的结果不承担法律责任。
+ 
+ 7、赔偿
+ 7.1 您已同意无害地使用本产品，避免小米因下述行为或相关行为遭受来自第三方的任何投诉、诉讼、损失、损害、责任、成本和费用（包括律师费）：
+ 7.1.1 用户使用本产品的行为；
+ 7.1.2 用户的用户内容；
+ 7.1.3 用户违反本协议的行为。
+ 7.2 小米保留专属抗辩权和请求赔偿的权利。
+ 7.3 您已同意，除非获得小米书面同意，您不得在您与小米共同对第三方提起的诉讼中单方和解。
+ 7.4 小米将尽合理努力将此类诉讼、诉讼行为或进程通知您。
+ 7.5 在任何情况下，本产品都不对您或任何第三方因本协议产生的任何间接性、后果性、惩戒性的、偶然的、特殊或惩罚性的损害赔偿承担责任。访问、使用本产品所产生的损坏计算机系统或移动通讯设备数据库的风险将由您个人承担。
+ 
+ 8、免责声明
+ 8.1 如发生下述情形，本产品不承担任何法律责任：
+ 8.1.1 依据法律规定或相关政府部门的要求提供您的个人信息；
+ 8.1.2 由于您的使用不当而导致任何个人信息的泄露；
+ 8.1.3 任何由于黑客攻击，电脑病毒侵入，非法内容信息，骚扰信息的屏蔽，政府管制以及其他任何网络、技术、通信线路、信息安全管理措施等原因造成的服务中断、受阻等不能满足用户要求的情形；
+ 8.1.4 用户因第三方如运营商的通讯线路故障、技术问题、网络、电脑故障、系统不稳定及其他因不可抗力造成的损失的情形；
+ 8.1.5 使用本产品可能存在的来自他人匿名或冒名的含有威胁、诽谤、令人反感或非法内容的信息而招致的风险；
+ 8.1.6 本产品明文声明，不以明示或默示及以任何形式对本产品及其合作公司服务之及时性、安全性、准确性做出担保。
+ 
+ 9、隐私政策
+ “小米智能家庭系列产品隐私政策”为本协议的一部分，您可以在本文的最后部分找到。请您认真阅读并理解隐私协议中的所有内容。
+ 
+ 10、通知
+ 10.1 用户必须在小米账号中提供您最近经常使用的有效的电子邮件地址。您所提供的电子邮件地址无法使用或者因任何原因我们无法将通知送达给您而产生的风险，本产品不承担责任。
+ 10.2 本产品发布的公告通知及向您所发送的包含此类通知的电子邮件毫无疑问构成有效通知。
+ 
+ 11、适用法律
+ 11.1 本协议适用中华人民共和国法律。
+ 11.2 如果双方发生纠纷，应本着友好的原则协商解决；如协商不成，应向小米所在地的法院提起诉讼。
+ 
+ 12、独立性
+ 本协议中的某些条款因故无法适用，则本协议的其他条款继续适用且无法适用的条款将会被修改，以便其能够依法适用。
+ 
+ 13、完整性
+ 13.1 本协议（包括隐私政策）是您和本产品之间关于本产品相关事项的最终的、完整的、排他的协议，且取代和合并之前当事人关于此类事项（包括之前的最终用户许可、服务条款和隐私政策）的讨论和协议。 
+ 13.2 每部分的题目只为阅读之便而无任何法律或合同义务。
+ 13.3 除非小米书面同意，您不得转让本协议所规定的权利义务。任何违反上述规定企图转让的行为均无效。
+ 
+ 
+ 
+ 小米智能家庭系列产品 隐私政策
+ 您可以通过多种不同的方式使用我们的服务，例如登录小米官网购买小米智能硬件产品、在不同的终端上使用小米智能家庭软件、服务等。如果您与我们分享信息（例如，通过创建一个小米帐户），我们就能为您提供更好的服务，如显示相关程度更高的产品更新和广告、帮助您与他人联系或者更轻松快捷地与他人分享内容等。基于此目的，我们将向您解释我们对信息的收集和使用方式，以及您可采用什么方式来保护自己的隐私权。
+ 我们的隐私政策包括了以下几个方面的问题：
+ 我们收集哪些信息。
+ 我们如何收集和使用信息。
+ 您如何选择性提供这些信息，以及如何访问和更新这些信息。
+ 信息的分享、安全以及隐私政策的适用范围和修订
+ 
+ 我们收集的信息
+ 我们收集您的两种信息：个人信息（个人信息是可用于唯一地识别或联系某人的数据）和非个人信息（即不会与任何特定个人直接相关联的数据）。如果我们将非个人信息与个人信息合并在一起，在保持合并的期间内，此类信息将被视为个人信息。
+ 
+ 我们如何收集和利用的信息
+ 
+ 个人信息的收集和使用
+ 您与小米通讯技术有限公司（以下简称“小米”或“我们”）及其关联公司进行互动时，您可能会被要求提供您同意使用我们基本产品服务所必需的某些个人信息。该个人信息可能与其他信息合并在一起，被用于改进我们的产品或服务等。
+ 下文是小米可能收集的个人信息的类型以及我们如何使用该信息的一些示例。
+ 
+ 个人信息的收集
+ 当您创建小米账户、下载及更新小米软件、在小米手机在线零售店注册、参加在线调查或者参加其他与小米公司的互动时，我们会要求您提供个人信息，包括但不限于您的姓名、电话号码、电子邮件地址、邮寄地址等。
+ 当您购买小米产品和服务时，我们会收集有关个人信息，包括但不限于：交货详情、银行帐号、信用卡详情、账单地址、信用核查以及其他财务信息、联系及交流的记录等。
+ 当您使用小米产品与家人和朋友分享您的内容、发送信息和产品或者在小米论坛上邀请其他人时，小米会收集您提供的与上述人士有关的个人信息，如姓名、邮寄地址、电子邮件地址及电话号码等。
+ 当您首次使用并激活小米移动设备时，您的移动用户识别信息、移动设备唯一识别码以及您设备的大概地理位置信息将被发送给小米。上述信息的收集也可能适用于您更新系统或软件、恢复出厂设置等情况。
+ 
+ 个人信息的使用
+ 小米将严格遵守本隐私政策及其更新所载明的内容来使用您的个人信息。您的个人信息将仅用于收集时即已确定并且经过您同意的目的，如有除此之外的任何其他用途，我们都会提前征得您的同意。
+ 我们收集的个人信息将被用于向您提供小米的产品和服务、处理您的订单或履行您与小米之间的合同，以确保我们产品和服务的功能和安全、验证您的身份、防止并追究欺诈或其他不当使用的情形。
+ 我们收集的个人信息将被用于我们的产品和服务开发，尽管一般情况下，我们为此目的仅使用综合信息和统计性信息。
+ 我们收集的个人信息将被用于与您进行交流，例如，在小米产品或服务更新、发布的第一时间向您发出通知。
+ 我们所收集的个人信息将被用于进行产品的个性化设计，并向您提供更为贴身的服务，例如：在我们的服务中进行推荐、展示专为您打造的内容和广告或者用于调研。
+ 如果您参与小米举办的抽奖、竞赛或类似推广活动，我们会将您提供的个人信息用于管理此类活动。
+ 您的移动用户识别信息、移动设备唯一识别码和地理位置信息可被用来激活您的保修服务和特定的软件许可，并可能邀请您参加调查。我们也会使用此等信息用于改善我们的产品和分析我们业务运营的效率。但我们不会用此等信息来追踪您的位置情况。
+ 非个人信息的收集和使用
+ 同时，为了运营和改善小米的技术和服务，小米将会自行收集使用您的非个人信息，这将有助于小米向您提供更好的用户体验和提高小米的服务质量。
+ 非个人信息的收集
+ 当您创建小米账户、下载小米软件及其更新、在小米手机在线零售店注册、参加在线调查或者参加其他与小米公司的互动时，我们会收集您诸如职业、语言、邮编、区号以及使用小米产品所在的时区等信息。
+ 使用习惯和发现问题相关的信息——当您在使用小米智能家庭的应用时，我们会根据需要，匿名统计一部分您对网络使用的情况从而为您提供更好的上网体验。此外，当小米智能家庭系统发生非正常状态或崩溃时，我们将可能会收集一些便于诊断问题的环境信息如设备ID、互联网协议地址、路由数据包等。
+ Cookies和其他技术收集的信息——小米的网站、在线服务、互动应用软件、电子邮件消息和广告宣传可能会使用cookies以及如像素标签和网站信标的其他技术来收集和存储您的非个人信息。
+ 日志信息——当您访问小米智能家庭时，我们的服务器会自动记录某些日志信息。这类服务器日志信息可能包含如下信息：IP 地址、浏览器类型、浏览器语言、 refer来源页、操作系统、日期/时间标记和点击流数据。
+ 非个人信息的使用
+ 我们收集的诸如职业、语言、邮编、区号以及使用小米产品所在的时区等非个人信息，可以帮助我们更好地了解用户行为，改进我们的产品、服务和广告宣传。
+ 我们可以通过分析小米“用户体验改进计划”获取的统计数据来持续不断地提升产品和服务的操作体验、运行性能、修复问题、改善功能设计等。
+ 我们通过使用 cookies 和其他技术（例如像素标签）收集到的信息，为您带来更好的用户体验，并提高我们的总体服务品质。例如，通过保存您的语言偏好设置，我们可以用您的首选语言显示我们的服务。我们可以通过使用像素标签向用户发送可阅读格式的电子邮件，并告知我们邮件是否被打开。我们可将此等信息用于减少向用户发送电子邮件或者不向用户发送电子邮件。
+ 用户如何选择性提供信息
+ 每个人对于隐私权的关注各有侧重，基于此，我们将明确指出我们收集信息的方式，以便您选择接受信息的提供方式。
+ 您可以自由设定是否加入“用户体验改进计划”，即可以通过关闭“用户体验改进计划”项的开关从而退出该计划。
+ 您可以从设备设置上修改您设备的定位设置，例如：变更或禁用定位方法或定位服务器，或修改您位置信息的准确性，从而改变向小米提供的位置信息。
+ 您可以根据自己的需要来修改浏览器的设置以拒绝或接受 cookies，也可以随时从您存储设备中将其删除，或者在写入cookies时通知您。
+ 个人信息的访问和更新
+ 通过点击[https://account.xiaomi.com]来登录你的账户，您能够访问并更新自己的个人信息，您也可以删除部分个人信息或者要求我们删除您的个人账户，除非我们出于法律方面的原因而必须保留这些信息。
+ 无论您在何时使用我们的服务，我们都力求让您能够访问自己的个人信息。如果这些信息有误，我们会努力通过各种方式让您快速更新信息或删除信息（除非我们出于合法业务或法律方面的原因而必须保留这些信息）。在更新您的个人信息时，我们可能会要求您先验证自己的身份，然后再处理您的请求。
+ 对于那些无端重复、需要过多技术投入、对他人隐私权造成风险或者非常不切实际的请求，我们可能予以拒绝。
+ 只要我们能够让您访问和修改信息，而且其不需要过多投入，则我们会免费提供。我们力求对服务进行完善的维护，以保护信息免遭意外或恶意的破坏。因此，当您从我们的服务中删除信息后，我们可能不会立即从在用的服务器中删除这些信息的残留副本，也可能不会从备份系统中删除相应的信息。
+ 和第三方分享信息
+ 除非本隐私政策载明的有限共享，我们会严格保密您的个人信息并不会向第三方共享您的个人信息。
+ 您于此授权，以下情形我们将会向第三方共享您的个人信息而无需通过您的同意：
+ 我们因法律调查、诉讼、强制执行或其它法律强制性规定或要求，而同第三方共享这些个人信息。
+ 我们将个人信息提供给我们的子公司、关联公司或其他可信赖的企业或个人，以便其代表我们处理个人信息。我们要求上述各方同意按照我们的规定、本隐私权政策以及其他任何适用的保密和安全措施来处理这些个人信息。
+ 如果我们发生重组、合并或出售，则我们在将我们收集的一切个人信息进行转让之前，继续按照现行的隐私政策约束来保证其秘密性并会通知所有受到影响的用户。
+ 我们可能会基于经营或保护用户的需要，如为了展示我们产品或服务的整体使用趋势，同公众以及合作伙伴合理地分享汇总的非个人信息。
+ 信息安全
+ 我们努力为小米的用户提供保护，以免我们保存的信息在未经授权的情况下被访问、篡改、披露或破坏。为此，我们特别采取了以下措施：
+ 我们使用 SSL 对许多服务进行加密。
+ 我们会审查信息收集、存储和处理方面的做法（包括物理性安全措施），以避免各种系统遭到未经授权的访问。
+ 我们只允许那些为了帮我们处理个人信息而需要知晓这些信息的小米员工、授权代为处理服务公司的人员访问个人信息，而且他们需要履行严格的合同保密义务，如果其未能履行这些义务，就可能会被追究法律责任或被终止其与小米的关系。
+ 对我们来说，您的信息的安全非常重要。因此，我们将不断努力保障您的个人信息安全，并实施存储和传输全程安全加密等保障手段，以免您的信息在未经授权的情况下被访问、使用或披露。同时某些加密数据的具体内容，除了用户自己，其他人都无权访问。
+ 隐私政策的适用范围
+ 我们的隐私政策不适用于第三方产品和/或服务。小米智能家庭系列产品和服务中可能含有第三方产品和服务。当您使用第三方产品或接收第三方服务时，他们可能获取您的信息，因此，我们在此提醒您注意阅读第三方的隐私政策。
+ 同时，本隐私政策不适用于在您点击链接后的外部网站收集数据的行为。
+ 对儿童个人信息的收集和使用
+ 我们建议13周岁以下的儿童在其法定监护人的许可和指导下使用小米产品或服务。
+ 小米不会在明知对方为儿童的情况下收集其个人信息，也不会向任何第三方透露其个人信息，监护人有权拒绝小米及其关联公司进一步收集被监护人的个人信息，或要求小米及其关联公司删除该被监护人个人信息。如果我们发现我们收集了年龄不满13周岁的儿童的个人信息，我们将采取措施尽快地删除此等信息。
+ 本隐私政策的修订
+ 本隐私政策容许调整，未经您明示同意，我们不会削弱您按照本隐私权政策所应享有的权利，除非通过您提供的电子邮件地址向您发送通知或发布网站公告。
+</string>
+     <string name="user_license_btn_text">Условия политики конфиденциальности</string>
+     <string name="version_name_string">Текущая версия: %s</string>
+     <string name="videos_group_name_x_num_x">% s |% d месяцев</string>
+     <string name="volumeDec">Громкость -</string>
+     <string name="volumeInc">Громкость</string>
+     <string name="water_purifier">Очиститель воды</string>
+     <string name="web_shell_loading">Загрузка...</string>
+     <string name="wednesday">Среда</string>
+     <string name="wifi_change_btn_text">Нажмите настройки</string>
+     <string name="wifi_change_hint">Смена Wi-Fi</string>
+     <string name="wifi_connection_correct">1. Проверьте сеть Wi-Fi (2.4ГГц) доступна</string>
+     <string name="wifi_connection_correct_1">2. Проверьте правильность пароля Wi-Fi</string>
+     <string name="wifi_connection_correct_2">3. Перезагрузите устройство перед подключением</string>
+     <string name="wifi_input_content">请手动输入wifi名称和密码</string>
+     <string name="wifi_input_name_hint">请输入wifi名称</string>
+     <string name="wifi_input_passwd_hint">请输入wifi密码</string>
+     <string name="wifi_input_wifi">Wifi连接修改</string>
+     <string name="wifi_log_reset_query">您确定要重置出行设置吗？</string>
+     <string name="wifi_log_set_success">Настройка, Ваше время путешествия будет записано</string>
+     <string name="wifi_log_set_success_sub_title">Время путешествия</string>
+     <string name="wifi_log_title">Журнал отчетов (лаб)</string>
+     <string name="wifi_reconnect_title">Системные настройки</string>
+     <string name="wifi_rescan_wifi">Повторное сканирование</string>
+     <string name="wifi_save_passwd">Сохранить пароль</string>
+     <string name="wifi_scan_new_device">Найдено %1$ d умных устройств, %2$ sнажмите для быстрого подключения нового устройства</string>
+     <string name="wifi_scan_new_device_title">Поиск новых устройств</string>
+     <string name="wifi_scan_new_plug">Найдено %1$ d умных устройств, нажмите для быстрого подключения</string>
+     <string name="wifi_setting_choose">Нажмите выбрать Wi-Fi подключение</string>
+     <string name="wifi_setting_connect">подключение</string>
+     <string name="wifi_setting_connection_failed">Не удалось установить Wi-Fi соединение</string>
+     <string name="wifi_setting_connectting">подключение Wi-Fi...</string>
+     <string name="wifi_setting_icon_text">Пожалуйста, выберите устройства которые будут подключены к Wi-Fi</string>
+     <string name="wifi_setting_title">Будут подключены умные устройства вблизи, убедитесь, что устройства мигают желтым светом</string>
+     <string name="wifi_setting_wifi_opening">Подключение Wi-Fi...</string>
+     <string name="wifi_setting_wifi_scanning">Сканирование Wi-Fi...</string>
+     <string name="wifi_setting_wifi_title">Подключите устройство с помощью Wi-Fi</string>
+     <string name="xiaomi_bytes_unit">%1$sB</string>
+     <string name="xiaomi_external_storage_unavailable">Раздел хранения недоступен, пожалуйста, проверьте SD карту</string>
+     <string name="xiaomi_kilobytes_unit">%1$sКБ</string>
+     <string name="xiaomi_megabytes_unit">%1$sМБ</string>
+     <string name="xiaomi_router">Mi роутер</string>
+     <string name="xiaomi_update_dialog_message">Рекомендуем обновить до последней версии %1$S
+Размер: %2$s</string>
+     <string name="xiaomi_update_dialog_message_diff">Рекомендуем обновить до последней версии %1$S
+Просто загрузите добавочные обновления: %2$s</string>
+     <string name="xiaomi_update_dialog_title">%1$s: Новая версия</string>
+     <string name="yeelight_beach">Пляж</string>
+     <string name="yeelight_passion">Страсть</string>
+     <string name="yeelight_romantic">Романтика</string>
+     <string name="yeelight_sun">Дневной свет</string>
+     <string name="yeelight_warf">Волны</string>
+     <string name="yunyi_camera">Облако пользователя</string>
+</resources>

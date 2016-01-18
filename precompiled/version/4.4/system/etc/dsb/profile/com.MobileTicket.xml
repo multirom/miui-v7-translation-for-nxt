@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<profile>
+    <activity name="MobileTicket">
+		<backgroundtype>0</backgroundtype>
+		<color>298ccf</color>
+		<offset>5</offset>
+	</activity>
+</profile>

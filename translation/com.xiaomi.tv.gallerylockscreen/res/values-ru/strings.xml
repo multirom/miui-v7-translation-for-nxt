@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="app_name">Альбомы с изображениями</string>
+     <string name="cancel">Отмена</string>
+     <string name="change_time">Интервал смены обоев</string>
+     <string name="day">1 день</string>
+     <string name="declaration">Используя данный сервис, Вы соглашаетесь с &lt;a href =&apos;http://www.miui.com/res/doc/eula.html?lang=en_US&apos;&gt;Пользовательским соглашением&lt;/a&gt; и &lt;a href=&apos;http://www.miui.com/res/doc/privacy/en.html&apos;&gt;Политикой конфиденциальности&lt;/a&gt;. Для нормальной работы этого приложения необходим доступ к сети.</string>
+     <string name="declaration_title">Условия использования</string>
+     <string name="hour_1">1 час</string>
+     <string name="hour_3">3 часа</string>
+     <string name="lockscreen_magazine_subscribe">Подписчиков: %1$s</string>
+     <string name="lockscreen_magazine_summary">Для добавления изображений в свой альбом, скопируйте их в MIUI/lock_wallpaper</string>
+     <string name="lockscreen_magazine_system_subscribe">Изображений: %1$s</string>
+     <string name="lockscreen_magazine_system_title">Свой альбом</string>
+     <string name="lockscreen_magazine_title">Альбомы с изображениями</string>
+     <string name="no_long_show">Больше не показывать</string>
+     <string name="ok">OK</string>
+     <string name="resource_apply">Применить</string>
+     <string name="resource_no_network_text">Не удаётся подключиться к сети.</string>
+     <string name="setting_head">Настройки</string>
+     <string name="theme_apply_failured">Не удалось применить обои экрана блокировки</string>
+     <string name="theme_apply_success">Обои экрана блокировки применены</string>
+     <string name="theme_applying">Применение…</string>
+     <string name="wlan_download">Только по Wi-Fi</string>
+</resources>

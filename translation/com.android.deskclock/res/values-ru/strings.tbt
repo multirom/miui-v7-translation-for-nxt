@@ -1,0 +1,6 @@
+<string name="battery_charging_level">%d%%</string>
+<string name="elapsed_time_format">+%s</string>
+<string name="day_of_week_label_typeface">sans-serif</string>
+<string name="sans_serif">sans-serif</string>
+     <string name="radial_numbers_typeface">sans-serif</string>
+     <string name="timer_alarm_alert_pad">%s</string>

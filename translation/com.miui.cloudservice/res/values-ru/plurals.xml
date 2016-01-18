@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="dirty_contacts_count">
+        <item quantity="other">контакты: %d</item>
+        <item quantity="one">контакты: %d</item>
+    </plurals>
+    <plurals name="dirty_mms_count">
+        <item quantity="other">сообщения: %d</item>
+        <item quantity="one">сообщения: %d</item>
+    </plurals>
+    <plurals name="dirty_note_count">
+        <item quantity="other">заметки: %d</item>
+        <item quantity="one">заметки: %d</item>
+    </plurals>
+    <plurals name="dirty_image_count">
+        <item quantity="other">фото: %d</item>
+        <item quantity="one">фото: %d</item>
+    </plurals>
+</resources>

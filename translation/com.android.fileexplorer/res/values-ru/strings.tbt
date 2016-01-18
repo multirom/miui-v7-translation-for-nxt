@@ -1,0 +1,12 @@
+<string name="big5_title">BIG5</string>
+<string name="category_default_number_text">(0)</string>
+<string name="directory_info_divider">  |  </string>
+<string name="download_current_progress">%1$d%%</string>
+<string name="gbk_title">GBK</string>
+<string name="utf8_title">UTF-8</string>
+<string name="search_statistic_match_invalid">0</string>
+<string name="search_statistic_match_valid">1</string>
+<string name="search_statistic_appname">source</string>
+<string name="search_statistic_keyword">keyin</string>
+<string name="search_statistic_tag">tag</string>
+<string name="notification_name_combine">zh_cn=%1$s&amp;zh_tw=%2$s&amp;=%3$s</string>

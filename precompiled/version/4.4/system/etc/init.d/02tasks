@@ -1,0 +1,48 @@
+#!/system/bin/sh
+busybox renice -19 `busybox pidof com.android.systemui` >> /dev/init.d.loader.log
+busybox renice -19 `busybox pidof com.miui.home` >> /dev/init.d.loader.log
+
+if [ ! -d /data/data/com.android.phone ]; then
+	busybox renice -20 `busybox pidof com.android.phone` >> /dev/init.d.loader.log
+fi
+if [ ! -d /data/data/com.android.inputmethod.latin ]; then
+	busybox renice -19 `busybox pidof com.android.inputmethod.latin` >> /dev/init.d.loader.log
+fi
+if [ ! -d /data/data/antonio.com.android.inputmethod.latin ]; then
+	busybox renice -19 `busybox pidof antonio.com.android.inputmethod.latin` >> /dev/init.d.loader.log
+fi
+if [ ! -d /data/data/com.swype.android.inputmethod ]; then
+	busybox renice -19 `busybox pidof com.swype.android.inputmethod` >> /dev/init.d.loader.log
+fi
+if [ ! -d /data/data/com.android.settings ]; then
+	busybox renice -9 `busybox pidof com.android.settings` >> /dev/init.d.loader.log
+fi
+if [ ! -d /data/data/com.android.vending ]; then
+	busybox renice -9 `busybox pidof com.android.vending` >> /dev/init.d.loader.log
+fi
+if [ ! -d /data/data/com.google.android.apps.maps ]; then
+	busybox renice -6 `busybox pidof com.google.android.apps.maps` >> /dev/init.d.loader.log
+fi
+if [ ! -d /data/data/com.google.android.apps.googlevoice ]; then
+	busybox renice -4 `busybox pidof com.google.android.apps.googlevoice` >> /dev/init.d.loader.log
+fi
+if [ ! -d /data/data/android.process.media ]; then
+	busybox renice -3 `busybox pidof android.process.media` >> /dev/init.d.loader.log
+fi
+
+##########---------- FileSystem Trimmer (by sMIUI)
+trimcache=`busybox2 fstrim -v /cache`
+trimdata=`busybox2 fstrim -v /data`
+trimsystem=`busybox2 fstrim -v /system`
+echo "`date "+%d-%m-%Y %H:%M:%S -- "`$(basename $0) -- FsTrim $trimcache" >> /dev/init.d.loader.log
+echo "`date "+%d-%m-%Y %H:%M:%S -- "`$(basename $0) -- FsTrim $trimdata" >> /dev/init.d.loader.log
+echo "`date "+%d-%m-%Y %H:%M:%S -- "`$(basename $0) -- FsTrim $trimsystem" >> /dev/init.d.loader.log
+##########---------- Tune sqLite Files (by sMIUI)
+echo "`date "+%d-%m-%Y %H:%M:%S -- "`$(basename $0) -- Tuning SQL Files..." >> /dev/init.d.loader.log
+for i in `find /data/data/ -iname "*.db"`
+do
+	sqlite3 $i 'VACUUM;' >> /dev/init.d.loader.log 
+done
+
+echo "500" > /proc/sys/vm/dirty_expire_centisecs
+echo "1000" > /proc/sys/vm/dirty_writeback_centisecs

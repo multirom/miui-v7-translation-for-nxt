@@ -1,0 +1,6 @@
+<string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
+<string name="durationformatshort">%2$2d:%5$02d</string>
+<string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
+<string name="home_indicator">bottom_point</string>
+<string name="process"></string>
+<string name="sharedUserId"></string>

@@ -1,0 +1,11 @@
+<string name="apps_search_activity"></string>
+<string name="browser_search_component">com.android.browser/.BookmarkSearch</string>
+<string name="default_search_domain">.google.com</string>
+<string name="google_search_base">http://www.google.com/m?hl=%1$s</string>
+<string name="google_search_base_pattern">http://%1$s/m?hl=%2$s</string>
+<string name="google_search_label">Google</string>
+<string name="google_suggest_base">http://www.google.com/complete/search?hl=%1$s&client=android&q=</string>
+<string name="installed_apps_component">com.android.providers.applications/.ApplicationLauncher</string>
+<string name="send_secret_code">Send secret code</string>
+<string name="voice_search_hint_quotation_end">"</string>
+<string name="voice_search_hint_quotation_start">"</string>

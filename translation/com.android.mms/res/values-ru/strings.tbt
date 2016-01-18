@@ -1,0 +1,9 @@
+<string name="conversation_style">bubble</string>
+<string name="flatshow_page_no">%1$d</string>
+<string name="mms">MMS</string>
+<string name="prefDefault_ringtone_repeat">1</string>
+<string name="prefDefault_vibrateWhen">never</string>
+<string name="prefDefault_vibrate_false">never</string>
+<string name="prefDefault_vibrate_true">always</string>
+<string name="recipient_editor_count_format">%d</string>
+<string name="audio_playing_seconds">%d&quot;</string>

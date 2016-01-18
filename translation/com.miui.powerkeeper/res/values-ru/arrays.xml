@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="group_name_translate">
+        <item>Режим по умолчанию</item>
+        <item>Фоновый режим</item>
+        <item>Режим чтения</item>
+        <item>Режим медиа</item>
+    </string-array>
+    <string-array name="event_name_translate">
+        <item>Приложение в фоне</item>
+        <item>Экран включен</item>
+        <item>Экран выключен</item>
+        <item>Выключение экрана через 10 минут</item>
+        <item>Полноэкранный режим</item>
+        <item>Выйти из полноэкранного режима</item>
+        <item>Приложение в фоне</item>
+        <item>Устройство заряжается</item>
+        <item>Устройство не заряжается</item>
+        <item>Устройство в обычном режиме</item>
+    </string-array>
+    <string-array name="action_name_translate">
+        <item>Максимальная яркость</item>
+        <item>Максимальная частота ЦП</item>
+        <item>Режим экрана</item>
+        <item>Использование ЦП</item>
+        <item>Подключение к интернету</item>
+        <item>Местоположение</item>
+        <item>Первое уведомление</item>
+        <item>Уведомления на экране блокировки</item>
+    </string-array>
+    <string-array name="action_param_translate">
+        <item>Нет операций</item>
+        <item>Стандарт</item>
+        <item>Фото</item>
+        <item>Видео</item>
+        <item>Энергосбережение</item>
+        <item>Баланс</item>
+        <item>Производительность</item>
+        <item>Включить</item>
+        <item>Выключить</item>
+    </string-array>
+    <string-array name="app_groups">
+        <item>Выбранные</item>
+        <item>Невыбранные</item>
+        <item>Другие</item>
+    </string-array>
+    <string-array name="hmode_app_groups">
+        <item>Пользовательские настройки</item>
+        <item>Стандартные настройки</item>
+    </string-array>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="agree">ОК</string>
+     <string name="always_wifi_scan_tip_content">Разрешить поиск Wi-Fi сетей, даже если Wi-Fi выключен</string>
+     <string name="always_wifi_scan_tip_tittle"></string>
+     <string name="app_label">Местоположение Baidu</string>
+     <string name="app_name">Местоположение Baidu</string>
+     <string name="close_agree">ОК</string>
+     <string name="close_disagree">Отмена</string>
+     <string name="disagree">Отмена</string>
+     <string name="location_close_warning_message">Определение местоположения по сети невозможно, если сервис Baidu выключен</string>
+     <string name="location_first_warning_message">Для определения местоположения по сети будет включен сервис Baidu</string>
+     <string name="location_warning_message">Используя сервис определения местоположения по сети Baidu, Вы соглашаетесь с тем, что сервис будет собирать данные о Вашем местоположении. Сбор данных может осуществятся даже если ни одно приложение не запущено. Собранные данные будут использованы для определения местоположения и улучшения точности определения. При сборе данных будет потребляться трафик. Мы обещаем, что не будем использовать эти данные в каких-либо других целях или передавать другим лицам. Собираемые данные содержат информацию о названиях и уровнях сигнала точек доступа Wi-Fi, базовых станций (GSM и CDMA сети).</string>
+     <string name="location_warning_message_1">Разрешить сервису определения местоположения Baidu собирать данные о Вашем местоположении. Сбор данных может осуществятся даже если ни одно приложение не запущено. Собранные данные будут использованы для определения местоположения и улучшения точности определения. При сборе данных будет потребляться трафик.</string>
+     <string name="location_warning_title">Уведомление</string>
+     <string name="location_warning_title_1">Уведомление</string>
+     <string name="location_warning_title_close">Уведомление</string>
+     <string name="location_warning_title_close_1">Уведомление</string>
+     <string name="location_warning_title_first">Уведомление</string>
+     <string name="location_warning_title_first_1">Уведомление</string>
+</resources>

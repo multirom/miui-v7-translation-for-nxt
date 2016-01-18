@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<profile>
+	<activity name="AllActivities">
+		<backgroundtype>0</backgroundtype>
+		<color>333333</color>
+	</activity>
+</profile>

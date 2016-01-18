@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with CloudBuildr -->
+<resources>
+     <plurals name="v5_edit_mode_title">
+        <item quantity="other">Выбрано: %1$d</item>
+        <item quantity="one">Выбрано: %1$d</item>
+     </plurals>
+     <plurals name="video_download_clear_info">
+        <item quantity="other">Удалено %1$d видео.</item>
+        <item quantity="one">Удалено %1$d видео.</item>
+     </plurals>
+     <plurals name="video_download_clear_prompt">
+        <item quantity="other">Удалить %1$d видео?</item>
+        <item quantity="one">Удалить %1$d видео?</item>
+     </plurals>
+     <plurals name="video_history_clear_info">
+        <item quantity="other">Удалено из истории %1$d элементов.</item>
+        <item quantity="one">Удалено из истории %1$d элемент.</item>
+        <item quantity="few">Удалено из истории %1$d элемента.</item>
+        <item quantity="many">Удалено из истории %1$d элементов.</item>
+     </plurals>
+     <plurals name="video_history_clear_prompt">
+        <item quantity="other">Удалить из истории %1$d элементов?</item>
+        <item quantity="one">Удалить из истории %1$d элемент?</item>
+        <item quantity="few">Удалить из истории %1$d элемента?</item>
+        <item quantity="many">Удалить из истории %1$d элементов?</item>
+     </plurals>
+     <plurals name="miui_edit_mode_title">
+        <item quantity="other">Выбрано: %1$d</item>
+        <item quantity="one">Выбрано: %1$d</item>
+     </plurals>
+     <plurals name="webview_last_num_days">
+        <item quantity="other">Последние %d дней</item>
+     </plurals>
+     <plurals name="matches_found">
+        <item quantity="one">Совпадений: 1</item>
+        <item quantity="other">%1$d из %2$d</item>
+     </plurals>
+     <plurals name="webview_matches_found">
+        <item quantity="one">Совпадений: 1</item>
+        <item quantity="other">%1$d из %2$d</item>
+     </plurals>
+     <plurals name="adblock_rules_number_text">
+        <item quantity="other">Заблокировано: %d</item>
+        <item quantity="one">Заблокировано: %d</item>
+     </plurals>
+     <plurals name="find_on_page_matches">
+        <item quantity="other">Совпадений: %d</item>
+        <item quantity="one">Совпадений: %d</item>
+     </plurals>
+     <plurals name="suggest_access_item_album_songs">
+        <item quantity="other">Песен: %d</item>
+        <item quantity="one">%d песня</item>
+     </plurals>
+     <plurals name="suggest_access_item_singer_albums">
+        <item quantity="other">Альбомов: %d</item>
+        <item quantity="one">%d альбом</item>
+     </plurals>
+     <plurals name="suggest_access_item_singer_pop">
+        <item quantity="other">Популярных песен: %d</item>
+        <item quantity="one">%d популярная песня</item>
+     </plurals>
+     <plurals name="edit_mode_title">
+        <item quantity="other">Выбрано: %1$d</item>
+        <item quantity="one">Выбрано: %1$d</item>
+     </plurals>
+     <plurals name="last_num_days">
+        <item quantity="other">Последние %d дней</item>
+     </plurals>
+</resources>

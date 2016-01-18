@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="enable_online_radio">false</bool>
+    <bool name="enable_mi_account">false</bool>
+    <bool name="enable_tone_quality">false</bool>
+    <bool name="enable_sleep_mode">false</bool>
+    <bool name="enable_auto_download">false</bool>
+    <bool name="enable_download_quality">false</bool>
+    <bool name="enable_data_usage_hint">false</bool>
+    <bool name="priority_storage">true</bool>
+</resources>

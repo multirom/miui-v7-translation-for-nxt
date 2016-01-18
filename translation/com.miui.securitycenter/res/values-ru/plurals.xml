@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="power_center_battery_day">
+        <item quantity="other">%d дн. </item>
+        <item quantity="one">%d дн. </item>
+    </plurals>
+    <plurals name="power_center_battery_hour">
+        <item quantity="other">%d ч. </item>
+        <item quantity="one">%d ч. </item>
+    </plurals>
+    <plurals name="power_center_battery_minute">
+        <item quantity="other">%d мин. </item>
+        <item quantity="one">%d мин. </item>
+    </plurals>
+    <plurals name="hints_apps_perm_count">
+        <item quantity="zero">Нет разрешений</item>
+        <item quantity="one">%d разрешение</item>
+        <item quantity="few">%d разрешения</item>
+        <item quantity="many">%d разрешений</item>
+    </plurals>
+    <plurals name="hints_auto_start_disable_title">
+        <item quantity="other">Приложений с запрещенным автозапуском: %d</item>
+        <item quantity="one">Приложений с запрещенным автозапуском: %d</item>
+    </plurals>
+    <plurals name="hints_auto_start_enable_title">
+        <item quantity="other">Приложений с разрешенным автозапуском: %d</item>
+        <item quantity="one">Приложений с разрешенным автозапуском: %d</item>
+    </plurals>
+    <plurals name="hints_get_root_disable_title">
+        <item quantity="other">Приложений без прав администратора: %d</item>
+        <item quantity="one">Приложений без прав администратора: %d</item>
+    </plurals>
+    <plurals name="hints_get_root_enable_title">
+        <item quantity="other">Приложений с правами администратора: %d</item>
+        <item quantity="one">Приложений с правами администратора: %d</item>
+    </plurals>
+    <plurals name="hints_permission_apps_count">
+        <item quantity="zero">Нет приложений</item>
+        <item quantity="one">%d приложение</item>
+        <item quantity="few">%d приложения</item>
+        <item quantity="many">%d приложений</item>
+    </plurals>
+    <plurals name="summary_app_update">
+        <item quantity="zero">Нет обновлений</item>
+        <item quantity="one">Доступно обновление для %d приложения</item>
+        <item quantity="few">Доступно обновление для %d приложений</item>
+        <item quantity="many">Доступно обновление для %d приложений</item>
+    </plurals>
+</resources>

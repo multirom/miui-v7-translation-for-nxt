@@ -1,0 +1,7 @@
+/* 0x01000004 - other   0x01000005 - zero   0x01000006 - one   0x01000007 - two   0x01000008 - few   0x01000009 - many */hints_apps_perm_count: {bag00000000,0x01000004=%d permissions,0x01000006=%d permission}
+hints_auto_start_disable_title: {bag00000000,0x01000004=%d apps aren't allowed to autostart,0x01000006=%d app isn't allowed to autostart}
+hints_auto_start_enable_title: {bag00000000,0x01000004=%d apps can autostart,0x01000006=%d app can autostart}
+hints_get_root_disable_title: {bag00000000,0x01000004=%d apps don't have root access,0x01000006=%d app doesn't have root access}
+hints_get_root_enable_title: {bag00000000,0x01000004=%d apps have root access,0x01000006=%d app has root access}
+hints_permission_apps_count: {bag00000000,0x01000004=%d apps,0x01000006=%d app}
+summary_app_update: {bag00000000,0x01000004=Updates available for %d apps.,0x01000006=Update available for %d app.}

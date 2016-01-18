@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<profile>
+    <activity name="cn.wps.moffice.writer.multiactivity.Writer1">
+		<color>3792df</color>
+	</activity>
+    <activity name="cn.wps.moffice.pdf.multiactivity.PDFReader1">
+		<color>da4336</color>
+	</activity>
+    <activity name="cn.wps.moffice.documentmanager.PreStartActivity">
+		<color>f2f2f2</color>
+	</activity>
+    <activity name="cn.wps.moffice.documentmanager.DocumentManager">
+		<color>f2f2f2</color>
+	</activity>
+    <activity name="cn.wps.moffice.spreadsheet.multiactivity.Spreadsheet1">
+		<color>31a06b</color>
+	</activity>
+	<activity name="cn.wps.moffice.presentation.multiactivity.Presentation1">
+		<color>e0793b</color>
+	</activity>
+	<activity name="cn.wps.moffice.startactivity.presentation.StartPresentationActivity1">
+		<color>e0793b</color>
+	</activity>
+	<activity name="cn.wps.moffice.main.local.home.HomeActivity">
+		<color>f0f0f0</color>
+	</activity>
+</profile>

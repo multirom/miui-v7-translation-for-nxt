@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<profile>
+    <activity name="activity.DictSplashActivity">
+		<color>ffffff</color>
+	</activity>
+	<activity name="activity.MainActivity">
+		<color>2c2c2c</color>
+		<offset>8</offset>
+	</activity>
+</profile>

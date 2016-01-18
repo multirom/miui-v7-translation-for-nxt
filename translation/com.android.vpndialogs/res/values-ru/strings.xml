@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="accept">Доверять приложению</string>
+     <string name="configure">Настроить</string>
+     <string name="data_received">Получено:</string>
+     <string name="data_transmitted">Отправлено:</string>
+     <string name="data_value_format">%1$s Б / пакетов: %2$s</string>
+     <string name="disconnect">Разъединить</string>
+     <string name="duration">Продолжительность:</string>
+     <string name="legacy_title">VPN подключено</string>
+     <string name="prompt">Запрос на соединение</string>
+     <string name="session">Сессия:</string>
+     <string name="warning">Приложение «%s» пытается подключиться к сети VPN, чтобы отслеживать трафик. Этот запрос следует принимать, только если вы доверяете источнику. <br/><br/>Когда подключение VPN активно, в верхней части экрана появляется значок &lt;img src=vpn_icon /&gt;.</string>
+</resources>

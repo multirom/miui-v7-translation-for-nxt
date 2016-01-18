@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with CloudBuildr -->
+<resources>
+     <plurals name="toast_channel_searched">
+        <item quantity="other">Знайдено %1$d станцій</item>
+		<item quantity="zero">Знайдено %1$d станцій</item>
+        <item quantity="one">Знайдено %1$d станція</item>
+		<item quantity="two">Знайдено %1$d станції</item>
+        <item quantity="few">Знайдено %1$d станції</item>
+        <item quantity="many">Знайдено %1$d станцій</item>
+     </plurals>
+</resources>

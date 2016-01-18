@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with NXT -->
+<resources>
+     <plurals name="more_coupons_count">
+        <item quantity="other">Купонов: %d</item>
+        <item quantity="one">Купонов: 1</item>
+     </plurals>
+	 <plurals name="review_count">
+        <item quantity="other">Посмотреть все комментарии %d</item>
+        <item quantity="one">Посмотреть 1 комментарий</item>
+     </plurals>
+</resources>

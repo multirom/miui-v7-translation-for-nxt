@@ -1,0 +1,55 @@
+/* color_picker_colors: {bag00000000,0x02000000={t=0x01 d=0x7f0b000c},0x02000001={t=0x01 d=0x7f0b000d},0x02000002={t=0x01 d=0x7f0b000e},0x02000003={t=0x01 d=0x7f0b000f},0x02000004={t=0x01 d=0x7f0b0010},0x02000005={t=0x01 d=0x7f0b0011},0x02000006={t=0x01 d=0x7f0b0012},0x02000007={t=0x01 d=0x7f0b0013},0x02000008={t=0x01 d=0x7f0b0014},0x02000009={t=0x01 d=0x7f0b0015},0x0200000a={t=0x01 d=0x7f0b0016},0x0200000b={t=0x01 d=0x7f0b0017},0x0200000c={t=0x01 d=0x7f0b0018},0x0200000d={t=0x01 d=0x7f0b0019},0x0200000e={t=0x01 d=0x7f0b001a},0x0200000f={t=0x01 d=0x7f0b001b},0x02000010={t=0x01 d=0x7f0b001c},0x02000011={t=0x01 d=0x7f0b001d},0x02000012={t=0x01 d=0x7f0b001e},0x02000013={t=0x01 d=0x7f0b001f},0x02000014={t=0x01 d=0x7f0b0020},0x02000015={t=0x01 d=0x7f0b0021},0x02000016={t=0x01 d=0x7f0b0022},0x02000017={t=0x01 d=0x7f0b0023}} */
+    <string-array name="color_picker_colors">
+    </string-array>
+/* count_entries: {bag00000000,0x02000000=0,0x02000001=1,0x02000002=2,0x02000003=3,0x02000004=4,0x02000005=5,0x02000006=6,0x02000007=7,0x02000008=8,0x02000009=9} */
+    <string-array name="count_entries">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+    </string-array>
+/* count_entryValues: {bag00000000,0x02000000={t=0x01 d=0x7f02006b},0x02000001={t=0x01 d=0x7f02006c},0x02000002={t=0x01 d=0x7f02006d},0x02000003={t=0x01 d=0x7f02006e},0x02000004={t=0x01 d=0x7f02006f},0x02000005={t=0x01 d=0x7f020070},0x02000006={t=0x01 d=0x7f020071},0x02000007={t=0x01 d=0x7f020072},0x02000008={t=0x01 d=0x7f020073},0x02000009={t=0x01 d=0x7f020074}} */
+    <string-array name="count_entryValues">
+    </string-array>
+/* slideshow_time_entryValues: {bag00000000,0x02000000=300,0x02000001=900,0x02000002=1800,0x02000003=3600,0x02000004=-1} */
+    <string-array name="slideshow_time_entryValues">
+        <item>300</item>
+        <item>900</item>
+        <item>1800</item>
+        <item>3600</item>
+        <item>-1</item>
+    </string-array>
+/* thumb_date_entries: {bag00000000,0x02000000=0,0x02000001=1,0x02000002=2,0x02000003=3,0x02000004=4,0x02000005=5,0x02000006=6,0x02000007=7,0x02000008=8,0x02000009=9} */
+    <string-array name="thumb_date_entries">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+    </string-array>
+/* thumb_date_entryValues: {bag00000000,0x02000000={t=0x01 d=0x7f02016a},0x02000001={t=0x01 d=0x7f02016b},0x02000002={t=0x01 d=0x7f02016c},0x02000003={t=0x01 d=0x7f02016d},0x02000004={t=0x01 d=0x7f02016e},0x02000005={t=0x01 d=0x7f02016f},0x02000006={t=0x01 d=0x7f020170},0x02000007={t=0x01 d=0x7f020171},0x02000008={t=0x01 d=0x7f020172},0x02000009={t=0x01 d=0x7f020173}} */
+    <string-array name="thumb_date_entryValues">
+    </string-array>
+    <string-array name="baby_sexy_value">
+        <item>male</item>
+        <item>female</item>
+    </string-array>
+    <string-array name="owner_relation_value">
+        <item>father</item>
+        <item>mother</item>
+        <item>grandfather</item>
+        <item>grandmother</item>
+        <item>maternalGrandfather</item>
+        <item>maternalGrandmother</item>
+    </string-array>

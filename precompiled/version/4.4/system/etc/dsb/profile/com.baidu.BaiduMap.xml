@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<profile>
+    <activity name="com.baidu.baidumaps.MapsActivity">
+		<color>fafcff</color>
+		<offset>15</offset>
+	</activity>	
+</profile>

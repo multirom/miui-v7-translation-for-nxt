@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <plurals name="dirty_contacts_count">
+        <item quantity="zero">%d контактов</item>
+        <item quantity="one">%d контакт</item>
+        <item quantity="few">%d контакта</item>
+        <item quantity="many">%d контактов</item>
+     </plurals>
+     <plurals name="dirty_mms_count">
+        <item quantity="zero">%d сообщений</item>
+        <item quantity="one">%d сообщение</item>
+        <item quantity="few">%d сообщения</item>
+        <item quantity="many">%d сообщений</item>
+     </plurals>
+     <plurals name="dirty_note_count">
+        <item quantity="zero">%d заметок</item>
+        <item quantity="one">%d заметка</item>
+        <item quantity="few">%d заметки</item>
+        <item quantity="many">%d заметок</item>
+     </plurals>
+     <plurals name="updated_contacts">
+        <item quantity="zero">Обновлено %s контактов</item>
+        <item quantity="one">Обновлён %s контакт</item>
+        <item quantity="few">Обновлено %s контакта</item>
+        <item quantity="many">Обновлено %s контактов</item>
+     </plurals>
+</resources>

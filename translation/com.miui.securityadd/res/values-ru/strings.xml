@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="app_name">Компонент приложения Сервис</string>
+     <string name="app_not_installed_toast">Приложение не установлено на Вашем устройстве.</string>
+     <string name="cancel_button">Отмена</string>
+     <string name="empty"> </string>
+     <string name="main_toolbar_purchase">Пополнить</string>
+     <string name="miuishare_title_more">Еще</string>
+     <string name="miuishare_title_share">Поделиться</string>
+     <string name="miuishare_wechat_timeline_title">WeChat Moments</string>
+     <string name="miuishare_weibo_title">Weibo</string>
+     <string name="month_report_activity_label">Ежемесячный отчет</string>
+     <string name="month_report_click_reconnect_network">Повторить</string>
+     <string name="month_report_disconnect_tip">Не удается подключиться к сети</string>
+     <string name="month_report_follow_service_negative">Отмена</string>
+     <string name="month_report_follow_service_positive">Подписаться</string>
+     <string name="month_report_follow_service_summary">Подпишитесь на новости безопасности, чтобы своевременно получать информацию об угрозах.</string>
+     <string name="month_report_follow_service_title">Новости безопасности</string>
+     <string name="month_report_history_activity_label">История отчетов</string>
+     <string name="month_report_network_dialog_description">Разрешить этому приложению подключаться к сети для получения новостей безопасности?</string>
+     <string name="month_report_network_dialog_positive">Разрешить</string>
+     <string name="month_report_network_dialog_title">Подключение к сети</string>
+     <string name="month_report_result_share">Поделиться</string>
+     <string name="month_report_share_img_fail">Не удалось поделиться</string>
+     <string name="month_report_share_loading">Загрузка…</string>
+     <string name="month_report_warning_dialog_description">Включить ежемесячный отчет о безопасности?</string>
+     <string name="month_report_warning_dialog_positive">Включить</string>
+     <string name="month_report_warning_dialog_title">Отчет о безопасности</string>
+     <string name="network_not_available">Не удалось подключиться к сети</string>
+     <string name="no_network_btn">Повторить</string>
+     <string name="ok_button">OK</string>
+     <string name="open_browser">Открыть в браузере</string>
+     <string name="pm_lable_name">О правах администратора</string>
+     <string name="privacy_declare_dialog_title">Условия использования</string>
+     <string name="privacy_prompt_traffic_purchase_message">Ваш номер телефона и информация об операторе будет отправлена на сервера Xiaomi для получения настроек для Ваших тарифов.</string>
+     <string name="share">Поделиться</string>
+     <string name="title_share_link">Поделиться ссылкой</string>
+     <string name="usage_sorted_loading_text">Загрузка…</string>
+</resources>

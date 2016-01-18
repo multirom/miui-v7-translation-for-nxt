@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="activate_xiaomi_account">Активировать устройство</string>
+     <string name="app_name">Поиск устройства</string>
+     <string name="captcha">Код картинки</string>
+     <string name="change_find_device_status_failed">Не удалось активировать (%s).</string>
+     <string name="default_lock_msg_words">Здравствуйте! Я потерял свой телефон и скоро свяжусь с вами!</string>
+     <string name="default_lock_msg_words_with_phone">Здравствуйте! Я потерял свой телефон. Не могли бы ли вы со смой связаться? Спасибо!</string>
+     <string name="device_lost">Это устройство потеряно</string>
+     <string name="disable_find_device_error">Не удалось выключить «Поиск устройства» (%1$s).</string>
+     <string name="disable_find_device_success">Поиск устройства отключён</string>
+     <string name="enable_find_device_error">Не удалось включить «Поиск устройства» (%1$s).</string>
+     <string name="enable_find_device_success">Поиск устройства включён</string>
+     <string name="find_device">Поиск устройства</string>
+     <string name="find_device_error_account_sys_timeout">Не удалось подключиться к Mi Аккаунту</string>
+     <string name="find_device_error_network">Проверьте подключение к сети и повторите снова.</string>
+     <string name="find_device_error_password_changed">Пароль аккаунта был недавно изменён.</string>
+     <string name="find_device_error_server">Ошибка сервера</string>
+     <string name="find_device_error_unknown">Неизвестная ошибка.</string>
+     <string name="find_device_noise_title">Поиск устройства</string>
+     <string name="find_device_notice_p1">Перейдите на</string>
+     <string name="find_device_notice_p2">i.mi.com</string>
+     <string name="find_device_notice_p3">для поиска, блокировки устройства или восстановления данных.
+Если Вы смените SIM-карту, необходимо будет отправить SMS-сообщение для повторной активации.</string>
+     <string name="find_device_stop_noise">Нажмите OK, чтобы остановить сигнал</string>
+     <string name="find_device_success_title">Поиск устройства</string>
+     <string name="i_know">OK</string>
+     <string name="lock_msg_phone">Контактная информация: %s</string>
+     <string name="login_failed">Не удалось войти</string>
+     <string name="password">Пароль</string>
+     <string name="phone_locked">Это устройство можно привязать к Mi Аккаунту (%s). Войдите в аккаунт для активации устройства.</string>
+     <string name="stop_on_empty_captcha">Введите код</string>
+     <string name="stop_on_empty_password">Введите пароль</string>
+     <string name="unlock">Активировать</string>
+     <string name="unlock_access_denied">Доступ запрещён</string>
+     <string name="unlock_bad_authentication">Неверное имя пользователя или пароль</string>
+     <string name="unlock_error_device_id">Не удается получить ID устройства</string>
+     <string name="unlock_error_interrupted">Прервано</string>
+     <string name="unlock_error_network">Не удалось подключиться к сети</string>
+     <string name="unlock_error_rpc">RPC ошибка</string>
+     <string name="unlock_error_server">Ошибка сервера</string>
+     <string name="unlock_error_ssl_hand_shake">Не удалось подключиться к сети, проверьте настройки даты и времени.</string>
+     <string name="unlock_error_unknown">Не удается войти</string>
+     <string name="unlock_error_user_name">Неверное имя пользователя</string>
+     <string name="unlock_wrong_captcha">Неверный код</string>
+     <string name="unlocking">Активация...</string>
+     <string name="verify_password_failed">Не удалось проверить ID Mi аккаунта (%s).</string>
+</resources>

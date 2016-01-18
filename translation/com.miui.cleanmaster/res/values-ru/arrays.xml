@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="auto_alert_apps_time">
+        <item>Каждые 7 дней</item>
+        <item>Каждые 15 дней</item>
+        <item>Каждые 30 дней</item>
+    </string-array>
+    <string-array name="cache_sort_type">
+        <item>Размер</item>
+        <item>Имя</item>
+    </string-array>
+    <string-array name="large_file_sort_type">
+        <item>Размер</item>
+        <item>Имя</item>
+    </string-array>
+    <string-array name="installed_app_sort_type">
+        <item>Частота использования</item>
+        <item>Размер</item>
+    </string-array>
+    <string-array name="auto_clean_time">
+        <item>Ежедневно</item>
+        <item>Каждые 3 дня</item>
+        <item>Каждые 7 дней</item>
+    </string-array>
+    <string-array name="auto_clean_size">
+        <item>100 Мб</item>
+        <item>300 Мб</item>
+        <item>500 Мб</item>
+        <item>1 Гб</item>
+    </string-array>
+    <string-array name="auto_process_mode">
+        <item>Спрашивать перед очисткой</item>
+        <item>Очищать в фоне</item>
+        <item>Уведомлять после очистки</item>
+    </string-array>
+    <string-array name="apk_clean_menu">
+        <item>Удалить файл</item>
+        <item>Установить</item>
+        <item>Расположение</item>
+        <item>В исключения</item>
+    </string-array>
+    <string-array name="app_clean_menu">
+        <item>Удалить</item>
+    </string-array>
+    <string-array name="cache_clean_menu">
+        <item>Очистить</item>
+        <item>Расположение</item>
+        <item>В исключения файл</item>
+        <item>В исключения приложение</item>
+    </string-array>
+    <string-array name="video_clean_menu">
+        <item>Удалить файл</item>
+        <item>Открыть</item>
+        <item>В исключения</item>
+    </string-array>
+    <string-array name="empty_floder_clean_menu">
+        <item>Очистить</item>
+    </string-array>
+    <string-array name="trash_clean_menu">
+        <item>Очистить</item>
+        <item>Расположение</item>
+        <item>В исключения</item>
+    </string-array>
+</resources>

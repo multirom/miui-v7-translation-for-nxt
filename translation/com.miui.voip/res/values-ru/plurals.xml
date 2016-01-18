@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">Вы в %1$d шагах от входа в режим разработчика Mi Voice.</item>
+        <item quantity="one">Вы в %1$d шаге от входа в режим разработчика Mi Voice.</item>
+    </plurals>
+    <plurals name="show_nondev_countdown">
+        <item quantity="other">Вы в %1$d шагах от выхода из режима разработчика Mi Voice.</item>
+        <item quantity="one">Вы в %1$d шаге от выхода из режима разработчика Mi Voice.</item>
+    </plurals>
+</resources>

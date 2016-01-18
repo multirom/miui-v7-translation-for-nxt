@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="transport_types">
+        <item>UDP</item>
+        <item>TCP</item>
+    </string-array>
+    <string-array name="ims_call_types">
+        <item>Голос</item>
+        <item>Видео</item>
+    </string-array>
+    <string-array name="clir_display_values">
+        <item>Настройки сети по умолчанию</item>
+        <item>Скрыть номер</item>
+        <item>Показывать номер</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices">
+        <item>LTE/WCDMA</item>
+        <item>LTE</item>
+        <item>Global</item>
+        <item>GSM/WCDMA/LTE</item>
+        <item>CDMA + LTE/EvDo</item>
+        <item>CDMA/EvDo/GSM/WCDMA</item>
+        <item>Только EvDo</item>
+        <item>CDMA w/o EvDo</item>
+        <item>CDMA/EvDo авто</item>
+        <item>GSM/WCDMA авто</item>
+        <item>Только WCDMA</item>
+        <item>Только GSM</item>
+        <item>Предпочтительно GSM/WCDMA</item>
+    </string-array>
+    <string-array name="list_language_entries">
+        <item>Английский</item>
+        <item>Французский</item>
+        <item>Испанский</item>
+        <item>Японский</item>
+        <item>Корейский</item>
+        <item>Китайский</item>
+        <item>Иврит</item>
+    </string-array>
+    <string-array name="cdma_system_select_choices">
+        <item>Только домашняя</item>
+        <item>Автоматически</item>
+    </string-array>
+    <string-array name="tty_mode_entries">
+        <item>Телетайп выключен</item>
+        <item>Полнофункциональный телетайп</item>
+        <item>Телетайп с возможностью слышать собеседника</item>
+        <item>Телетайп с возможностью передачи голоса</item>
+    </string-array>
+    <string-array name="dtmf_tone_entries">
+        <item>Обычные</item>
+        <item>Длинные</item>
+    </string-array>
+</resources>
